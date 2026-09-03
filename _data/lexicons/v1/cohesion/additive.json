@@ -1,0 +1,115 @@
+{
+  "category_name": "ADDITIVE_CONJUNCTIONS",
+  "source_file": "words_ADDITIVE_CONJUNCTIONS_expanded.json",
+  "count": 27,
+  "words": [
+    {
+      "word": "and",
+      "reason": "additive conjunction joining propositions without contrast or causation."
+    },
+    {
+      "word": "also",
+      "reason": "additive conjunction adding a further item."
+    },
+    {
+      "word": "furthermore",
+      "reason": "additive conjunction adding a further point."
+    },
+    {
+      "word": "moreover",
+      "reason": "additive conjunction adding a further point."
+    },
+    {
+      "word": "additionally",
+      "reason": "additive conjunction adding a further point."
+    },
+    {
+      "word": "besides",
+      "reason": "additive conjunction adding a further point (additive use)."
+    },
+    {
+      "word": "further",
+      "reason": "additive conjunction adding a further point."
+    },
+    {
+      "word": "plus",
+      "reason": "additive conjunction adding a further item."
+    },
+    {
+      "word": "too",
+      "reason": "additive adjunct adding inclusion."
+    },
+    {
+      "word": "as",
+      "reason": "additive in ‘as well’."
+    },
+    {
+      "word": "well",
+      "reason": "additive in ‘as well’."
+    },
+    {
+      "word": "either",
+      "reason": "additive in correlative ‘either…or’."
+    },
+    {
+      "word": "or",
+      "reason": "additive disjunctive conjunction."
+    },
+    {
+      "word": "nor",
+      "reason": "additive disjunctive conjunction in negative coordination."
+    },
+    {
+      "word": "neither",
+      "reason": "additive disjunctive conjunction in negative correlative."
+    },
+    {
+      "word": "both",
+      "reason": "additive correlative coordinator."
+    },
+    {
+      "word": "not",
+      "reason": "additive in correlative ‘not only…but also’."
+    },
+    {
+      "word": "only",
+      "reason": "additive in correlative ‘not only…but also’."
+    },
+    {
+      "word": "likewise",
+      "reason": "additive conjunction adding by analogy."
+    },
+    {
+      "word": "similarly",
+      "reason": "additive conjunction adding by analogy."
+    },
+    {
+      "word": "equally",
+      "reason": "additive conjunction adding by parity."
+    },
+    {
+      "word": "indeed",
+      "reason": "additive conjunction extending and confirming."
+    },
+    {
+      "word": "again",
+      "reason": "additive conjunction adding a further consideration."
+    },
+    {
+      "word": "incidentally",
+      "reason": "additive conjunction adding a tangential point."
+    },
+    {
+      "word": "alongside",
+      "reason": "additive in ‘alongside this’."
+    },
+    {
+      "word": "apart",
+      "reason": "additive in ‘apart from this’ as additive use."
+    },
+    {
+      "word": "aside",
+      "reason": "additive in ‘aside from this’ as additive use."
+    }
+  ]
+}

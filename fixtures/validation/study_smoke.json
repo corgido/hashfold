@@ -1,0 +1,649 @@
+{
+  "batch_power": [
+    {
+      "batch_size": 10,
+      "ci95": [
+        0.0419835956284,
+        0.16398225503
+      ],
+      "effect_size_sigma0": 0.0514735458364,
+      "epsilon": 0.25,
+      "n_batches": 100,
+      "n_signalled": 9,
+      "perturbation": "hedge_modal_insert",
+      "power": 0.09
+    },
+    {
+      "batch_size": 10,
+      "ci95": [
+        0.388644165162,
+        0.591963670845
+      ],
+      "effect_size_sigma0": 0.780288719758,
+      "epsilon": 1.0,
+      "n_batches": 100,
+      "n_signalled": 49,
+      "perturbation": "hedge_modal_insert",
+      "power": 0.49
+    },
+    {
+      "batch_size": 10,
+      "ci95": [
+        0.0223348860713,
+        0.126029934581
+      ],
+      "effect_size_sigma0": -0.269947369069,
+      "epsilon": 0.25,
+      "n_batches": 100,
+      "n_signalled": 6,
+      "perturbation": "register_mix",
+      "power": 0.06
+    },
+    {
+      "batch_size": 10,
+      "ci95": [
+        0.0,
+        0.0362166926452
+      ],
+      "effect_size_sigma0": 0.475616826632,
+      "epsilon": 1.0,
+      "n_batches": 100,
+      "n_signalled": 0,
+      "perturbation": "register_mix",
+      "power": 0.0
+    }
+  ],
+  "cells": [
+    {
+      "detection": {
+        "ci95": [
+          0.00229897221381,
+          0.412779916988
+        ],
+        "detection_rate": 0.0909090909091,
+        "n_detected": 1,
+        "n_scored": 11,
+        "n_unmeasurable": 0,
+        "threshold_percentile": 95.0
+      },
+      "effect_size_sigma0": 0.0514735458364,
+      "epsilon": 0.25,
+      "mean_edited": 2.63636363636,
+      "mean_sites": 11.9090909091,
+      "median_distance": 1.54890317321,
+      "n_below_envelope": 0,
+      "n_docs": 11,
+      "per_doc": [
+        {
+          "below_envelope": false,
+          "distance": 0.875151290466,
+          "doc": "academic_long_001",
+          "edited": 0,
+          "percentile": 33.3333333333,
+          "sites": 11
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.30601151544,
+          "doc": "academic_long_003",
+          "edited": 2,
+          "percentile": 46.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.54890317321,
+          "doc": "academic_long_005",
+          "edited": 2,
+          "percentile": 46.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.95564596806,
+          "doc": "academic_short_001",
+          "edited": 2,
+          "percentile": 73.3333333333,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.25780791545,
+          "doc": "dialogue_001",
+          "edited": 7,
+          "percentile": 86.6666666667,
+          "sites": 28
+        },
+        {
+          "below_envelope": false,
+          "distance": 3.49386862394,
+          "doc": "discourse_heavy_001",
+          "edited": 0,
+          "percentile": 100.0,
+          "sites": 14
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.36128882744,
+          "doc": "journalism_001",
+          "edited": 3,
+          "percentile": 86.6666666667,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.3748600687,
+          "doc": "literary_001",
+          "edited": 4,
+          "percentile": 86.6666666667,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.17881002777,
+          "doc": "literary_003",
+          "edited": 0,
+          "percentile": 40.0,
+          "sites": 8
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.17375023728,
+          "doc": "llm_technical_001",
+          "edited": 8,
+          "percentile": 40.0,
+          "sites": 17
+        },
+        {
+          "below_envelope": false,
+          "distance": 0.758100558354,
+          "doc": "llm_technical_003",
+          "edited": 1,
+          "percentile": 26.6666666667,
+          "sites": 11
+        }
+      ],
+      "perturbation": "hedge_modal_insert"
+    },
+    {
+      "detection": {
+        "ci95": [
+          0.00229897221381,
+          0.412779916988
+        ],
+        "detection_rate": 0.0909090909091,
+        "n_detected": 1,
+        "n_scored": 11,
+        "n_unmeasurable": 0,
+        "threshold_percentile": 95.0
+      },
+      "effect_size_sigma0": 0.780288719758,
+      "epsilon": 1.0,
+      "mean_edited": 11.9090909091,
+      "mean_sites": 11.9090909091,
+      "median_distance": 2.11410697816,
+      "n_below_envelope": 0,
+      "n_docs": 11,
+      "per_doc": [
+        {
+          "below_envelope": false,
+          "distance": 1.36321306432,
+          "doc": "academic_long_001",
+          "edited": 11,
+          "percentile": 46.6666666667,
+          "sites": 11
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.129363828,
+          "doc": "academic_long_003",
+          "edited": 10,
+          "percentile": 86.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.78820070331,
+          "doc": "academic_long_005",
+          "edited": 10,
+          "percentile": 60.0,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.49100724961,
+          "doc": "academic_short_001",
+          "edited": 10,
+          "percentile": 86.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 3.7943303892,
+          "doc": "dialogue_001",
+          "edited": 28,
+          "percentile": 100.0,
+          "sites": 28
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.66569599739,
+          "doc": "discourse_heavy_001",
+          "edited": 14,
+          "percentile": 93.3333333333,
+          "sites": 14
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.11410697816,
+          "doc": "journalism_001",
+          "edited": 6,
+          "percentile": 86.6666666667,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.18607695283,
+          "doc": "literary_001",
+          "edited": 6,
+          "percentile": 86.6666666667,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.1305402203,
+          "doc": "literary_003",
+          "edited": 8,
+          "percentile": 40.0,
+          "sites": 8
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.77497498412,
+          "doc": "llm_technical_001",
+          "edited": 17,
+          "percentile": 60.0,
+          "sites": 17
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.82348404574,
+          "doc": "llm_technical_003",
+          "edited": 11,
+          "percentile": 73.3333333333,
+          "sites": 11
+        }
+      ],
+      "perturbation": "hedge_modal_insert"
+    },
+    {
+      "detection": {
+        "ci95": [
+          0.00229897221381,
+          0.412779916988
+        ],
+        "detection_rate": 0.0909090909091,
+        "n_detected": 1,
+        "n_scored": 11,
+        "n_unmeasurable": 0,
+        "threshold_percentile": 95.0
+      },
+      "effect_size_sigma0": -0.269947369069,
+      "epsilon": 0.25,
+      "mean_edited": 2.27272727273,
+      "mean_sites": 11.9090909091,
+      "median_distance": 1.29963788539,
+      "n_below_envelope": 0,
+      "n_docs": 11,
+      "per_doc": [
+        {
+          "below_envelope": false,
+          "distance": 1.07116399243,
+          "doc": "academic_long_001",
+          "edited": 3,
+          "percentile": 40.0,
+          "sites": 11
+        },
+        {
+          "below_envelope": false,
+          "distance": 0.948382394203,
+          "doc": "academic_long_003",
+          "edited": 2,
+          "percentile": 33.3333333333,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.84430708819,
+          "doc": "academic_long_005",
+          "edited": 1,
+          "percentile": 73.3333333333,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.59034946474,
+          "doc": "academic_short_001",
+          "edited": 1,
+          "percentile": 46.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.21812435497,
+          "doc": "dialogue_001",
+          "edited": 8,
+          "percentile": 40.0,
+          "sites": 28
+        },
+        {
+          "below_envelope": false,
+          "distance": 3.53779936259,
+          "doc": "discourse_heavy_001",
+          "edited": 1,
+          "percentile": 100.0,
+          "sites": 14
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.58930658684,
+          "doc": "journalism_001",
+          "edited": 3,
+          "percentile": 93.3333333333,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.42224745434,
+          "doc": "literary_001",
+          "edited": 2,
+          "percentile": 46.6666666667,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.29963788539,
+          "doc": "literary_003",
+          "edited": 3,
+          "percentile": 46.6666666667,
+          "sites": 8
+        },
+        {
+          "below_envelope": false,
+          "distance": 0.841151537823,
+          "doc": "llm_technical_001",
+          "edited": 1,
+          "percentile": 33.3333333333,
+          "sites": 17
+        },
+        {
+          "below_envelope": false,
+          "distance": 0.749770625405,
+          "doc": "llm_technical_003",
+          "edited": 0,
+          "percentile": 26.6666666667,
+          "sites": 11
+        }
+      ],
+      "perturbation": "register_mix"
+    },
+    {
+      "detection": {
+        "ci95": [
+          0.0,
+          0.33626711688
+        ],
+        "detection_rate": 0.0,
+        "n_detected": 0,
+        "n_scored": 9,
+        "n_unmeasurable": 2,
+        "threshold_percentile": 95.0
+      },
+      "effect_size_sigma0": 0.475616826632,
+      "epsilon": 1.0,
+      "mean_edited": 11.9090909091,
+      "mean_sites": 11.9090909091,
+      "median_distance": 1.87783073225,
+      "n_below_envelope": 2,
+      "n_docs": 11,
+      "per_doc": [
+        {
+          "below_envelope": false,
+          "distance": 1.06575419958,
+          "doc": "academic_long_001",
+          "edited": 11,
+          "percentile": 40.0,
+          "sites": 11
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.32887441898,
+          "doc": "academic_long_003",
+          "edited": 10,
+          "percentile": 86.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.30982801334,
+          "doc": "academic_long_005",
+          "edited": 10,
+          "percentile": 46.6666666667,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.87783073225,
+          "doc": "academic_short_001",
+          "edited": 10,
+          "percentile": 73.3333333333,
+          "sites": 10
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.4560446102,
+          "doc": "dialogue_001",
+          "edited": 28,
+          "percentile": 86.6666666667,
+          "sites": 28
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.05702976633,
+          "doc": "discourse_heavy_001",
+          "edited": 14,
+          "percentile": 86.6666666667,
+          "sites": 14
+        },
+        {
+          "below_envelope": true,
+          "distance": null,
+          "doc": "journalism_001",
+          "edited": 6,
+          "percentile": null,
+          "sites": 6
+        },
+        {
+          "below_envelope": true,
+          "distance": null,
+          "doc": "literary_001",
+          "edited": 6,
+          "percentile": null,
+          "sites": 6
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.70515215533,
+          "doc": "literary_003",
+          "edited": 8,
+          "percentile": 53.3333333333,
+          "sites": 8
+        },
+        {
+          "below_envelope": false,
+          "distance": 2.3612059562,
+          "doc": "llm_technical_001",
+          "edited": 17,
+          "percentile": 86.6666666667,
+          "sites": 17
+        },
+        {
+          "below_envelope": false,
+          "distance": 1.16592846168,
+          "doc": "llm_technical_003",
+          "edited": 11,
+          "percentile": 40.0,
+          "sites": 11
+        }
+      ],
+      "perturbation": "register_mix"
+    }
+  ],
+  "detection_policy": {
+    "note": "illustrative 5% operating point; raw percentile and distance streams are included per cell so any other operating point can be recomputed without rerunning",
+    "rule": "detected := reference_envelope.percentile > 95"
+  },
+  "effect_size_definition": "(median perturbed distance - median unperturbed distance) / sigma0, sigma0 = pstdev(reference self_distance.values)",
+  "generated_by": "python -m tools.validation_study --profile smoke --write",
+  "held_out": {
+    "docs": [
+      {
+        "distance": 0.875151290466,
+        "doc": "academic_long_001",
+        "input_sha256": "8693d52d5c0a76f47e09a2678ae1e4f1117b46302e14806d38013e68fe3f9ecc",
+        "percentile": 33.3333333333
+      },
+      {
+        "distance": 1.21001373827,
+        "doc": "academic_long_003",
+        "input_sha256": "4429d96be92bb4a90ce93aee8984644bb81dd6c2158590ddab1c78bb5b8e2f93",
+        "percentile": 40.0
+      },
+      {
+        "distance": 1.508984899,
+        "doc": "academic_long_005",
+        "input_sha256": "1355a06b07fd34ed3c41211b6863dd97b9b9c79efc949101a7d66dc664ba0ded",
+        "percentile": 46.6666666667
+      },
+      {
+        "distance": 1.84548673288,
+        "doc": "academic_short_001",
+        "input_sha256": "e95592581aaf53c61593982c32a4efa254cc9fd4826c908a4419a99523efcec4",
+        "percentile": 73.3333333333
+      },
+      {
+        "distance": 2.18070492123,
+        "doc": "dialogue_001",
+        "input_sha256": "e6df629a2116b97436602368c091a7db7592e105da1c99fb9fae279b7fe3e3d2",
+        "percentile": 86.6666666667
+      },
+      {
+        "distance": 3.49386862394,
+        "doc": "discourse_heavy_001",
+        "input_sha256": "66885c4ad8f1355bb6699ce083affbf602f2ce6d7627a8ee6dec2ad10c13b474",
+        "percentile": 100.0
+      },
+      {
+        "distance": 2.74315589614,
+        "doc": "journalism_001",
+        "input_sha256": "8e1166fd07907fa1b9b36bfd62bc661fcdfe2a179bb6d5ab5b9d4a7d868aef69",
+        "percentile": 93.3333333333
+      },
+      {
+        "distance": 1.98485132139,
+        "doc": "literary_001",
+        "input_sha256": "6b7a71af11ff623437968630e999a6fced61da95aac542b4acdb335f078006a8",
+        "percentile": 73.3333333333
+      },
+      {
+        "distance": 1.17881002777,
+        "doc": "literary_003",
+        "input_sha256": "d08cd33cf62de3b3e55f06a7a6d11855b6f6e1235c559b784183ff520d7f895f",
+        "percentile": 40.0
+      },
+      {
+        "distance": 0.996056822178,
+        "doc": "llm_technical_001",
+        "input_sha256": "36efcaaba99fb90d9b37248d5083f3de398cb549be13e5e2ba3a0eb8334e4157",
+        "percentile": 33.3333333333
+      },
+      {
+        "distance": 0.749770625405,
+        "doc": "llm_technical_003",
+        "input_sha256": "c5203d4ae43791e73373363ed5577c5f101a0497ba1185bd4ee2cb84ead00d8b",
+        "percentile": 26.6666666667
+      }
+    ],
+    "dropped": [
+      {
+        "below_envelope": true,
+        "doc": "contraction_heavy_001",
+        "unprojectable": true
+      }
+    ],
+    "n_dropped": 1,
+    "n_kept": 11,
+    "n_segments": 12,
+    "source": "tools.fixture_corpus.write_split(dest, 'odd')",
+    "split": "odd",
+    "unperturbed_median_distance": 1.508984899
+  },
+  "honesty_statement": "Small-N demonstration of the METHOD, not a production drift claim: the held-out documents are ~200-word segments of the same 8 prose fixtures whose even-parity segments calibrated the reference (segments of 8 documents are not independent samples), the calibration null has n=15, and the perturbations are mechanical surface edits, not a model of real LLM drift. The deliverable that scales is the user-run protocol: the same tool in --corpus-dir mode against the user's own reference and corpus.",
+  "identity_check": {
+    "all_identical": true,
+    "epsilon": 0.0,
+    "n_docs": 11,
+    "perturbation": "hedge_modal_insert"
+  },
+  "negative_control": {
+    "ci95": [
+      0.00229897221381,
+      0.412779916988
+    ],
+    "consistent_with_nominal": true,
+    "detection_rate": 0.0909090909091,
+    "n_detected": 1,
+    "n_scored": 11,
+    "n_unmeasurable": 0,
+    "nominal_rate": 0.05,
+    "threshold_percentile": 95.0
+  },
+  "params": {
+    "batch_sizes": [
+      10
+    ],
+    "epsilons": [
+      0.25,
+      1.0
+    ],
+    "ewma": {
+      "L": 3.0,
+      "lam": 0.2
+    },
+    "in_control_prefix": 30,
+    "max_docs": 20,
+    "n_batches": 100,
+    "perturbations": [
+      "hedge_modal_insert",
+      "register_mix"
+    ]
+  },
+  "profile": "smoke",
+  "reference": {
+    "cohort": "fixture_prose",
+    "mu0": 1.42295607682,
+    "n": 15,
+    "name": "fixture_prose",
+    "path": "fixtures/references/fixture_prose_v1.json",
+    "self_distance_basis": "cross_validated_10fold",
+    "self_distance_n": 15,
+    "sha256": "ecaba1aade94c94b07b5b89081ffd2a54fb8487d1739cfdd3fc1914fda2de9de",
+    "sigma0": 0.775510479438,
+    "version": "v1"
+  },
+  "seed_scheme": {
+    "perturb": "validation:<perturbation_id>:<epsilon>:<input_sha256(unperturbed doc)>",
+    "power": "validation:power:<perturbation_id>:<epsilon>:<batch_size>"
+  },
+  "study": "validation_study"
+}

@@ -1,0 +1,143 @@
+{
+  "category_name": "TEMPORAL_CONJUNCTIONS",
+  "source_file": "words_TEMPORAL_CONJUNCTIONS_expanded.json",
+  "count": 34,
+  "words": [
+    {
+      "word": "then",
+      "reason": "temporal cohesive conjunction signalling next event across sentences."
+    },
+    {
+      "word": "meanwhile",
+      "reason": "temporal cohesive conjunction signalling concurrence."
+    },
+    {
+      "word": "afterward",
+      "reason": "temporal cohesive conjunction signalling subsequence."
+    },
+    {
+      "word": "afterwards",
+      "reason": "temporal cohesive conjunction signalling subsequence."
+    },
+    {
+      "word": "subsequently",
+      "reason": "temporal cohesive conjunction signalling subsequence."
+    },
+    {
+      "word": "later",
+      "reason": "temporal cohesive conjunction signalling subsequence."
+    },
+    {
+      "word": "earlier",
+      "reason": "temporal cohesive conjunction signalling antecedence."
+    },
+    {
+      "word": "previously",
+      "reason": "temporal cohesive conjunction signalling antecedence."
+    },
+    {
+      "word": "formerly",
+      "reason": "temporal cohesive conjunction signalling antecedence."
+    },
+    {
+      "word": "beforehand",
+      "reason": "temporal cohesive conjunction signalling antecedence."
+    },
+    {
+      "word": "simultaneously",
+      "reason": "temporal cohesive conjunction signalling concurrence."
+    },
+    {
+      "word": "concurrently",
+      "reason": "temporal cohesive conjunction signalling concurrence."
+    },
+    {
+      "word": "first",
+      "reason": "temporal cohesive conjunction marking initial position."
+    },
+    {
+      "word": "firstly",
+      "reason": "temporal cohesive conjunction marking initial position."
+    },
+    {
+      "word": "next",
+      "reason": "temporal cohesive conjunction marking next position."
+    },
+    {
+      "word": "finally",
+      "reason": "temporal cohesive conjunction marking final position."
+    },
+    {
+      "word": "eventually",
+      "reason": "temporal cohesive conjunction marking final position."
+    },
+    {
+      "word": "ultimately",
+      "reason": "temporal cohesive conjunction marking final position."
+    },
+    {
+      "word": "immediately",
+      "reason": "temporal cohesive conjunction marking direct subsequence."
+    },
+    {
+      "word": "soon",
+      "reason": "temporal cohesive conjunction marking near subsequence."
+    },
+    {
+      "word": "now",
+      "reason": "temporal cohesive conjunction marking present in narrative."
+    },
+    {
+      "word": "hitherto",
+      "reason": "temporal cohesive conjunction marking up-to-now."
+    },
+    {
+      "word": "henceforth",
+      "reason": "temporal cohesive conjunction marking from-now-on."
+    },
+    {
+      "word": "hereafter",
+      "reason": "temporal cohesive conjunction marking from-now-on."
+    },
+    {
+      "word": "thereafter",
+      "reason": "temporal cohesive conjunction marking from-then-on."
+    },
+    {
+      "word": "once",
+      "reason": "temporal cohesive conjunction marking subsequence after completion."
+    },
+    {
+      "word": "when",
+      "reason": "temporal cohesive conjunction linking events temporally."
+    },
+    {
+      "word": "while",
+      "reason": "temporal cohesive conjunction marking concurrence."
+    },
+    {
+      "word": "until",
+      "reason": "temporal cohesive conjunction marking endpoint."
+    },
+    {
+      "word": "since",
+      "reason": "temporal cohesive conjunction marking starting point."
+    },
+    {
+      "word": "before",
+      "reason": "temporal cohesive conjunction marking antecedence."
+    },
+    {
+      "word": "after",
+      "reason": "temporal cohesive conjunction marking subsequence."
+    },
+    {
+      "word": "originally",
+      "reason": "temporal cohesive conjunction marking initial state."
+    },
+    {
+      "word": "initially",
+      "reason": "temporal cohesive conjunction marking initial state."
+    }
+  ]
+}

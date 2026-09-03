@@ -1,0 +1,121 @@
+name: reproducibility
+
+# Proves the core promise: identical input -> byte-identical numbers on every
+# host. The goldens and hashes in this repo were generated on ONE machine.
+# This runs the suite + every --check gate across a matrix of OS x CPU x
+# Python x libc x locale. Each --check RECOMPUTES the goldens/hashes and
+# compares to the committed bytes; if any cell differs, a platform's libm /
+# float / text behaviour diverged and the run fails. Green across the whole
+# matrix == the "reproducible on any host" claim is proven, not asserted.
+# Runs from the repository root on every push to main and every pull request.
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: .
+
+jobs:
+  matrix:
+    name: ${{ matrix.os }} / py${{ matrix.python }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        # ubuntu = glibc/x86-64, macos = Apple-Silicon/ARM64, windows = x86-64
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        python: ["3.11", "3.12", "3.13", "3.14"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Install
+        run: pip install -e . pytest
+      - name: Test suite
+        run: python -m pytest instrument/ -q
+      - name: Gate - joint golden
+        run: python -m tools.build_joint_golden --check
+      - name: Gate - emit golden
+        run: python -m tools.build_emit_golden --check
+      - name: Gate - lexicons + data manifest
+        run: python -m tools.build_lexicons --version v1 --check
+      - name: Gate - catalog
+        run: python -m tools.build_catalog --version v2 --check
+      - name: Gate - core code hash
+        run: python -m tools.build_core_hash --check
+      - name: Gate - reference migration
+        run: python -m tools.migrate_references_0_9_1 --check
+      - name: Gate - layering
+        run: python -m tools.check_layers
+      - name: Gate - uncertainty golden (0.10.0)
+        run: python -m tools.build_uncertainty_golden --check
+      - name: Gate - length-response audit (0.10.0)
+        run: python -m tools.length_invariance --check
+      - name: Gate - validation study smoke (0.10.0)
+        run: python -m tools.validation_study --profile smoke --check
+
+  musl:
+    # glibc vs musl is the sharpest libm difference (the P0-1 risk). Run the
+    # same gates under Alpine to cover it.
+    name: alpine-musl / py3.12
+    runs-on: ubuntu-latest
+    container: python:3.12-alpine
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install
+        run: pip install -e . pytest
+      - name: Suite + gates
+        run: |
+          python -m pytest instrument/ -q
+          python -m tools.build_joint_golden --check
+          python -m tools.build_emit_golden --check
+          python -m tools.build_lexicons --version v1 --check
+          python -m tools.build_catalog --version v2 --check
+          python -m tools.build_core_hash --check
+          python -m tools.migrate_references_0_9_1 --check
+          python -m tools.check_layers
+          python -m tools.build_uncertainty_golden --check
+          python -m tools.length_invariance --check
+          python -m tools.validation_study --profile smoke --check
+
+  locale:
+    # Non-C locale: catches any locale-sensitive C-library behaviour that
+    # could leak into the measurement path (there should be none — Python
+    # str ops are locale-independent — this cell PROVES it).
+    name: fr_FR.UTF-8 locale / py3.12
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate locale
+        working-directory: .
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q locales
+          sudo locale-gen fr_FR.UTF-8
+      - name: Install
+        run: pip install -e . pytest
+      - name: Suite + gates under fr_FR.UTF-8
+        env:
+          LANG: fr_FR.UTF-8
+          LC_ALL: fr_FR.UTF-8
+        run: |
+          python -m pytest instrument/ -q
+          python -m tools.build_joint_golden --check
+          python -m tools.build_emit_golden --check
+          python -m tools.build_lexicons --version v1 --check
+          python -m tools.build_catalog --version v2 --check
+          python -m tools.build_core_hash --check
+          python -m tools.migrate_references_0_9_1 --check
+          python -m tools.check_layers
+          python -m tools.build_uncertainty_golden --check
+          python -m tools.length_invariance --check
+          python -m tools.validation_study --profile smoke --check

@@ -1,0 +1,311 @@
+{
+  "category_name": "EXISTENTIAL_TRIGGERS",
+  "source_file": "words_EXISTENTIAL_TRIGGERS_expanded.json",
+  "count": 76,
+  "words": [
+    {
+      "word": "there",
+      "reason": "functions as the subject placeholder of existential ‘there + be’ constructions."
+    },
+    {
+      "word": "exist",
+      "reason": "predicates bare existence of a participant in existential clauses."
+    },
+    {
+      "word": "exists",
+      "reason": "predicates bare existence in existential clauses."
+    },
+    {
+      "word": "existing",
+      "reason": "predicates bare existence of a participant in existential clauses. (inflected form of exist)"
+    },
+    {
+      "word": "existed",
+      "reason": "predicates past existence in existential clauses."
+    },
+    {
+      "word": "remain",
+      "reason": "introduces existence of a residual participant in existential clauses (e.g., ‘there remain’)."
+    },
+    {
+      "word": "remains",
+      "reason": "introduces existence of a residual participant in existential clauses."
+    },
+    {
+      "word": "remaining",
+      "reason": "introduces existence of a residual participant in existential clauses (e.g., ‘there remain’). (inflected form of remain)"
+    },
+    {
+      "word": "remained",
+      "reason": "introduces existence of a residual participant in existential clauses (e.g., ‘there remain’). (inflected form of remain)"
+    },
+    {
+      "word": "appear",
+      "reason": "introduces existence of a participant coming into view in existential clauses."
+    },
+    {
+      "word": "appears",
+      "reason": "introduces existence of a participant coming into view (existential use, e.g., ‘there appears’)."
+    },
+    {
+      "word": "appearing",
+      "reason": "introduces existence of a participant coming into view in existential clauses. (inflected form of appear)"
+    },
+    {
+      "word": "appeared",
+      "reason": "introduces existence of a participant coming into view in existential clauses. (inflected form of appear)"
+    },
+    {
+      "word": "arise",
+      "reason": "introduces existence of a participant coming into being (e.g., ‘there arose’)."
+    },
+    {
+      "word": "arises",
+      "reason": "introduces existence of a participant coming into being."
+    },
+    {
+      "word": "arising",
+      "reason": "introduces existence of a participant coming into being (e.g., ‘there arose’). (inflected form of arise)"
+    },
+    {
+      "word": "arose",
+      "reason": "introduces past existence of a participant coming into being."
+    },
+    {
+      "word": "arisen",
+      "reason": "introduces existence of a participant coming into being (e.g., ‘there arose’). (inflected form of arise)"
+    },
+    {
+      "word": "emerge",
+      "reason": "introduces existence of a participant coming into view in existential clauses."
+    },
+    {
+      "word": "emerges",
+      "reason": "introduces existence of a participant coming into view in existential clauses. (inflected form of emerge)"
+    },
+    {
+      "word": "emerging",
+      "reason": "introduces existence of a participant coming into view in existential clauses. (inflected form of emerge)"
+    },
+    {
+      "word": "emerged",
+      "reason": "introduces past existence of a participant coming into view."
+    },
+    {
+      "word": "occur",
+      "reason": "introduces existence of an event in existential clauses (e.g., ‘there occur cases where…’)."
+    },
+    {
+      "word": "occurs",
+      "reason": "introduces existence of an event in existential clauses (e.g., ‘there occur cases where…’). (inflected form of occur)"
+    },
+    {
+      "word": "occurring",
+      "reason": "introduces existence of an event in existential clauses (e.g., ‘there occur cases where…’). (inflected form of occur)"
+    },
+    {
+      "word": "occurred",
+      "reason": "introduces past existence of an event in existential clauses."
+    },
+    {
+      "word": "happen",
+      "reason": "introduces existence of an event in existential clauses."
+    },
+    {
+      "word": "happens",
+      "reason": "introduces existence of an event in existential clauses. (inflected form of happen)"
+    },
+    {
+      "word": "happening",
+      "reason": "introduces existence of an event in existential clauses. (inflected form of happen)"
+    },
+    {
+      "word": "happened",
+      "reason": "introduces past existence of an event in existential clauses."
+    },
+    {
+      "word": "follow",
+      "reason": "introduces existence of a consequent participant in existential clauses (e.g., ‘there follow…’)."
+    },
+    {
+      "word": "follows",
+      "reason": "introduces existence of a consequent participant in existential clauses."
+    },
+    {
+      "word": "following",
+      "reason": "introduces existence of a consequent participant in existential clauses (e.g., ‘there follow…’). (inflected form of follow)"
+    },
+    {
+      "word": "followed",
+      "reason": "introduces existence of a consequent participant in existential clauses (e.g., ‘there follow…’). (inflected form of follow)"
+    },
+    {
+      "word": "come",
+      "reason": "introduces existence of a participant arriving in existential clauses (e.g., ‘there came a time’)."
+    },
+    {
+      "word": "comes",
+      "reason": "introduces existence of a participant arriving in existential clauses (e.g., ‘there came a time’). (inflected form of come)"
+    },
+    {
+      "word": "coming",
+      "reason": "introduces existence of a participant arriving in existential clauses (e.g., ‘there came a time’). (inflected form of come)"
+    },
+    {
+      "word": "came",
+      "reason": "introduces past existence of a participant arriving."
+    },
+    {
+      "word": "stand",
+      "reason": "introduces existence of a participant in place in existential clauses (e.g., ‘there stands a tower’)."
+    },
+    {
+      "word": "stands",
+      "reason": "introduces existence of a participant in place in existential clauses (e.g., ‘there stands a tower’). (inflected form of stand)"
+    },
+    {
+      "word": "standing",
+      "reason": "introduces existence of a participant in place in existential clauses (e.g., ‘there stands a tower’). (inflected form of stand)"
+    },
+    {
+      "word": "stood",
+      "reason": "introduces past existence of a participant in place."
+    },
+    {
+      "word": "lie",
+      "reason": "introduces existence of a participant in position in existential clauses."
+    },
+    {
+      "word": "lies",
+      "reason": "introduces existence of a participant in position in existential clauses."
+    },
+    {
+      "word": "lying",
+      "reason": "introduces existence of a participant in position in existential clauses. (inflected form of lie)"
+    },
+    {
+      "word": "lay",
+      "reason": "introduces past existence of a participant in position."
+    },
+    {
+      "word": "lain",
+      "reason": "introduces existence of a participant in position in existential clauses. (inflected form of lie)"
+    },
+    {
+      "word": "sit",
+      "reason": "introduces existence of a participant in position in existential clauses."
+    },
+    {
+      "word": "sits",
+      "reason": "introduces existence of a participant in position in existential clauses."
+    },
+    {
+      "word": "sitting",
+      "reason": "introduces existence of a participant in position in existential clauses. (inflected form of sit)"
+    },
+    {
+      "word": "sat",
+      "reason": "introduces existence of a participant in position in existential clauses. (inflected form of sit)"
+    },
+    {
+      "word": "hang",
+      "reason": "introduces existence of a participant suspended in existential clauses."
+    },
+    {
+      "word": "hangs",
+      "reason": "introduces existence of a participant suspended in existential clauses."
+    },
+    {
+      "word": "hanging",
+      "reason": "introduces existence of a participant suspended in existential clauses. (inflected form of hang)"
+    },
+    {
+      "word": "hung",
+      "reason": "introduces existence of a participant suspended in existential clauses. (inflected form of hang)"
+    },
+    {
+      "word": "dwell",
+      "reason": "introduces existence of a participant residing in existential clauses."
+    },
+    {
+      "word": "dwells",
+      "reason": "introduces existence of a participant residing in existential clauses. (inflected form of dwell)"
+    },
+    {
+      "word": "dwelling",
+      "reason": "introduces existence of a participant residing in existential clauses. (inflected form of dwell)"
+    },
+    {
+      "word": "dwelled",
+      "reason": "introduces existence of a participant residing in existential clauses. (inflected form of dwell)"
+    },
+    {
+      "word": "dwelt",
+      "reason": "introduces existence of a participant residing in existential clauses. (inflected form of dwell)"
+    },
+    {
+      "word": "subsist",
+      "reason": "predicates bare existence with persistence in existential clauses."
+    },
+    {
+      "word": "subsists",
+      "reason": "predicates bare existence with persistence in existential clauses. (inflected form of subsist)"
+    },
+    {
+      "word": "subsisting",
+      "reason": "predicates bare existence with persistence in existential clauses. (inflected form of subsist)"
+    },
+    {
+      "word": "subsisted",
+      "reason": "predicates bare existence with persistence in existential clauses. (inflected form of subsist)"
+    },
+    {
+      "word": "persist",
+      "reason": "predicates continued existence in existential clauses."
+    },
+    {
+      "word": "persists",
+      "reason": "predicates continued existence in existential clauses. (inflected form of persist)"
+    },
+    {
+      "word": "persisting",
+      "reason": "predicates continued existence in existential clauses. (inflected form of persist)"
+    },
+    {
+      "word": "persisted",
+      "reason": "predicates continued existence in existential clauses. (inflected form of persist)"
+    },
+    {
+      "word": "survive",
+      "reason": "predicates continued existence after threat in existential clauses."
+    },
+    {
+      "word": "survives",
+      "reason": "predicates continued existence after threat in existential clauses. (inflected form of survive)"
+    },
+    {
+      "word": "surviving",
+      "reason": "predicates continued existence after threat in existential clauses. (inflected form of survive)"
+    },
+    {
+      "word": "survived",
+      "reason": "predicates continued existence after threat in existential clauses. (inflected form of survive)"
+    },
+    {
+      "word": "prevail",
+      "reason": "predicates the existence of a state of affairs holding generally."
+    },
+    {
+      "word": "prevails",
+      "reason": "predicates the existence of a state of affairs holding generally. (inflected form of prevail)"
+    },
+    {
+      "word": "prevailing",
+      "reason": "predicates the existence of a state of affairs holding generally. (inflected form of prevail)"
+    },
+    {
+      "word": "prevailed",
+      "reason": "predicates the existence of a state of affairs holding generally. (inflected form of prevail)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "category_name": "CAUSAL_CONJUNCTIONS",
+  "source_file": "words_CAUSAL_CONJUNCTIONS_expanded.json",
+  "count": 15,
+  "words": [
+    {
+      "word": "therefore",
+      "reason": "causal cohesive conjunction signalling consequence across sentences."
+    },
+    {
+      "word": "consequently",
+      "reason": "causal cohesive conjunction signalling consequence across sentences."
+    },
+    {
+      "word": "hence",
+      "reason": "causal cohesive conjunction signalling consequence across sentences."
+    },
+    {
+      "word": "thus",
+      "reason": "causal cohesive conjunction signalling consequence across sentences."
+    },
+    {
+      "word": "accordingly",
+      "reason": "causal cohesive conjunction signalling consequent action."
+    },
+    {
+      "word": "so",
+      "reason": "causal cohesive conjunction signalling consequence across sentences."
+    },
+    {
+      "word": "then",
+      "reason": "causal cohesive conjunction signalling inferential consequence."
+    },
+    {
+      "word": "ergo",
+      "reason": "causal cohesive conjunction signalling logical consequence."
+    },
+    {
+      "word": "wherefore",
+      "reason": "causal cohesive conjunction signalling consequence (archaic)."
+    },
+    {
+      "word": "because",
+      "reason": "causal cohesive conjunction signalling cause."
+    },
+    {
+      "word": "since",
+      "reason": "causal cohesive conjunction signalling cause."
+    },
+    {
+      "word": "for",
+      "reason": "causal cohesive conjunction signalling reason."
+    },
+    {
+      "word": "inasmuch",
+      "reason": "causal cohesive conjunction in ‘inasmuch as’."
+    },
+    {
+      "word": "subsequently",
+      "reason": "causal cohesive conjunction signalling consequence following."
+    },
+    {
+      "word": "thereby",
+      "reason": "causal cohesive conjunction signalling means-consequence."
+    }
+  ]
+}

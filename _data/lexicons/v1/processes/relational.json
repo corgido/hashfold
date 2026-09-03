@@ -1,0 +1,1179 @@
+{
+  "category_name": "RELATIONAL_PROCESS_VERBS",
+  "source_file": "words_RELATIONAL_PROCESS_VERBS_expanded.json",
+  "count": 293,
+  "words": [
+    {
+      "word": "is",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "are",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "was",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "were",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "be",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "been",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "being",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "am",
+      "reason": "copula realising attributive or identifying relational process (Halliday IFG 4e, ch.5)."
+    },
+    {
+      "word": "become",
+      "reason": "construes attributive change-of-state relating Carrier to Attribute."
+    },
+    {
+      "word": "becomes",
+      "reason": "construes attributive change-of-state relating Carrier to Attribute. (inflected form of become)"
+    },
+    {
+      "word": "becoming",
+      "reason": "construes attributive change-of-state relating Carrier to Attribute. (inflected form of become)"
+    },
+    {
+      "word": "became",
+      "reason": "construes attributive change-of-state relating Carrier to Attribute. (inflected form of become)"
+    },
+    {
+      "word": "seem",
+      "reason": "construes attributive relation with epistemic hedge."
+    },
+    {
+      "word": "seems",
+      "reason": "construes attributive relation with epistemic hedge. (inflected form of seem)"
+    },
+    {
+      "word": "seeming",
+      "reason": "construes attributive relation with epistemic hedge. (inflected form of seem)"
+    },
+    {
+      "word": "seemed",
+      "reason": "construes attributive relation with epistemic hedge. (inflected form of seem)"
+    },
+    {
+      "word": "appear",
+      "reason": "construes attributive relation marking phenomenal seeming (relational use, not ‘arrive’)."
+    },
+    {
+      "word": "appears",
+      "reason": "construes attributive relation marking phenomenal seeming (relational use, not ‘arrive’). (inflected form of appear)"
+    },
+    {
+      "word": "appearing",
+      "reason": "construes attributive relation marking phenomenal seeming (relational use, not ‘arrive’). (inflected form of appear)"
+    },
+    {
+      "word": "appeared",
+      "reason": "construes attributive relation marking phenomenal seeming (relational use, not ‘arrive’). (inflected form of appear)"
+    },
+    {
+      "word": "look",
+      "reason": "construes attributive relation through perceptual evidence (relational use)."
+    },
+    {
+      "word": "looks",
+      "reason": "construes attributive relation through perceptual evidence (relational use). (inflected form of look)"
+    },
+    {
+      "word": "looking",
+      "reason": "construes attributive relation through perceptual evidence (relational use). (inflected form of look)"
+    },
+    {
+      "word": "looked",
+      "reason": "construes attributive relation through perceptual evidence (relational use). (inflected form of look)"
+    },
+    {
+      "word": "sound",
+      "reason": "construes attributive relation through auditory evidence (relational use)."
+    },
+    {
+      "word": "sounds",
+      "reason": "construes attributive relation through auditory evidence (relational use). (inflected form of sound)"
+    },
+    {
+      "word": "sounding",
+      "reason": "construes attributive relation through auditory evidence (relational use). (inflected form of sound)"
+    },
+    {
+      "word": "sounded",
+      "reason": "construes attributive relation through auditory evidence (relational use). (inflected form of sound)"
+    },
+    {
+      "word": "feel",
+      "reason": "construes attributive relation through tactile or affective evidence (relational use)."
+    },
+    {
+      "word": "feels",
+      "reason": "construes attributive relation through tactile or affective evidence (relational use). (inflected form of feel)"
+    },
+    {
+      "word": "feeling",
+      "reason": "construes attributive relation through tactile or affective evidence (relational use). (inflected form of feel)"
+    },
+    {
+      "word": "felt",
+      "reason": "construes attributive relation through tactile or affective evidence (relational use). (inflected form of feel)"
+    },
+    {
+      "word": "smell",
+      "reason": "construes attributive relation through olfactory evidence (relational use)."
+    },
+    {
+      "word": "smells",
+      "reason": "construes attributive relation through olfactory evidence (relational use). (inflected form of smell)"
+    },
+    {
+      "word": "smelling",
+      "reason": "construes attributive relation through olfactory evidence (relational use). (inflected form of smell)"
+    },
+    {
+      "word": "smelled",
+      "reason": "construes attributive relation through olfactory evidence (relational use). (inflected form of smell)"
+    },
+    {
+      "word": "smelt",
+      "reason": "construes attributive relation through olfactory evidence (relational use). (inflected form of smell)"
+    },
+    {
+      "word": "taste",
+      "reason": "construes attributive relation through gustatory evidence (relational use)."
+    },
+    {
+      "word": "tastes",
+      "reason": "construes attributive relation through gustatory evidence (relational use). (inflected form of taste)"
+    },
+    {
+      "word": "tasting",
+      "reason": "construes attributive relation through gustatory evidence (relational use). (inflected form of taste)"
+    },
+    {
+      "word": "tasted",
+      "reason": "construes attributive relation through gustatory evidence (relational use). (inflected form of taste)"
+    },
+    {
+      "word": "remain",
+      "reason": "construes attributive relation persisting over time."
+    },
+    {
+      "word": "remains",
+      "reason": "construes attributive relation persisting over time. (inflected form of remain)"
+    },
+    {
+      "word": "remaining",
+      "reason": "construes attributive relation persisting over time. (inflected form of remain)"
+    },
+    {
+      "word": "remained",
+      "reason": "construes attributive relation persisting over time. (inflected form of remain)"
+    },
+    {
+      "word": "stay",
+      "reason": "construes attributive relation of persistence (relational use)."
+    },
+    {
+      "word": "stays",
+      "reason": "construes attributive relation of persistence (relational use). (inflected form of stay)"
+    },
+    {
+      "word": "staying",
+      "reason": "construes attributive relation of persistence (relational use). (inflected form of stay)"
+    },
+    {
+      "word": "stayed",
+      "reason": "construes attributive relation of persistence (relational use). (inflected form of stay)"
+    },
+    {
+      "word": "keep",
+      "reason": "construes attributive relation of persistence (relational use, e.g., ‘keep quiet’)."
+    },
+    {
+      "word": "keeps",
+      "reason": "construes attributive relation of persistence (relational use, e.g., ‘keep quiet’). (inflected form of keep)"
+    },
+    {
+      "word": "keeping",
+      "reason": "construes attributive relation of persistence (relational use, e.g., ‘keep quiet’). (inflected form of keep)"
+    },
+    {
+      "word": "kept",
+      "reason": "construes attributive relation of persistence (relational use, e.g., ‘keep quiet’). (inflected form of keep)"
+    },
+    {
+      "word": "turn",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘turn cold’)."
+    },
+    {
+      "word": "turns",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘turn cold’). (inflected form of turn)"
+    },
+    {
+      "word": "turning",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘turn cold’). (inflected form of turn)"
+    },
+    {
+      "word": "turned",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘turn cold’). (inflected form of turn)"
+    },
+    {
+      "word": "grow",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘grow tired’)."
+    },
+    {
+      "word": "grows",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘grow tired’). (inflected form of grow)"
+    },
+    {
+      "word": "growing",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘grow tired’). (inflected form of grow)"
+    },
+    {
+      "word": "grew",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘grow tired’). (inflected form of grow)"
+    },
+    {
+      "word": "grown",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘grow tired’). (inflected form of grow)"
+    },
+    {
+      "word": "get",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘get angry’)."
+    },
+    {
+      "word": "gets",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘get angry’). (inflected form of get)"
+    },
+    {
+      "word": "getting",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘get angry’). (inflected form of get)"
+    },
+    {
+      "word": "got",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘get angry’). (inflected form of get)"
+    },
+    {
+      "word": "gotten",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘get angry’). (inflected form of get)"
+    },
+    {
+      "word": "go",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘go bad’)."
+    },
+    {
+      "word": "goes",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘go bad’). (inflected form of go)"
+    },
+    {
+      "word": "going",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘go bad’). (inflected form of go)"
+    },
+    {
+      "word": "went",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘go bad’). (inflected form of go)"
+    },
+    {
+      "word": "gone",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘go bad’). (inflected form of go)"
+    },
+    {
+      "word": "come",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘come true’)."
+    },
+    {
+      "word": "comes",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘come true’). (inflected form of come)"
+    },
+    {
+      "word": "coming",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘come true’). (inflected form of come)"
+    },
+    {
+      "word": "came",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘come true’). (inflected form of come)"
+    },
+    {
+      "word": "fall",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘fall ill’)."
+    },
+    {
+      "word": "falls",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘fall ill’). (inflected form of fall)"
+    },
+    {
+      "word": "falling",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘fall ill’). (inflected form of fall)"
+    },
+    {
+      "word": "fell",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘fall ill’). (inflected form of fall)"
+    },
+    {
+      "word": "fallen",
+      "reason": "construes attributive change-of-state (relational use, e.g., ‘fall ill’). (inflected form of fall)"
+    },
+    {
+      "word": "prove",
+      "reason": "construes attributive identification confirming an Attribute."
+    },
+    {
+      "word": "proves",
+      "reason": "construes attributive identification confirming an Attribute. (inflected form of prove)"
+    },
+    {
+      "word": "proving",
+      "reason": "construes attributive identification confirming an Attribute. (inflected form of prove)"
+    },
+    {
+      "word": "proved",
+      "reason": "construes attributive identification confirming an Attribute. (inflected form of prove)"
+    },
+    {
+      "word": "proven",
+      "reason": "construes attributive identification confirming an Attribute. (inflected form of prove)"
+    },
+    {
+      "word": "constitute",
+      "reason": "construes identifying relation establishing identity between Token and Value."
+    },
+    {
+      "word": "constitutes",
+      "reason": "construes identifying relation establishing identity between Token and Value. (inflected form of constitute)"
+    },
+    {
+      "word": "constituting",
+      "reason": "construes identifying relation establishing identity between Token and Value. (inflected form of constitute)"
+    },
+    {
+      "word": "constituted",
+      "reason": "construes identifying relation establishing identity between Token and Value. (inflected form of constitute)"
+    },
+    {
+      "word": "comprise",
+      "reason": "construes identifying relation of part-whole."
+    },
+    {
+      "word": "comprises",
+      "reason": "construes identifying relation of part-whole. (inflected form of comprise)"
+    },
+    {
+      "word": "comprising",
+      "reason": "construes identifying relation of part-whole. (inflected form of comprise)"
+    },
+    {
+      "word": "comprised",
+      "reason": "construes identifying relation of part-whole. (inflected form of comprise)"
+    },
+    {
+      "word": "represent",
+      "reason": "construes identifying relation between Token and Value."
+    },
+    {
+      "word": "represents",
+      "reason": "construes identifying relation between Token and Value. (inflected form of represent)"
+    },
+    {
+      "word": "representing",
+      "reason": "construes identifying relation between Token and Value. (inflected form of represent)"
+    },
+    {
+      "word": "represented",
+      "reason": "construes identifying relation between Token and Value. (inflected form of represent)"
+    },
+    {
+      "word": "equal",
+      "reason": "construes identifying relation of equivalence."
+    },
+    {
+      "word": "equals",
+      "reason": "construes identifying relation of equivalence. (inflected form of equal)"
+    },
+    {
+      "word": "equaling",
+      "reason": "construes identifying relation of equivalence. (inflected form of equal)"
+    },
+    {
+      "word": "equaled",
+      "reason": "construes identifying relation of equivalence. (inflected form of equal)"
+    },
+    {
+      "word": "mean",
+      "reason": "construes identifying relation between sign and signified."
+    },
+    {
+      "word": "means",
+      "reason": "construes identifying relation between sign and signified. (inflected form of mean)"
+    },
+    {
+      "word": "meaning",
+      "reason": "construes identifying relation between sign and signified. (inflected form of mean)"
+    },
+    {
+      "word": "meant",
+      "reason": "construes identifying relation between sign and signified. (inflected form of mean)"
+    },
+    {
+      "word": "signify",
+      "reason": "construes identifying relation between sign and signified."
+    },
+    {
+      "word": "signifies",
+      "reason": "construes identifying relation between sign and signified. (inflected form of signify)"
+    },
+    {
+      "word": "signifying",
+      "reason": "construes identifying relation between sign and signified. (inflected form of signify)"
+    },
+    {
+      "word": "signified",
+      "reason": "construes identifying relation between sign and signified. (inflected form of signify)"
+    },
+    {
+      "word": "denote",
+      "reason": "construes identifying relation between term and referent."
+    },
+    {
+      "word": "denotes",
+      "reason": "construes identifying relation between term and referent. (inflected form of denote)"
+    },
+    {
+      "word": "denoting",
+      "reason": "construes identifying relation between term and referent. (inflected form of denote)"
+    },
+    {
+      "word": "denoted",
+      "reason": "construes identifying relation between term and referent. (inflected form of denote)"
+    },
+    {
+      "word": "indicate",
+      "reason": "construes identifying relation pointing to a Value."
+    },
+    {
+      "word": "indicates",
+      "reason": "construes identifying relation pointing to a Value. (inflected form of indicate)"
+    },
+    {
+      "word": "indicating",
+      "reason": "construes identifying relation pointing to a Value. (inflected form of indicate)"
+    },
+    {
+      "word": "indicated",
+      "reason": "construes identifying relation pointing to a Value. (inflected form of indicate)"
+    },
+    {
+      "word": "imply",
+      "reason": "construes identifying relation entailing a Value."
+    },
+    {
+      "word": "implies",
+      "reason": "construes identifying relation entailing a Value. (inflected form of imply)"
+    },
+    {
+      "word": "implying",
+      "reason": "construes identifying relation entailing a Value. (inflected form of imply)"
+    },
+    {
+      "word": "implied",
+      "reason": "construes identifying relation entailing a Value. (inflected form of imply)"
+    },
+    {
+      "word": "entail",
+      "reason": "construes identifying relation logically including a Value."
+    },
+    {
+      "word": "entails",
+      "reason": "construes identifying relation logically including a Value. (inflected form of entail)"
+    },
+    {
+      "word": "entailing",
+      "reason": "construes identifying relation logically including a Value. (inflected form of entail)"
+    },
+    {
+      "word": "entailed",
+      "reason": "construes identifying relation logically including a Value. (inflected form of entail)"
+    },
+    {
+      "word": "involve",
+      "reason": "construes possessive-relational inclusion."
+    },
+    {
+      "word": "involves",
+      "reason": "construes possessive-relational inclusion. (inflected form of involve)"
+    },
+    {
+      "word": "involving",
+      "reason": "construes possessive-relational inclusion. (inflected form of involve)"
+    },
+    {
+      "word": "involved",
+      "reason": "construes possessive-relational inclusion. (inflected form of involve)"
+    },
+    {
+      "word": "include",
+      "reason": "construes possessive-relational containment of a Value."
+    },
+    {
+      "word": "includes",
+      "reason": "construes possessive-relational containment of a Value. (inflected form of include)"
+    },
+    {
+      "word": "including",
+      "reason": "construes possessive-relational containment of a Value. (inflected form of include)"
+    },
+    {
+      "word": "included",
+      "reason": "construes possessive-relational containment of a Value. (inflected form of include)"
+    },
+    {
+      "word": "contain",
+      "reason": "construes possessive-relational containment."
+    },
+    {
+      "word": "contains",
+      "reason": "construes possessive-relational containment. (inflected form of contain)"
+    },
+    {
+      "word": "containing",
+      "reason": "construes possessive-relational containment. (inflected form of contain)"
+    },
+    {
+      "word": "contained",
+      "reason": "construes possessive-relational containment. (inflected form of contain)"
+    },
+    {
+      "word": "possess",
+      "reason": "construes possessive relation between Carrier and Attribute."
+    },
+    {
+      "word": "possesses",
+      "reason": "construes possessive relation between Carrier and Attribute. (inflected form of possess)"
+    },
+    {
+      "word": "possessing",
+      "reason": "construes possessive relation between Carrier and Attribute. (inflected form of possess)"
+    },
+    {
+      "word": "possessed",
+      "reason": "construes possessive relation between Carrier and Attribute. (inflected form of possess)"
+    },
+    {
+      "word": "own",
+      "reason": "construes possessive relation."
+    },
+    {
+      "word": "owns",
+      "reason": "construes possessive relation. (inflected form of own)"
+    },
+    {
+      "word": "owning",
+      "reason": "construes possessive relation. (inflected form of own)"
+    },
+    {
+      "word": "owned",
+      "reason": "construes possessive relation. (inflected form of own)"
+    },
+    {
+      "word": "have",
+      "reason": "construes possessive or attributive relation between Carrier and Attribute."
+    },
+    {
+      "word": "has",
+      "reason": "construes possessive or attributive relation between Carrier and Attribute. (inflected form of have)"
+    },
+    {
+      "word": "having",
+      "reason": "construes possessive or attributive relation between Carrier and Attribute. (inflected form of have)"
+    },
+    {
+      "word": "had",
+      "reason": "construes possessive or attributive relation between Carrier and Attribute. (inflected form of have)"
+    },
+    {
+      "word": "belong",
+      "reason": "construes possessive relation viewed from the possessed end."
+    },
+    {
+      "word": "belongs",
+      "reason": "construes possessive relation viewed from the possessed end. (inflected form of belong)"
+    },
+    {
+      "word": "belonging",
+      "reason": "construes possessive relation viewed from the possessed end. (inflected form of belong)"
+    },
+    {
+      "word": "belonged",
+      "reason": "construes possessive relation viewed from the possessed end. (inflected form of belong)"
+    },
+    {
+      "word": "lack",
+      "reason": "construes negative possessive relation."
+    },
+    {
+      "word": "lacks",
+      "reason": "construes negative possessive relation. (inflected form of lack)"
+    },
+    {
+      "word": "lacking",
+      "reason": "construes negative possessive relation. (inflected form of lack)"
+    },
+    {
+      "word": "lacked",
+      "reason": "construes negative possessive relation. (inflected form of lack)"
+    },
+    {
+      "word": "consist",
+      "reason": "construes part-whole relational composition."
+    },
+    {
+      "word": "consists",
+      "reason": "construes part-whole relational composition. (inflected form of consist)"
+    },
+    {
+      "word": "consisting",
+      "reason": "construes part-whole relational composition. (inflected form of consist)"
+    },
+    {
+      "word": "consisted",
+      "reason": "construes part-whole relational composition. (inflected form of consist)"
+    },
+    {
+      "word": "resemble",
+      "reason": "construes attributive relation of similarity."
+    },
+    {
+      "word": "resembles",
+      "reason": "construes attributive relation of similarity. (inflected form of resemble)"
+    },
+    {
+      "word": "resembling",
+      "reason": "construes attributive relation of similarity. (inflected form of resemble)"
+    },
+    {
+      "word": "resembled",
+      "reason": "construes attributive relation of similarity. (inflected form of resemble)"
+    },
+    {
+      "word": "match",
+      "reason": "construes attributive relation of correspondence."
+    },
+    {
+      "word": "matches",
+      "reason": "construes attributive relation of correspondence. (inflected form of match)"
+    },
+    {
+      "word": "matching",
+      "reason": "construes attributive relation of correspondence. (inflected form of match)"
+    },
+    {
+      "word": "matched",
+      "reason": "construes attributive relation of correspondence. (inflected form of match)"
+    },
+    {
+      "word": "fit",
+      "reason": "construes attributive relation of suitability."
+    },
+    {
+      "word": "fits",
+      "reason": "construes attributive relation of suitability. (inflected form of fit)"
+    },
+    {
+      "word": "fitting",
+      "reason": "construes attributive relation of suitability. (inflected form of fit)"
+    },
+    {
+      "word": "fitted",
+      "reason": "construes attributive relation of suitability. (inflected form of fit)"
+    },
+    {
+      "word": "suit",
+      "reason": "construes attributive relation of appropriateness."
+    },
+    {
+      "word": "suits",
+      "reason": "construes attributive relation of appropriateness. (inflected form of suit)"
+    },
+    {
+      "word": "suiting",
+      "reason": "construes attributive relation of appropriateness. (inflected form of suit)"
+    },
+    {
+      "word": "suited",
+      "reason": "construes attributive relation of appropriateness. (inflected form of suit)"
+    },
+    {
+      "word": "equate",
+      "reason": "construes identifying relation of equivalence."
+    },
+    {
+      "word": "equates",
+      "reason": "construes identifying relation of equivalence. (inflected form of equate)"
+    },
+    {
+      "word": "equating",
+      "reason": "construes identifying relation of equivalence. (inflected form of equate)"
+    },
+    {
+      "word": "equated",
+      "reason": "construes identifying relation of equivalence. (inflected form of equate)"
+    },
+    {
+      "word": "identify",
+      "reason": "construes identifying relation pairing Token to Value."
+    },
+    {
+      "word": "identifies",
+      "reason": "construes identifying relation pairing Token to Value. (inflected form of identify)"
+    },
+    {
+      "word": "identifying",
+      "reason": "construes identifying relation pairing Token to Value. (inflected form of identify)"
+    },
+    {
+      "word": "identified",
+      "reason": "construes identifying relation pairing Token to Value. (inflected form of identify)"
+    },
+    {
+      "word": "typify",
+      "reason": "construes identifying relation of exemplification."
+    },
+    {
+      "word": "typifies",
+      "reason": "construes identifying relation of exemplification. (inflected form of typify)"
+    },
+    {
+      "word": "typifying",
+      "reason": "construes identifying relation of exemplification. (inflected form of typify)"
+    },
+    {
+      "word": "typified",
+      "reason": "construes identifying relation of exemplification. (inflected form of typify)"
+    },
+    {
+      "word": "exemplify",
+      "reason": "construes identifying relation of exemplification."
+    },
+    {
+      "word": "exemplifies",
+      "reason": "construes identifying relation of exemplification. (inflected form of exemplify)"
+    },
+    {
+      "word": "exemplifying",
+      "reason": "construes identifying relation of exemplification. (inflected form of exemplify)"
+    },
+    {
+      "word": "exemplified",
+      "reason": "construes identifying relation of exemplification. (inflected form of exemplify)"
+    },
+    {
+      "word": "symbolise",
+      "reason": "construes identifying relation of symbolic value."
+    },
+    {
+      "word": "symbolises",
+      "reason": "construes identifying relation of symbolic value. (inflected form of symbolise)"
+    },
+    {
+      "word": "symbolising",
+      "reason": "construes identifying relation of symbolic value. (inflected form of symbolise)"
+    },
+    {
+      "word": "symbolised",
+      "reason": "construes identifying relation of symbolic value. (inflected form of symbolise)"
+    },
+    {
+      "word": "symbolize",
+      "reason": "construes identifying relation of symbolic value."
+    },
+    {
+      "word": "symbolizes",
+      "reason": "construes identifying relation of symbolic value. (inflected form of symbolize)"
+    },
+    {
+      "word": "symbolizing",
+      "reason": "construes identifying relation of symbolic value. (inflected form of symbolize)"
+    },
+    {
+      "word": "symbolized",
+      "reason": "construes identifying relation of symbolic value. (inflected form of symbolize)"
+    },
+    {
+      "word": "embody",
+      "reason": "construes identifying relation of instantiation."
+    },
+    {
+      "word": "embodies",
+      "reason": "construes identifying relation of instantiation. (inflected form of embody)"
+    },
+    {
+      "word": "embodying",
+      "reason": "construes identifying relation of instantiation. (inflected form of embody)"
+    },
+    {
+      "word": "embodied",
+      "reason": "construes identifying relation of instantiation. (inflected form of embody)"
+    },
+    {
+      "word": "personify",
+      "reason": "construes identifying relation of embodiment."
+    },
+    {
+      "word": "personifies",
+      "reason": "construes identifying relation of embodiment. (inflected form of personify)"
+    },
+    {
+      "word": "personifying",
+      "reason": "construes identifying relation of embodiment. (inflected form of personify)"
+    },
+    {
+      "word": "personified",
+      "reason": "construes identifying relation of embodiment. (inflected form of personify)"
+    },
+    {
+      "word": "amount",
+      "reason": "construes identifying-relational equivalence (e.g., ‘amount to’)."
+    },
+    {
+      "word": "amounts",
+      "reason": "construes identifying-relational equivalence (e.g., ‘amount to’). (inflected form of amount)"
+    },
+    {
+      "word": "amounting",
+      "reason": "construes identifying-relational equivalence (e.g., ‘amount to’). (inflected form of amount)"
+    },
+    {
+      "word": "amounted",
+      "reason": "construes identifying-relational equivalence (e.g., ‘amount to’). (inflected form of amount)"
+    },
+    {
+      "word": "measure",
+      "reason": "construes attributive-relational quantification (relational use)."
+    },
+    {
+      "word": "measures",
+      "reason": "construes attributive-relational quantification (relational use). (inflected form of measure)"
+    },
+    {
+      "word": "measuring",
+      "reason": "construes attributive-relational quantification (relational use). (inflected form of measure)"
+    },
+    {
+      "word": "measured",
+      "reason": "construes attributive-relational quantification (relational use). (inflected form of measure)"
+    },
+    {
+      "word": "weigh",
+      "reason": "construes attributive-relational quantification of mass (relational use)."
+    },
+    {
+      "word": "weighs",
+      "reason": "construes attributive-relational quantification of mass (relational use). (inflected form of weigh)"
+    },
+    {
+      "word": "weighing",
+      "reason": "construes attributive-relational quantification of mass (relational use). (inflected form of weigh)"
+    },
+    {
+      "word": "weighed",
+      "reason": "construes attributive-relational quantification of mass (relational use). (inflected form of weigh)"
+    },
+    {
+      "word": "cost",
+      "reason": "construes attributive-relational quantification of price."
+    },
+    {
+      "word": "costs",
+      "reason": "construes attributive-relational quantification of price. (inflected form of cost)"
+    },
+    {
+      "word": "costing",
+      "reason": "construes attributive-relational quantification of price. (inflected form of cost)"
+    },
+    {
+      "word": "costed",
+      "reason": "construes attributive-relational quantification of price. (inflected form of cost)"
+    },
+    {
+      "word": "smack",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘smack of’)."
+    },
+    {
+      "word": "smacks",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘smack of’). (inflected form of smack)"
+    },
+    {
+      "word": "smacking",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘smack of’). (inflected form of smack)"
+    },
+    {
+      "word": "smacked",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘smack of’). (inflected form of smack)"
+    },
+    {
+      "word": "reek",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘reek of’)."
+    },
+    {
+      "word": "reeks",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘reek of’). (inflected form of reek)"
+    },
+    {
+      "word": "reeking",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘reek of’). (inflected form of reek)"
+    },
+    {
+      "word": "reeked",
+      "reason": "construes attributive-relational evidence relation (e.g., ‘reek of’). (inflected form of reek)"
+    },
+    {
+      "word": "correspond",
+      "reason": "construes relational equivalence between participants."
+    },
+    {
+      "word": "corresponds",
+      "reason": "construes relational equivalence between participants. (inflected form of correspond)"
+    },
+    {
+      "word": "corresponded",
+      "reason": "construes relational equivalence between participants. (inflected form of correspond)"
+    },
+    {
+      "word": "differ",
+      "reason": "construes relational non-identity between participants."
+    },
+    {
+      "word": "differs",
+      "reason": "construes relational non-identity between participants. (inflected form of differ)"
+    },
+    {
+      "word": "differing",
+      "reason": "construes relational non-identity between participants. (inflected form of differ)"
+    },
+    {
+      "word": "differed",
+      "reason": "construes relational non-identity between participants. (inflected form of differ)"
+    },
+    {
+      "word": "vary",
+      "reason": "construes relational difference across instances."
+    },
+    {
+      "word": "varies",
+      "reason": "construes relational difference across instances. (inflected form of vary)"
+    },
+    {
+      "word": "varying",
+      "reason": "construes relational difference across instances. (inflected form of vary)"
+    },
+    {
+      "word": "varied",
+      "reason": "construes relational difference across instances. (inflected form of vary)"
+    },
+    {
+      "word": "depend",
+      "reason": "construes relational contingency between participants."
+    },
+    {
+      "word": "depends",
+      "reason": "construes relational contingency between participants. (inflected form of depend)"
+    },
+    {
+      "word": "depending",
+      "reason": "construes relational contingency between participants. (inflected form of depend)"
+    },
+    {
+      "word": "depended",
+      "reason": "construes relational contingency between participants. (inflected form of depend)"
+    },
+    {
+      "word": "relate",
+      "reason": "construes relational connection between participants."
+    },
+    {
+      "word": "relates",
+      "reason": "construes relational connection between participants. (inflected form of relate)"
+    },
+    {
+      "word": "relating",
+      "reason": "construes relational connection between participants. (inflected form of relate)"
+    },
+    {
+      "word": "pertain",
+      "reason": "construes relational appurtenance to a participant."
+    },
+    {
+      "word": "pertains",
+      "reason": "construes relational appurtenance to a participant. (inflected form of pertain)"
+    },
+    {
+      "word": "pertaining",
+      "reason": "construes relational appurtenance to a participant. (inflected form of pertain)"
+    },
+    {
+      "word": "pertained",
+      "reason": "construes relational appurtenance to a participant. (inflected form of pertain)"
+    },
+    {
+      "word": "concern",
+      "reason": "construes relational aboutness with respect to a participant."
+    },
+    {
+      "word": "concerns",
+      "reason": "construes relational aboutness with respect to a participant. (inflected form of concern)"
+    },
+    {
+      "word": "concerning",
+      "reason": "construes relational aboutness with respect to a participant. (inflected form of concern)"
+    },
+    {
+      "word": "concerned",
+      "reason": "construes relational aboutness with respect to a participant. (inflected form of concern)"
+    },
+    {
+      "word": "regard",
+      "reason": "construes relational orientation toward a participant (relational use, e.g., ‘as regards’)."
+    },
+    {
+      "word": "regards",
+      "reason": "construes relational orientation toward a participant (relational use, e.g., ‘as regards’). (inflected form of regard)"
+    },
+    {
+      "word": "regarding",
+      "reason": "construes relational orientation toward a participant (relational use, e.g., ‘as regards’). (inflected form of regard)"
+    },
+    {
+      "word": "regarded",
+      "reason": "construes relational orientation toward a participant (relational use, e.g., ‘as regards’). (inflected form of regard)"
+    },
+    {
+      "word": "count",
+      "reason": "construes identifying relation in ‘count as’."
+    },
+    {
+      "word": "counts",
+      "reason": "construes identifying relation in ‘count as’. (inflected form of count)"
+    },
+    {
+      "word": "counting",
+      "reason": "construes identifying relation in ‘count as’. (inflected form of count)"
+    },
+    {
+      "word": "counted",
+      "reason": "construes identifying relation in ‘count as’. (inflected form of count)"
+    },
+    {
+      "word": "qualify",
+      "reason": "construes identifying relation in ‘qualify as’."
+    },
+    {
+      "word": "qualifies",
+      "reason": "construes identifying relation in ‘qualify as’. (inflected form of qualify)"
+    },
+    {
+      "word": "qualifying",
+      "reason": "construes identifying relation in ‘qualify as’. (inflected form of qualify)"
+    },
+    {
+      "word": "qualified",
+      "reason": "construes identifying relation in ‘qualify as’. (inflected form of qualify)"
+    },
+    {
+      "word": "rank",
+      "reason": "construes identifying relation of position in an ordering."
+    },
+    {
+      "word": "ranks",
+      "reason": "construes identifying relation of position in an ordering. (inflected form of rank)"
+    },
+    {
+      "word": "ranking",
+      "reason": "construes identifying relation of position in an ordering. (inflected form of rank)"
+    },
+    {
+      "word": "ranked",
+      "reason": "construes identifying relation of position in an ordering. (inflected form of rank)"
+    },
+    {
+      "word": "last",
+      "reason": "construes attributive-relational duration."
+    },
+    {
+      "word": "lasts",
+      "reason": "construes attributive-relational duration. (inflected form of last)"
+    },
+    {
+      "word": "lasting",
+      "reason": "construes attributive-relational duration. (inflected form of last)"
+    },
+    {
+      "word": "lasted",
+      "reason": "construes attributive-relational duration. (inflected form of last)"
+    },
+    {
+      "word": "feature",
+      "reason": "construes possessive-relational containing of an Attribute."
+    },
+    {
+      "word": "featuring",
+      "reason": "construes possessive-relational containing of an Attribute. (inflected form of feature)"
+    },
+    {
+      "word": "featured",
+      "reason": "construes possessive-relational containing of an Attribute. (inflected form of feature)"
+    },
+    {
+      "word": "carry",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use)."
+    },
+    {
+      "word": "carries",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use). (inflected form of carry)"
+    },
+    {
+      "word": "carrying",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use). (inflected form of carry)"
+    },
+    {
+      "word": "carried",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use). (inflected form of carry)"
+    },
+    {
+      "word": "bear",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use, e.g., ‘bear a resemblance’)."
+    },
+    {
+      "word": "bears",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use, e.g., ‘bear a resemblance’). (inflected form of bear)"
+    },
+    {
+      "word": "bearing",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use, e.g., ‘bear a resemblance’). (inflected form of bear)"
+    },
+    {
+      "word": "bore",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use, e.g., ‘bear a resemblance’). (inflected form of bear)"
+    },
+    {
+      "word": "borne",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use, e.g., ‘bear a resemblance’). (inflected form of bear)"
+    },
+    {
+      "word": "born",
+      "reason": "construes possessive-relational bearing of an Attribute (relational use, e.g., ‘bear a resemblance’). (inflected form of bear)"
+    }
+  ]
+}

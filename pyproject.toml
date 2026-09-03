@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hashfold"
+version = "0.10.0"
+description = "A zero-dependency deterministic measurement library for prose. Same input bytes in, same feature vectors out — on any host, every time."
+readme = "README.md"
+license = {text = "Apache-2.0"}
+authors = [{name = "corgido"}]
+requires-python = ">=3.11"
+dependencies = []
+keywords = ["text-measurement", "deterministic", "reproducibility", "nlp", "stylometry", "prose-analysis"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Text Processing :: Linguistic",
+]
+
+[project.urls]
+Repository = "https://github.com/corgido/hashfold"
+Documentation = "https://github.com/corgido/hashfold#readme"
+Changelog = "https://github.com/corgido/hashfold/blob/main/CHANGELOG.md"
+Issues = "https://github.com/corgido/hashfold/issues"
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+hashfold = "instrument.serve.http:main"
+
+[tool.setuptools.packages.find]
+include = ["instrument*"]
+exclude = [
+    "_dev*", "_raw*", "docs*", "fixtures*", "tools*", "work*",
+    "corpus*", "results*", "profiles*", "logs*", "uploads*",
+    "outputs*", "converted*",
+]
+
+[tool.setuptools.package-data]
+"instrument.routing" = ["references/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["instrument"]
+python_files = "test_*.py"
+addopts = "--junitxml=.pytest-junit.xml -ra"

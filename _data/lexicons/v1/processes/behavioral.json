@@ -1,0 +1,1739 @@
+{
+  "category_name": "BEHAVIORAL_PROCESS_VERBS",
+  "source_file": "words_BEHAVIORAL_PROCESS_VERBS_expanded.json",
+  "count": 433,
+  "words": [
+    {
+      "word": "laugh",
+      "reason": "construes outward expression of amusement, mediating mental and material."
+    },
+    {
+      "word": "laughs",
+      "reason": "construes outward expression of amusement, mediating mental and material. (inflected form of laugh)"
+    },
+    {
+      "word": "laughing",
+      "reason": "construes outward expression of amusement, mediating mental and material. (inflected form of laugh)"
+    },
+    {
+      "word": "laughed",
+      "reason": "construes outward expression of amusement, mediating mental and material. (inflected form of laugh)"
+    },
+    {
+      "word": "smile",
+      "reason": "construes outward expression of affect."
+    },
+    {
+      "word": "smiles",
+      "reason": "construes outward expression of affect. (inflected form of smile)"
+    },
+    {
+      "word": "smiling",
+      "reason": "construes outward expression of affect. (inflected form of smile)"
+    },
+    {
+      "word": "smiled",
+      "reason": "construes outward expression of affect. (inflected form of smile)"
+    },
+    {
+      "word": "grin",
+      "reason": "construes outward expression of amusement."
+    },
+    {
+      "word": "grins",
+      "reason": "construes outward expression of amusement. (inflected form of grin)"
+    },
+    {
+      "word": "grinning",
+      "reason": "construes outward expression of amusement. (inflected form of grin)"
+    },
+    {
+      "word": "grinned",
+      "reason": "construes outward expression of amusement. (inflected form of grin)"
+    },
+    {
+      "word": "frown",
+      "reason": "construes outward expression of displeasure."
+    },
+    {
+      "word": "frowns",
+      "reason": "construes outward expression of displeasure. (inflected form of frown)"
+    },
+    {
+      "word": "frowning",
+      "reason": "construes outward expression of displeasure. (inflected form of frown)"
+    },
+    {
+      "word": "frowned",
+      "reason": "construes outward expression of displeasure. (inflected form of frown)"
+    },
+    {
+      "word": "scowl",
+      "reason": "construes outward expression of displeasure."
+    },
+    {
+      "word": "scowls",
+      "reason": "construes outward expression of displeasure. (inflected form of scowl)"
+    },
+    {
+      "word": "scowling",
+      "reason": "construes outward expression of displeasure. (inflected form of scowl)"
+    },
+    {
+      "word": "scowled",
+      "reason": "construes outward expression of displeasure. (inflected form of scowl)"
+    },
+    {
+      "word": "smirk",
+      "reason": "construes outward expression of self-satisfaction."
+    },
+    {
+      "word": "smirks",
+      "reason": "construes outward expression of self-satisfaction. (inflected form of smirk)"
+    },
+    {
+      "word": "smirking",
+      "reason": "construes outward expression of self-satisfaction. (inflected form of smirk)"
+    },
+    {
+      "word": "smirked",
+      "reason": "construes outward expression of self-satisfaction. (inflected form of smirk)"
+    },
+    {
+      "word": "cry",
+      "reason": "construes outward expression of distress (behavioral use, not the verbal ‘call’ use)."
+    },
+    {
+      "word": "cries",
+      "reason": "construes outward expression of distress (behavioral use, not the verbal ‘call’ use). (inflected form of cry)"
+    },
+    {
+      "word": "crying",
+      "reason": "construes outward expression of distress (behavioral use, not the verbal ‘call’ use). (inflected form of cry)"
+    },
+    {
+      "word": "cried",
+      "reason": "construes outward expression of distress (behavioral use, not the verbal ‘call’ use). (inflected form of cry)"
+    },
+    {
+      "word": "weep",
+      "reason": "construes behavioral expression of grief."
+    },
+    {
+      "word": "weeps",
+      "reason": "construes behavioral expression of grief. (inflected form of weep)"
+    },
+    {
+      "word": "weeping",
+      "reason": "construes behavioral expression of grief. (inflected form of weep)"
+    },
+    {
+      "word": "wept",
+      "reason": "construes behavioral expression of grief. (inflected form of weep)"
+    },
+    {
+      "word": "sob",
+      "reason": "construes behavioral expression of intense crying."
+    },
+    {
+      "word": "sobs",
+      "reason": "construes behavioral expression of intense crying. (inflected form of sob)"
+    },
+    {
+      "word": "sobbing",
+      "reason": "construes behavioral expression of intense crying. (inflected form of sob)"
+    },
+    {
+      "word": "sobbed",
+      "reason": "construes behavioral expression of intense crying. (inflected form of sob)"
+    },
+    {
+      "word": "sigh",
+      "reason": "construes behavioral expression with breath."
+    },
+    {
+      "word": "sighs",
+      "reason": "construes behavioral expression with breath. (inflected form of sigh)"
+    },
+    {
+      "word": "sighing",
+      "reason": "construes behavioral expression with breath. (inflected form of sigh)"
+    },
+    {
+      "word": "sighed",
+      "reason": "construes behavioral expression with breath. (inflected form of sigh)"
+    },
+    {
+      "word": "groan",
+      "reason": "construes behavioral vocal expression of discomfort."
+    },
+    {
+      "word": "groans",
+      "reason": "construes behavioral vocal expression of discomfort. (inflected form of groan)"
+    },
+    {
+      "word": "groaning",
+      "reason": "construes behavioral vocal expression of discomfort. (inflected form of groan)"
+    },
+    {
+      "word": "groaned",
+      "reason": "construes behavioral vocal expression of discomfort. (inflected form of groan)"
+    },
+    {
+      "word": "moan",
+      "reason": "construes behavioral vocal expression of discomfort or pleasure."
+    },
+    {
+      "word": "moans",
+      "reason": "construes behavioral vocal expression of discomfort or pleasure. (inflected form of moan)"
+    },
+    {
+      "word": "moaning",
+      "reason": "construes behavioral vocal expression of discomfort or pleasure. (inflected form of moan)"
+    },
+    {
+      "word": "moaned",
+      "reason": "construes behavioral vocal expression of discomfort or pleasure. (inflected form of moan)"
+    },
+    {
+      "word": "yawn",
+      "reason": "construes physiological behavior of fatigue."
+    },
+    {
+      "word": "yawns",
+      "reason": "construes physiological behavior of fatigue. (inflected form of yawn)"
+    },
+    {
+      "word": "yawning",
+      "reason": "construes physiological behavior of fatigue. (inflected form of yawn)"
+    },
+    {
+      "word": "yawned",
+      "reason": "construes physiological behavior of fatigue. (inflected form of yawn)"
+    },
+    {
+      "word": "breathe",
+      "reason": "construes ongoing physiological behavior of respiration."
+    },
+    {
+      "word": "breathes",
+      "reason": "construes ongoing physiological behavior of respiration. (inflected form of breathe)"
+    },
+    {
+      "word": "breathing",
+      "reason": "construes ongoing physiological behavior of respiration. (inflected form of breathe)"
+    },
+    {
+      "word": "breathed",
+      "reason": "construes ongoing physiological behavior of respiration. (inflected form of breathe)"
+    },
+    {
+      "word": "inhale",
+      "reason": "construes physiological behavior of breathing in."
+    },
+    {
+      "word": "inhales",
+      "reason": "construes physiological behavior of breathing in. (inflected form of inhale)"
+    },
+    {
+      "word": "inhaling",
+      "reason": "construes physiological behavior of breathing in. (inflected form of inhale)"
+    },
+    {
+      "word": "inhaled",
+      "reason": "construes physiological behavior of breathing in. (inflected form of inhale)"
+    },
+    {
+      "word": "exhale",
+      "reason": "construes physiological behavior of breathing out."
+    },
+    {
+      "word": "exhales",
+      "reason": "construes physiological behavior of breathing out. (inflected form of exhale)"
+    },
+    {
+      "word": "exhaling",
+      "reason": "construes physiological behavior of breathing out. (inflected form of exhale)"
+    },
+    {
+      "word": "exhaled",
+      "reason": "construes physiological behavior of breathing out. (inflected form of exhale)"
+    },
+    {
+      "word": "sneeze",
+      "reason": "construes involuntary physiological behavior."
+    },
+    {
+      "word": "sneezes",
+      "reason": "construes involuntary physiological behavior. (inflected form of sneeze)"
+    },
+    {
+      "word": "sneezing",
+      "reason": "construes involuntary physiological behavior. (inflected form of sneeze)"
+    },
+    {
+      "word": "sneezed",
+      "reason": "construes involuntary physiological behavior. (inflected form of sneeze)"
+    },
+    {
+      "word": "cough",
+      "reason": "construes physiological behavior of expulsion."
+    },
+    {
+      "word": "coughs",
+      "reason": "construes physiological behavior of expulsion. (inflected form of cough)"
+    },
+    {
+      "word": "coughing",
+      "reason": "construes physiological behavior of expulsion. (inflected form of cough)"
+    },
+    {
+      "word": "coughed",
+      "reason": "construes physiological behavior of expulsion. (inflected form of cough)"
+    },
+    {
+      "word": "hiccup",
+      "reason": "construes involuntary physiological behavior."
+    },
+    {
+      "word": "hiccups",
+      "reason": "construes involuntary physiological behavior. (inflected form of hiccup)"
+    },
+    {
+      "word": "hiccuping",
+      "reason": "construes involuntary physiological behavior. (inflected form of hiccup)"
+    },
+    {
+      "word": "hiccuped",
+      "reason": "construes involuntary physiological behavior. (inflected form of hiccup)"
+    },
+    {
+      "word": "snore",
+      "reason": "construes physiological behavior during sleep."
+    },
+    {
+      "word": "snores",
+      "reason": "construes physiological behavior during sleep. (inflected form of snore)"
+    },
+    {
+      "word": "snoring",
+      "reason": "construes physiological behavior during sleep. (inflected form of snore)"
+    },
+    {
+      "word": "snored",
+      "reason": "construes physiological behavior during sleep. (inflected form of snore)"
+    },
+    {
+      "word": "sniff",
+      "reason": "construes behavioral perception combining inhalation and smelling."
+    },
+    {
+      "word": "sniffs",
+      "reason": "construes behavioral perception combining inhalation and smelling. (inflected form of sniff)"
+    },
+    {
+      "word": "sniffing",
+      "reason": "construes behavioral perception combining inhalation and smelling. (inflected form of sniff)"
+    },
+    {
+      "word": "sniffed",
+      "reason": "construes behavioral perception combining inhalation and smelling. (inflected form of sniff)"
+    },
+    {
+      "word": "sniffle",
+      "reason": "construes behavioral nasal expression."
+    },
+    {
+      "word": "sniffles",
+      "reason": "construes behavioral nasal expression. (inflected form of sniffle)"
+    },
+    {
+      "word": "sniffling",
+      "reason": "construes behavioral nasal expression. (inflected form of sniffle)"
+    },
+    {
+      "word": "sniffled",
+      "reason": "construes behavioral nasal expression. (inflected form of sniffle)"
+    },
+    {
+      "word": "blink",
+      "reason": "construes physiological behavior of eyelids."
+    },
+    {
+      "word": "blinks",
+      "reason": "construes physiological behavior of eyelids. (inflected form of blink)"
+    },
+    {
+      "word": "blinking",
+      "reason": "construes physiological behavior of eyelids. (inflected form of blink)"
+    },
+    {
+      "word": "blinked",
+      "reason": "construes physiological behavior of eyelids. (inflected form of blink)"
+    },
+    {
+      "word": "wink",
+      "reason": "construes behavioral expressive eyelid movement."
+    },
+    {
+      "word": "winks",
+      "reason": "construes behavioral expressive eyelid movement. (inflected form of wink)"
+    },
+    {
+      "word": "winking",
+      "reason": "construes behavioral expressive eyelid movement. (inflected form of wink)"
+    },
+    {
+      "word": "winked",
+      "reason": "construes behavioral expressive eyelid movement. (inflected form of wink)"
+    },
+    {
+      "word": "stare",
+      "reason": "construes sustained behavioral perception combining looking and attention."
+    },
+    {
+      "word": "stares",
+      "reason": "construes sustained behavioral perception combining looking and attention. (inflected form of stare)"
+    },
+    {
+      "word": "staring",
+      "reason": "construes sustained behavioral perception combining looking and attention. (inflected form of stare)"
+    },
+    {
+      "word": "stared",
+      "reason": "construes sustained behavioral perception combining looking and attention. (inflected form of stare)"
+    },
+    {
+      "word": "gaze",
+      "reason": "construes sustained behavioral looking."
+    },
+    {
+      "word": "gazes",
+      "reason": "construes sustained behavioral looking. (inflected form of gaze)"
+    },
+    {
+      "word": "gazing",
+      "reason": "construes sustained behavioral looking. (inflected form of gaze)"
+    },
+    {
+      "word": "gazed",
+      "reason": "construes sustained behavioral looking. (inflected form of gaze)"
+    },
+    {
+      "word": "glance",
+      "reason": "construes brief behavioral looking."
+    },
+    {
+      "word": "glances",
+      "reason": "construes brief behavioral looking. (inflected form of glance)"
+    },
+    {
+      "word": "glancing",
+      "reason": "construes brief behavioral looking. (inflected form of glance)"
+    },
+    {
+      "word": "glanced",
+      "reason": "construes brief behavioral looking. (inflected form of glance)"
+    },
+    {
+      "word": "peek",
+      "reason": "construes furtive behavioral looking."
+    },
+    {
+      "word": "peeks",
+      "reason": "construes furtive behavioral looking. (inflected form of peek)"
+    },
+    {
+      "word": "peeking",
+      "reason": "construes furtive behavioral looking. (inflected form of peek)"
+    },
+    {
+      "word": "peeked",
+      "reason": "construes furtive behavioral looking. (inflected form of peek)"
+    },
+    {
+      "word": "peer",
+      "reason": "construes effortful behavioral looking."
+    },
+    {
+      "word": "peers",
+      "reason": "construes effortful behavioral looking. (inflected form of peer)"
+    },
+    {
+      "word": "peering",
+      "reason": "construes effortful behavioral looking. (inflected form of peer)"
+    },
+    {
+      "word": "peered",
+      "reason": "construes effortful behavioral looking. (inflected form of peer)"
+    },
+    {
+      "word": "squint",
+      "reason": "construes behavioral narrowing of eyes to look."
+    },
+    {
+      "word": "squints",
+      "reason": "construes behavioral narrowing of eyes to look. (inflected form of squint)"
+    },
+    {
+      "word": "squinting",
+      "reason": "construes behavioral narrowing of eyes to look. (inflected form of squint)"
+    },
+    {
+      "word": "squinted",
+      "reason": "construes behavioral narrowing of eyes to look. (inflected form of squint)"
+    },
+    {
+      "word": "watch",
+      "reason": "construes attentive behavioral looking."
+    },
+    {
+      "word": "watches",
+      "reason": "construes attentive behavioral looking. (inflected form of watch)"
+    },
+    {
+      "word": "watching",
+      "reason": "construes attentive behavioral looking. (inflected form of watch)"
+    },
+    {
+      "word": "watched",
+      "reason": "construes attentive behavioral looking. (inflected form of watch)"
+    },
+    {
+      "word": "listen",
+      "reason": "construes attentive behavioral hearing."
+    },
+    {
+      "word": "listens",
+      "reason": "construes attentive behavioral hearing. (inflected form of listen)"
+    },
+    {
+      "word": "listening",
+      "reason": "construes attentive behavioral hearing. (inflected form of listen)"
+    },
+    {
+      "word": "listened",
+      "reason": "construes attentive behavioral hearing. (inflected form of listen)"
+    },
+    {
+      "word": "eavesdrop",
+      "reason": "construes covert behavioral hearing."
+    },
+    {
+      "word": "eavesdrops",
+      "reason": "construes covert behavioral hearing. (inflected form of eavesdrop)"
+    },
+    {
+      "word": "eavesdroping",
+      "reason": "construes covert behavioral hearing. (inflected form of eavesdrop)"
+    },
+    {
+      "word": "eavesdroped",
+      "reason": "construes covert behavioral hearing. (inflected form of eavesdrop)"
+    },
+    {
+      "word": "nod",
+      "reason": "construes behavioral head movement of assent."
+    },
+    {
+      "word": "nods",
+      "reason": "construes behavioral head movement of assent. (inflected form of nod)"
+    },
+    {
+      "word": "nodding",
+      "reason": "construes behavioral head movement of assent. (inflected form of nod)"
+    },
+    {
+      "word": "nodded",
+      "reason": "construes behavioral head movement of assent. (inflected form of nod)"
+    },
+    {
+      "word": "shake",
+      "reason": "construes behavioral head movement of dissent (behavioral use, e.g., ‘shake one’s head’)."
+    },
+    {
+      "word": "shakes",
+      "reason": "construes behavioral head movement of dissent (behavioral use, e.g., ‘shake one’s head’). (inflected form of shake)"
+    },
+    {
+      "word": "shaking",
+      "reason": "construes behavioral head movement of dissent (behavioral use, e.g., ‘shake one’s head’). (inflected form of shake)"
+    },
+    {
+      "word": "shook",
+      "reason": "construes behavioral head movement of dissent (behavioral use, e.g., ‘shake one’s head’). (inflected form of shake)"
+    },
+    {
+      "word": "shaken",
+      "reason": "construes behavioral head movement of dissent (behavioral use, e.g., ‘shake one’s head’). (inflected form of shake)"
+    },
+    {
+      "word": "shrug",
+      "reason": "construes behavioral shoulder movement of indifference."
+    },
+    {
+      "word": "shrugs",
+      "reason": "construes behavioral shoulder movement of indifference. (inflected form of shrug)"
+    },
+    {
+      "word": "shrugging",
+      "reason": "construes behavioral shoulder movement of indifference. (inflected form of shrug)"
+    },
+    {
+      "word": "shrugged",
+      "reason": "construes behavioral shoulder movement of indifference. (inflected form of shrug)"
+    },
+    {
+      "word": "gesture",
+      "reason": "construes behavioral bodily movement signalling."
+    },
+    {
+      "word": "gestures",
+      "reason": "construes behavioral bodily movement signalling. (inflected form of gesture)"
+    },
+    {
+      "word": "gesturing",
+      "reason": "construes behavioral bodily movement signalling. (inflected form of gesture)"
+    },
+    {
+      "word": "gestured",
+      "reason": "construes behavioral bodily movement signalling. (inflected form of gesture)"
+    },
+    {
+      "word": "point",
+      "reason": "construes behavioral indication with limb."
+    },
+    {
+      "word": "points",
+      "reason": "construes behavioral indication with limb. (inflected form of point)"
+    },
+    {
+      "word": "pointing",
+      "reason": "construes behavioral indication with limb. (inflected form of point)"
+    },
+    {
+      "word": "pointed",
+      "reason": "construes behavioral indication with limb. (inflected form of point)"
+    },
+    {
+      "word": "wave",
+      "reason": "construes behavioral hand movement of greeting or signalling."
+    },
+    {
+      "word": "waves",
+      "reason": "construes behavioral hand movement of greeting or signalling. (inflected form of wave)"
+    },
+    {
+      "word": "waving",
+      "reason": "construes behavioral hand movement of greeting or signalling. (inflected form of wave)"
+    },
+    {
+      "word": "waved",
+      "reason": "construes behavioral hand movement of greeting or signalling. (inflected form of wave)"
+    },
+    {
+      "word": "blush",
+      "reason": "construes physiological behavior of facial colouring."
+    },
+    {
+      "word": "blushes",
+      "reason": "construes physiological behavior of facial colouring. (inflected form of blush)"
+    },
+    {
+      "word": "blushing",
+      "reason": "construes physiological behavior of facial colouring. (inflected form of blush)"
+    },
+    {
+      "word": "blushed",
+      "reason": "construes physiological behavior of facial colouring. (inflected form of blush)"
+    },
+    {
+      "word": "flush",
+      "reason": "construes physiological behavior of skin colouring."
+    },
+    {
+      "word": "flushes",
+      "reason": "construes physiological behavior of skin colouring. (inflected form of flush)"
+    },
+    {
+      "word": "flushing",
+      "reason": "construes physiological behavior of skin colouring. (inflected form of flush)"
+    },
+    {
+      "word": "flushed",
+      "reason": "construes physiological behavior of skin colouring. (inflected form of flush)"
+    },
+    {
+      "word": "tremble",
+      "reason": "construes physiological behavior of involuntary shaking."
+    },
+    {
+      "word": "trembles",
+      "reason": "construes physiological behavior of involuntary shaking. (inflected form of tremble)"
+    },
+    {
+      "word": "trembling",
+      "reason": "construes physiological behavior of involuntary shaking. (inflected form of tremble)"
+    },
+    {
+      "word": "trembled",
+      "reason": "construes physiological behavior of involuntary shaking. (inflected form of tremble)"
+    },
+    {
+      "word": "shiver",
+      "reason": "construes physiological behavior of cold or fear."
+    },
+    {
+      "word": "shivers",
+      "reason": "construes physiological behavior of cold or fear. (inflected form of shiver)"
+    },
+    {
+      "word": "shivering",
+      "reason": "construes physiological behavior of cold or fear. (inflected form of shiver)"
+    },
+    {
+      "word": "shivered",
+      "reason": "construes physiological behavior of cold or fear. (inflected form of shiver)"
+    },
+    {
+      "word": "shudder",
+      "reason": "construes physiological behavior of revulsion."
+    },
+    {
+      "word": "shudders",
+      "reason": "construes physiological behavior of revulsion. (inflected form of shudder)"
+    },
+    {
+      "word": "shuddering",
+      "reason": "construes physiological behavior of revulsion. (inflected form of shudder)"
+    },
+    {
+      "word": "shuddered",
+      "reason": "construes physiological behavior of revulsion. (inflected form of shudder)"
+    },
+    {
+      "word": "flinch",
+      "reason": "construes physiological behavior of recoil."
+    },
+    {
+      "word": "flinches",
+      "reason": "construes physiological behavior of recoil. (inflected form of flinch)"
+    },
+    {
+      "word": "flinching",
+      "reason": "construes physiological behavior of recoil. (inflected form of flinch)"
+    },
+    {
+      "word": "flinched",
+      "reason": "construes physiological behavior of recoil. (inflected form of flinch)"
+    },
+    {
+      "word": "wince",
+      "reason": "construes physiological behavior of pain expression."
+    },
+    {
+      "word": "winces",
+      "reason": "construes physiological behavior of pain expression. (inflected form of wince)"
+    },
+    {
+      "word": "wincing",
+      "reason": "construes physiological behavior of pain expression. (inflected form of wince)"
+    },
+    {
+      "word": "winced",
+      "reason": "construes physiological behavior of pain expression. (inflected form of wince)"
+    },
+    {
+      "word": "grimace",
+      "reason": "construes behavioral facial expression of distaste."
+    },
+    {
+      "word": "grimaces",
+      "reason": "construes behavioral facial expression of distaste. (inflected form of grimace)"
+    },
+    {
+      "word": "grimacing",
+      "reason": "construes behavioral facial expression of distaste. (inflected form of grimace)"
+    },
+    {
+      "word": "grimaced",
+      "reason": "construes behavioral facial expression of distaste. (inflected form of grimace)"
+    },
+    {
+      "word": "pout",
+      "reason": "construes behavioral facial expression of displeasure."
+    },
+    {
+      "word": "pouts",
+      "reason": "construes behavioral facial expression of displeasure. (inflected form of pout)"
+    },
+    {
+      "word": "pouting",
+      "reason": "construes behavioral facial expression of displeasure. (inflected form of pout)"
+    },
+    {
+      "word": "pouted",
+      "reason": "construes behavioral facial expression of displeasure. (inflected form of pout)"
+    },
+    {
+      "word": "yell",
+      "reason": "construes behavioral-vocal expression of strong feeling (behavioral use, distinct from manner-of-speaking)."
+    },
+    {
+      "word": "yells",
+      "reason": "construes behavioral-vocal expression of strong feeling (behavioral use, distinct from manner-of-speaking). (inflected form of yell)"
+    },
+    {
+      "word": "yelling",
+      "reason": "construes behavioral-vocal expression of strong feeling (behavioral use, distinct from manner-of-speaking). (inflected form of yell)"
+    },
+    {
+      "word": "yelled",
+      "reason": "construes behavioral-vocal expression of strong feeling (behavioral use, distinct from manner-of-speaking). (inflected form of yell)"
+    },
+    {
+      "word": "chuckle",
+      "reason": "construes behavioral vocal expression of amusement."
+    },
+    {
+      "word": "chuckles",
+      "reason": "construes behavioral vocal expression of amusement. (inflected form of chuckle)"
+    },
+    {
+      "word": "chuckling",
+      "reason": "construes behavioral vocal expression of amusement. (inflected form of chuckle)"
+    },
+    {
+      "word": "chuckled",
+      "reason": "construes behavioral vocal expression of amusement. (inflected form of chuckle)"
+    },
+    {
+      "word": "giggle",
+      "reason": "construes behavioral vocal expression of light amusement."
+    },
+    {
+      "word": "giggles",
+      "reason": "construes behavioral vocal expression of light amusement. (inflected form of giggle)"
+    },
+    {
+      "word": "giggling",
+      "reason": "construes behavioral vocal expression of light amusement. (inflected form of giggle)"
+    },
+    {
+      "word": "giggled",
+      "reason": "construes behavioral vocal expression of light amusement. (inflected form of giggle)"
+    },
+    {
+      "word": "snicker",
+      "reason": "construes behavioral vocal expression of suppressed amusement."
+    },
+    {
+      "word": "snickers",
+      "reason": "construes behavioral vocal expression of suppressed amusement. (inflected form of snicker)"
+    },
+    {
+      "word": "snickering",
+      "reason": "construes behavioral vocal expression of suppressed amusement. (inflected form of snicker)"
+    },
+    {
+      "word": "snickered",
+      "reason": "construes behavioral vocal expression of suppressed amusement. (inflected form of snicker)"
+    },
+    {
+      "word": "snort",
+      "reason": "construes behavioral nasal vocal expression."
+    },
+    {
+      "word": "snorts",
+      "reason": "construes behavioral nasal vocal expression. (inflected form of snort)"
+    },
+    {
+      "word": "snorting",
+      "reason": "construes behavioral nasal vocal expression. (inflected form of snort)"
+    },
+    {
+      "word": "snorted",
+      "reason": "construes behavioral nasal vocal expression. (inflected form of snort)"
+    },
+    {
+      "word": "gasp",
+      "reason": "construes behavioral sharp inhalation expressing surprise."
+    },
+    {
+      "word": "gasps",
+      "reason": "construes behavioral sharp inhalation expressing surprise. (inflected form of gasp)"
+    },
+    {
+      "word": "gasping",
+      "reason": "construes behavioral sharp inhalation expressing surprise. (inflected form of gasp)"
+    },
+    {
+      "word": "gasped",
+      "reason": "construes behavioral sharp inhalation expressing surprise. (inflected form of gasp)"
+    },
+    {
+      "word": "pant",
+      "reason": "construes behavioral rapid breathing."
+    },
+    {
+      "word": "pants",
+      "reason": "construes behavioral rapid breathing. (inflected form of pant)"
+    },
+    {
+      "word": "panting",
+      "reason": "construes behavioral rapid breathing. (inflected form of pant)"
+    },
+    {
+      "word": "panted",
+      "reason": "construes behavioral rapid breathing. (inflected form of pant)"
+    },
+    {
+      "word": "dream",
+      "reason": "construes behavioral mental activity during sleep (behavioral use)."
+    },
+    {
+      "word": "dreams",
+      "reason": "construes behavioral mental activity during sleep (behavioral use). (inflected form of dream)"
+    },
+    {
+      "word": "dreaming",
+      "reason": "construes behavioral mental activity during sleep (behavioral use). (inflected form of dream)"
+    },
+    {
+      "word": "dreamed",
+      "reason": "construes behavioral mental activity during sleep (behavioral use). (inflected form of dream)"
+    },
+    {
+      "word": "sleep",
+      "reason": "construes physiological behavior of rest."
+    },
+    {
+      "word": "sleeps",
+      "reason": "construes physiological behavior of rest. (inflected form of sleep)"
+    },
+    {
+      "word": "sleeping",
+      "reason": "construes physiological behavior of rest. (inflected form of sleep)"
+    },
+    {
+      "word": "slept",
+      "reason": "construes physiological behavior of rest. (inflected form of sleep)"
+    },
+    {
+      "word": "doze",
+      "reason": "construes physiological behavior of light sleep."
+    },
+    {
+      "word": "dozes",
+      "reason": "construes physiological behavior of light sleep. (inflected form of doze)"
+    },
+    {
+      "word": "dozing",
+      "reason": "construes physiological behavior of light sleep. (inflected form of doze)"
+    },
+    {
+      "word": "dozed",
+      "reason": "construes physiological behavior of light sleep. (inflected form of doze)"
+    },
+    {
+      "word": "snooze",
+      "reason": "construes physiological behavior of light sleep."
+    },
+    {
+      "word": "snoozes",
+      "reason": "construes physiological behavior of light sleep. (inflected form of snooze)"
+    },
+    {
+      "word": "snoozing",
+      "reason": "construes physiological behavior of light sleep. (inflected form of snooze)"
+    },
+    {
+      "word": "snoozed",
+      "reason": "construes physiological behavior of light sleep. (inflected form of snooze)"
+    },
+    {
+      "word": "daydream",
+      "reason": "construes behavioral mental wandering while awake."
+    },
+    {
+      "word": "daydreams",
+      "reason": "construes behavioral mental wandering while awake. (inflected form of daydream)"
+    },
+    {
+      "word": "daydreaming",
+      "reason": "construes behavioral mental wandering while awake. (inflected form of daydream)"
+    },
+    {
+      "word": "daydreamed",
+      "reason": "construes behavioral mental wandering while awake. (inflected form of daydream)"
+    },
+    {
+      "word": "meditate",
+      "reason": "construes behavioral mental focusing activity."
+    },
+    {
+      "word": "meditates",
+      "reason": "construes behavioral mental focusing activity. (inflected form of meditate)"
+    },
+    {
+      "word": "meditating",
+      "reason": "construes behavioral mental focusing activity. (inflected form of meditate)"
+    },
+    {
+      "word": "meditated",
+      "reason": "construes behavioral mental focusing activity. (inflected form of meditate)"
+    },
+    {
+      "word": "ruminate",
+      "reason": "construes behavioral mental dwelling activity."
+    },
+    {
+      "word": "ruminates",
+      "reason": "construes behavioral mental dwelling activity. (inflected form of ruminate)"
+    },
+    {
+      "word": "ruminating",
+      "reason": "construes behavioral mental dwelling activity. (inflected form of ruminate)"
+    },
+    {
+      "word": "ruminated",
+      "reason": "construes behavioral mental dwelling activity. (inflected form of ruminate)"
+    },
+    {
+      "word": "brood",
+      "reason": "construes behavioral mental dwelling on negative content."
+    },
+    {
+      "word": "broods",
+      "reason": "construes behavioral mental dwelling on negative content. (inflected form of brood)"
+    },
+    {
+      "word": "brooding",
+      "reason": "construes behavioral mental dwelling on negative content. (inflected form of brood)"
+    },
+    {
+      "word": "brooded",
+      "reason": "construes behavioral mental dwelling on negative content. (inflected form of brood)"
+    },
+    {
+      "word": "worry",
+      "reason": "construes behavioral mental affective dwelling."
+    },
+    {
+      "word": "worries",
+      "reason": "construes behavioral mental affective dwelling. (inflected form of worry)"
+    },
+    {
+      "word": "worrying",
+      "reason": "construes behavioral mental affective dwelling. (inflected form of worry)"
+    },
+    {
+      "word": "worried",
+      "reason": "construes behavioral mental affective dwelling. (inflected form of worry)"
+    },
+    {
+      "word": "sing",
+      "reason": "construes behavioral vocal performance."
+    },
+    {
+      "word": "sings",
+      "reason": "construes behavioral vocal performance. (inflected form of sing)"
+    },
+    {
+      "word": "singing",
+      "reason": "construes behavioral vocal performance. (inflected form of sing)"
+    },
+    {
+      "word": "sang",
+      "reason": "construes behavioral vocal performance. (inflected form of sing)"
+    },
+    {
+      "word": "sung",
+      "reason": "construes behavioral vocal performance. (inflected form of sing)"
+    },
+    {
+      "word": "hum",
+      "reason": "construes behavioral vocal performance with closed mouth."
+    },
+    {
+      "word": "hums",
+      "reason": "construes behavioral vocal performance with closed mouth. (inflected form of hum)"
+    },
+    {
+      "word": "humming",
+      "reason": "construes behavioral vocal performance with closed mouth. (inflected form of hum)"
+    },
+    {
+      "word": "hummed",
+      "reason": "construes behavioral vocal performance with closed mouth. (inflected form of hum)"
+    },
+    {
+      "word": "whistle",
+      "reason": "construes behavioral vocal-aerial performance."
+    },
+    {
+      "word": "whistles",
+      "reason": "construes behavioral vocal-aerial performance. (inflected form of whistle)"
+    },
+    {
+      "word": "whistling",
+      "reason": "construes behavioral vocal-aerial performance. (inflected form of whistle)"
+    },
+    {
+      "word": "whistled",
+      "reason": "construes behavioral vocal-aerial performance. (inflected form of whistle)"
+    },
+    {
+      "word": "dance",
+      "reason": "construes behavioral rhythmic bodily movement."
+    },
+    {
+      "word": "dances",
+      "reason": "construes behavioral rhythmic bodily movement. (inflected form of dance)"
+    },
+    {
+      "word": "dancing",
+      "reason": "construes behavioral rhythmic bodily movement. (inflected form of dance)"
+    },
+    {
+      "word": "danced",
+      "reason": "construes behavioral rhythmic bodily movement. (inflected form of dance)"
+    },
+    {
+      "word": "smell",
+      "reason": "construes behavioral perceptual sniffing (behavioral use, e.g., ‘smell at’)."
+    },
+    {
+      "word": "smells",
+      "reason": "construes behavioral perceptual sniffing (behavioral use, e.g., ‘smell at’). (inflected form of smell)"
+    },
+    {
+      "word": "smelling",
+      "reason": "construes behavioral perceptual sniffing (behavioral use, e.g., ‘smell at’). (inflected form of smell)"
+    },
+    {
+      "word": "smelled",
+      "reason": "construes behavioral perceptual sniffing (behavioral use, e.g., ‘smell at’). (inflected form of smell)"
+    },
+    {
+      "word": "smelt",
+      "reason": "construes behavioral perceptual sniffing (behavioral use, e.g., ‘smell at’). (inflected form of smell)"
+    },
+    {
+      "word": "taste",
+      "reason": "construes behavioral perceptual sampling (behavioral use)."
+    },
+    {
+      "word": "tastes",
+      "reason": "construes behavioral perceptual sampling (behavioral use). (inflected form of taste)"
+    },
+    {
+      "word": "tasting",
+      "reason": "construes behavioral perceptual sampling (behavioral use). (inflected form of taste)"
+    },
+    {
+      "word": "tasted",
+      "reason": "construes behavioral perceptual sampling (behavioral use). (inflected form of taste)"
+    },
+    {
+      "word": "glare",
+      "reason": "construes sustained hostile behavioral looking."
+    },
+    {
+      "word": "glares",
+      "reason": "construes sustained hostile behavioral looking. (inflected form of glare)"
+    },
+    {
+      "word": "glaring",
+      "reason": "construes sustained hostile behavioral looking. (inflected form of glare)"
+    },
+    {
+      "word": "glared",
+      "reason": "construes sustained hostile behavioral looking. (inflected form of glare)"
+    },
+    {
+      "word": "gape",
+      "reason": "construes behavioral open-mouthed looking."
+    },
+    {
+      "word": "gapes",
+      "reason": "construes behavioral open-mouthed looking. (inflected form of gape)"
+    },
+    {
+      "word": "gaping",
+      "reason": "construes behavioral open-mouthed looking. (inflected form of gape)"
+    },
+    {
+      "word": "gaped",
+      "reason": "construes behavioral open-mouthed looking. (inflected form of gape)"
+    },
+    {
+      "word": "guffaw",
+      "reason": "construes loud behavioral vocal expression of amusement."
+    },
+    {
+      "word": "guffaws",
+      "reason": "construes loud behavioral vocal expression of amusement. (inflected form of guffaw)"
+    },
+    {
+      "word": "guffawing",
+      "reason": "construes loud behavioral vocal expression of amusement. (inflected form of guffaw)"
+    },
+    {
+      "word": "guffawed",
+      "reason": "construes loud behavioral vocal expression of amusement. (inflected form of guffaw)"
+    },
+    {
+      "word": "chortle",
+      "reason": "construes behavioral vocal expression of pleased amusement."
+    },
+    {
+      "word": "chortles",
+      "reason": "construes behavioral vocal expression of pleased amusement. (inflected form of chortle)"
+    },
+    {
+      "word": "chortling",
+      "reason": "construes behavioral vocal expression of pleased amusement. (inflected form of chortle)"
+    },
+    {
+      "word": "chortled",
+      "reason": "construes behavioral vocal expression of pleased amusement. (inflected form of chortle)"
+    },
+    {
+      "word": "whimper",
+      "reason": "construes behavioral low vocal expression of distress."
+    },
+    {
+      "word": "whimpers",
+      "reason": "construes behavioral low vocal expression of distress. (inflected form of whimper)"
+    },
+    {
+      "word": "whimpering",
+      "reason": "construes behavioral low vocal expression of distress. (inflected form of whimper)"
+    },
+    {
+      "word": "whimpered",
+      "reason": "construes behavioral low vocal expression of distress. (inflected form of whimper)"
+    },
+    {
+      "word": "whine",
+      "reason": "construes behavioral high vocal expression of complaint."
+    },
+    {
+      "word": "whines",
+      "reason": "construes behavioral high vocal expression of complaint. (inflected form of whine)"
+    },
+    {
+      "word": "whining",
+      "reason": "construes behavioral high vocal expression of complaint. (inflected form of whine)"
+    },
+    {
+      "word": "whined",
+      "reason": "construes behavioral high vocal expression of complaint. (inflected form of whine)"
+    },
+    {
+      "word": "wail",
+      "reason": "construes behavioral prolonged loud vocal expression of grief."
+    },
+    {
+      "word": "wails",
+      "reason": "construes behavioral prolonged loud vocal expression of grief. (inflected form of wail)"
+    },
+    {
+      "word": "wailing",
+      "reason": "construes behavioral prolonged loud vocal expression of grief. (inflected form of wail)"
+    },
+    {
+      "word": "wailed",
+      "reason": "construes behavioral prolonged loud vocal expression of grief. (inflected form of wail)"
+    },
+    {
+      "word": "bawl",
+      "reason": "construes behavioral loud vocal expression of crying."
+    },
+    {
+      "word": "bawls",
+      "reason": "construes behavioral loud vocal expression of crying. (inflected form of bawl)"
+    },
+    {
+      "word": "bawling",
+      "reason": "construes behavioral loud vocal expression of crying. (inflected form of bawl)"
+    },
+    {
+      "word": "bawled",
+      "reason": "construes behavioral loud vocal expression of crying. (inflected form of bawl)"
+    },
+    {
+      "word": "howl",
+      "reason": "construes behavioral prolonged loud vocal expression."
+    },
+    {
+      "word": "howls",
+      "reason": "construes behavioral prolonged loud vocal expression. (inflected form of howl)"
+    },
+    {
+      "word": "howling",
+      "reason": "construes behavioral prolonged loud vocal expression. (inflected form of howl)"
+    },
+    {
+      "word": "howled",
+      "reason": "construes behavioral prolonged loud vocal expression. (inflected form of howl)"
+    },
+    {
+      "word": "gulp",
+      "reason": "construes physiological behavior of swallowing audibly."
+    },
+    {
+      "word": "gulps",
+      "reason": "construes physiological behavior of swallowing audibly. (inflected form of gulp)"
+    },
+    {
+      "word": "gulping",
+      "reason": "construes physiological behavior of swallowing audibly. (inflected form of gulp)"
+    },
+    {
+      "word": "gulped",
+      "reason": "construes physiological behavior of swallowing audibly. (inflected form of gulp)"
+    },
+    {
+      "word": "belch",
+      "reason": "construes physiological behavior of expelling gas."
+    },
+    {
+      "word": "belches",
+      "reason": "construes physiological behavior of expelling gas. (inflected form of belch)"
+    },
+    {
+      "word": "belching",
+      "reason": "construes physiological behavior of expelling gas. (inflected form of belch)"
+    },
+    {
+      "word": "belched",
+      "reason": "construes physiological behavior of expelling gas. (inflected form of belch)"
+    },
+    {
+      "word": "burp",
+      "reason": "construes physiological behavior of expelling gas."
+    },
+    {
+      "word": "burps",
+      "reason": "construes physiological behavior of expelling gas. (inflected form of burp)"
+    },
+    {
+      "word": "burping",
+      "reason": "construes physiological behavior of expelling gas. (inflected form of burp)"
+    },
+    {
+      "word": "burped",
+      "reason": "construes physiological behavior of expelling gas. (inflected form of burp)"
+    },
+    {
+      "word": "vomit",
+      "reason": "construes physiological behavior of expelling stomach contents."
+    },
+    {
+      "word": "vomits",
+      "reason": "construes physiological behavior of expelling stomach contents. (inflected form of vomit)"
+    },
+    {
+      "word": "vomiting",
+      "reason": "construes physiological behavior of expelling stomach contents. (inflected form of vomit)"
+    },
+    {
+      "word": "vomited",
+      "reason": "construes physiological behavior of expelling stomach contents. (inflected form of vomit)"
+    },
+    {
+      "word": "spit",
+      "reason": "construes physiological behavior of expelling from the mouth."
+    },
+    {
+      "word": "spits",
+      "reason": "construes physiological behavior of expelling from the mouth. (inflected form of spit)"
+    },
+    {
+      "word": "spitting",
+      "reason": "construes physiological behavior of expelling from the mouth. (inflected form of spit)"
+    },
+    {
+      "word": "spat",
+      "reason": "construes physiological behavior of expelling from the mouth. (inflected form of spit)"
+    },
+    {
+      "word": "spitted",
+      "reason": "construes physiological behavior of expelling from the mouth. (inflected form of spit)"
+    },
+    {
+      "word": "lick",
+      "reason": "construes behavioral perceptual contact with the tongue."
+    },
+    {
+      "word": "licks",
+      "reason": "construes behavioral perceptual contact with the tongue. (inflected form of lick)"
+    },
+    {
+      "word": "licking",
+      "reason": "construes behavioral perceptual contact with the tongue. (inflected form of lick)"
+    },
+    {
+      "word": "licked",
+      "reason": "construes behavioral perceptual contact with the tongue. (inflected form of lick)"
+    },
+    {
+      "word": "suck",
+      "reason": "construes behavioral oral drawing-in action."
+    },
+    {
+      "word": "sucks",
+      "reason": "construes behavioral oral drawing-in action. (inflected form of suck)"
+    },
+    {
+      "word": "sucking",
+      "reason": "construes behavioral oral drawing-in action. (inflected form of suck)"
+    },
+    {
+      "word": "sucked",
+      "reason": "construes behavioral oral drawing-in action. (inflected form of suck)"
+    },
+    {
+      "word": "kiss",
+      "reason": "construes behavioral oral contact expressing affection."
+    },
+    {
+      "word": "kisses",
+      "reason": "construes behavioral oral contact expressing affection. (inflected form of kiss)"
+    },
+    {
+      "word": "kissing",
+      "reason": "construes behavioral oral contact expressing affection. (inflected form of kiss)"
+    },
+    {
+      "word": "kissed",
+      "reason": "construes behavioral oral contact expressing affection. (inflected form of kiss)"
+    },
+    {
+      "word": "hug",
+      "reason": "construes behavioral embracing expressing affection."
+    },
+    {
+      "word": "hugs",
+      "reason": "construes behavioral embracing expressing affection. (inflected form of hug)"
+    },
+    {
+      "word": "hugging",
+      "reason": "construes behavioral embracing expressing affection. (inflected form of hug)"
+    },
+    {
+      "word": "hugged",
+      "reason": "construes behavioral embracing expressing affection. (inflected form of hug)"
+    },
+    {
+      "word": "embrace",
+      "reason": "construes behavioral encircling expressing affection."
+    },
+    {
+      "word": "embraces",
+      "reason": "construes behavioral encircling expressing affection. (inflected form of embrace)"
+    },
+    {
+      "word": "embracing",
+      "reason": "construes behavioral encircling expressing affection. (inflected form of embrace)"
+    },
+    {
+      "word": "embraced",
+      "reason": "construes behavioral encircling expressing affection. (inflected form of embrace)"
+    },
+    {
+      "word": "cuddle",
+      "reason": "construes behavioral close holding expressing affection."
+    },
+    {
+      "word": "cuddles",
+      "reason": "construes behavioral close holding expressing affection. (inflected form of cuddle)"
+    },
+    {
+      "word": "cuddling",
+      "reason": "construes behavioral close holding expressing affection. (inflected form of cuddle)"
+    },
+    {
+      "word": "cuddled",
+      "reason": "construes behavioral close holding expressing affection. (inflected form of cuddle)"
+    },
+    {
+      "word": "twitch",
+      "reason": "construes physiological behavior of involuntary small movement."
+    },
+    {
+      "word": "twitches",
+      "reason": "construes physiological behavior of involuntary small movement. (inflected form of twitch)"
+    },
+    {
+      "word": "twitching",
+      "reason": "construes physiological behavior of involuntary small movement. (inflected form of twitch)"
+    },
+    {
+      "word": "twitched",
+      "reason": "construes physiological behavior of involuntary small movement. (inflected form of twitch)"
+    },
+    {
+      "word": "jerk",
+      "reason": "construes physiological behavior of sudden movement."
+    },
+    {
+      "word": "jerks",
+      "reason": "construes physiological behavior of sudden movement. (inflected form of jerk)"
+    },
+    {
+      "word": "jerking",
+      "reason": "construes physiological behavior of sudden movement. (inflected form of jerk)"
+    },
+    {
+      "word": "jerked",
+      "reason": "construes physiological behavior of sudden movement. (inflected form of jerk)"
+    },
+    {
+      "word": "slumber",
+      "reason": "construes physiological behavior of sleep."
+    },
+    {
+      "word": "slumbers",
+      "reason": "construes physiological behavior of sleep. (inflected form of slumber)"
+    },
+    {
+      "word": "slumbering",
+      "reason": "construes physiological behavior of sleep. (inflected form of slumber)"
+    },
+    {
+      "word": "slumbered",
+      "reason": "construes physiological behavior of sleep. (inflected form of slumber)"
+    },
+    {
+      "word": "nap",
+      "reason": "construes physiological behavior of brief sleep."
+    },
+    {
+      "word": "naps",
+      "reason": "construes physiological behavior of brief sleep. (inflected form of nap)"
+    },
+    {
+      "word": "napping",
+      "reason": "construes physiological behavior of brief sleep. (inflected form of nap)"
+    },
+    {
+      "word": "napped",
+      "reason": "construes physiological behavior of brief sleep. (inflected form of nap)"
+    },
+    {
+      "word": "stretch",
+      "reason": "construes behavioral extension of the body."
+    },
+    {
+      "word": "stretches",
+      "reason": "construes behavioral extension of the body. (inflected form of stretch)"
+    },
+    {
+      "word": "stretching",
+      "reason": "construes behavioral extension of the body. (inflected form of stretch)"
+    },
+    {
+      "word": "stretched",
+      "reason": "construes behavioral extension of the body. (inflected form of stretch)"
+    },
+    {
+      "word": "bow",
+      "reason": "construes behavioral bending of the body in greeting or respect."
+    },
+    {
+      "word": "bows",
+      "reason": "construes behavioral bending of the body in greeting or respect. (inflected form of bow)"
+    },
+    {
+      "word": "bowing",
+      "reason": "construes behavioral bending of the body in greeting or respect. (inflected form of bow)"
+    },
+    {
+      "word": "bowed",
+      "reason": "construes behavioral bending of the body in greeting or respect. (inflected form of bow)"
+    },
+    {
+      "word": "crouch",
+      "reason": "construes behavioral lowering of the body."
+    },
+    {
+      "word": "crouches",
+      "reason": "construes behavioral lowering of the body. (inflected form of crouch)"
+    },
+    {
+      "word": "crouching",
+      "reason": "construes behavioral lowering of the body. (inflected form of crouch)"
+    },
+    {
+      "word": "crouched",
+      "reason": "construes behavioral lowering of the body. (inflected form of crouch)"
+    },
+    {
+      "word": "kneel",
+      "reason": "construes behavioral lowering onto the knees."
+    },
+    {
+      "word": "kneels",
+      "reason": "construes behavioral lowering onto the knees. (inflected form of kneel)"
+    },
+    {
+      "word": "kneeling",
+      "reason": "construes behavioral lowering onto the knees. (inflected form of kneel)"
+    },
+    {
+      "word": "knelt",
+      "reason": "construes behavioral lowering onto the knees. (inflected form of kneel)"
+    },
+    {
+      "word": "kneeled",
+      "reason": "construes behavioral lowering onto the knees. (inflected form of kneel)"
+    },
+    {
+      "word": "squat",
+      "reason": "construes behavioral lowering into a deep crouch."
+    },
+    {
+      "word": "squats",
+      "reason": "construes behavioral lowering into a deep crouch. (inflected form of squat)"
+    },
+    {
+      "word": "squating",
+      "reason": "construes behavioral lowering into a deep crouch. (inflected form of squat)"
+    },
+    {
+      "word": "squated",
+      "reason": "construes behavioral lowering into a deep crouch. (inflected form of squat)"
+    },
+    {
+      "word": "limp",
+      "reason": "construes behavioral walking with impaired gait."
+    },
+    {
+      "word": "limps",
+      "reason": "construes behavioral walking with impaired gait. (inflected form of limp)"
+    },
+    {
+      "word": "limping",
+      "reason": "construes behavioral walking with impaired gait. (inflected form of limp)"
+    },
+    {
+      "word": "limped",
+      "reason": "construes behavioral walking with impaired gait. (inflected form of limp)"
+    },
+    {
+      "word": "stagger",
+      "reason": "construes behavioral unsteady walking."
+    },
+    {
+      "word": "staggers",
+      "reason": "construes behavioral unsteady walking. (inflected form of stagger)"
+    },
+    {
+      "word": "staggering",
+      "reason": "construes behavioral unsteady walking. (inflected form of stagger)"
+    },
+    {
+      "word": "staggered",
+      "reason": "construes behavioral unsteady walking. (inflected form of stagger)"
+    },
+    {
+      "word": "stumble",
+      "reason": "construes behavioral tripping in walking."
+    },
+    {
+      "word": "stumbles",
+      "reason": "construes behavioral tripping in walking. (inflected form of stumble)"
+    },
+    {
+      "word": "stumbling",
+      "reason": "construes behavioral tripping in walking. (inflected form of stumble)"
+    },
+    {
+      "word": "stumbled",
+      "reason": "construes behavioral tripping in walking. (inflected form of stumble)"
+    },
+    {
+      "word": "glower",
+      "reason": "construes sustained behavioral angry looking."
+    },
+    {
+      "word": "glowers",
+      "reason": "construes sustained behavioral angry looking. (inflected form of glower)"
+    },
+    {
+      "word": "glowering",
+      "reason": "construes sustained behavioral angry looking. (inflected form of glower)"
+    },
+    {
+      "word": "glowered",
+      "reason": "construes sustained behavioral angry looking. (inflected form of glower)"
+    },
+    {
+      "word": "sulk",
+      "reason": "construes behavioral expression of silent displeasure."
+    },
+    {
+      "word": "sulks",
+      "reason": "construes behavioral expression of silent displeasure. (inflected form of sulk)"
+    },
+    {
+      "word": "sulking",
+      "reason": "construes behavioral expression of silent displeasure. (inflected form of sulk)"
+    },
+    {
+      "word": "sulked",
+      "reason": "construes behavioral expression of silent displeasure. (inflected form of sulk)"
+    },
+    {
+      "word": "mope",
+      "reason": "construes behavioral expression of dejection."
+    },
+    {
+      "word": "mopes",
+      "reason": "construes behavioral expression of dejection. (inflected form of mope)"
+    },
+    {
+      "word": "moping",
+      "reason": "construes behavioral expression of dejection. (inflected form of mope)"
+    },
+    {
+      "word": "moped",
+      "reason": "construes behavioral expression of dejection. (inflected form of mope)"
+    },
+    {
+      "word": "fidget",
+      "reason": "construes behavioral restless small movements."
+    },
+    {
+      "word": "fidgets",
+      "reason": "construes behavioral restless small movements. (inflected form of fidget)"
+    },
+    {
+      "word": "fidgeting",
+      "reason": "construes behavioral restless small movements. (inflected form of fidget)"
+    },
+    {
+      "word": "fidgeted",
+      "reason": "construes behavioral restless small movements. (inflected form of fidget)"
+    },
+    {
+      "word": "squirm",
+      "reason": "construes behavioral restless twisting movements."
+    },
+    {
+      "word": "squirms",
+      "reason": "construes behavioral restless twisting movements. (inflected form of squirm)"
+    },
+    {
+      "word": "squirming",
+      "reason": "construes behavioral restless twisting movements. (inflected form of squirm)"
+    },
+    {
+      "word": "squirmed",
+      "reason": "construes behavioral restless twisting movements. (inflected form of squirm)"
+    }
+  ]
+}

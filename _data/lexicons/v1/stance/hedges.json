@@ -1,0 +1,407 @@
+{
+  "category_name": "HEDGES",
+  "source_file": "words_HEDGES_expanded.json",
+  "count": 100,
+  "words": [
+    {
+      "word": "perhaps",
+      "reason": "hedges epistemic commitment by marking possibility."
+    },
+    {
+      "word": "maybe",
+      "reason": "hedges epistemic commitment by marking possibility."
+    },
+    {
+      "word": "possibly",
+      "reason": "hedges epistemic commitment toward possibility."
+    },
+    {
+      "word": "probably",
+      "reason": "hedges epistemic commitment toward likelihood without certainty."
+    },
+    {
+      "word": "apparently",
+      "reason": "hedges by attributing the claim to appearance or report."
+    },
+    {
+      "word": "seemingly",
+      "reason": "hedges by attributing the claim to appearance."
+    },
+    {
+      "word": "supposedly",
+      "reason": "hedges by attributing the claim to others."
+    },
+    {
+      "word": "allegedly",
+      "reason": "hedges by attributing the claim to allegation."
+    },
+    {
+      "word": "reportedly",
+      "reason": "hedges by attributing the claim to report."
+    },
+    {
+      "word": "presumably",
+      "reason": "hedges by marking the claim as inferred."
+    },
+    {
+      "word": "arguably",
+      "reason": "hedges by marking the claim as defensible rather than established."
+    },
+    {
+      "word": "conceivably",
+      "reason": "hedges by marking the claim as merely possible."
+    },
+    {
+      "word": "ostensibly",
+      "reason": "hedges by marking the claim as appearance."
+    },
+    {
+      "word": "nominally",
+      "reason": "hedges by marking the claim as in name only."
+    },
+    {
+      "word": "technically",
+      "reason": "hedges by restricting the claim to formal terms."
+    },
+    {
+      "word": "somewhat",
+      "reason": "hedges by lowering degree of an attribute."
+    },
+    {
+      "word": "slightly",
+      "reason": "hedges by lowering degree of an attribute."
+    },
+    {
+      "word": "relatively",
+      "reason": "hedges by relativising degree."
+    },
+    {
+      "word": "fairly",
+      "reason": "hedges by moderating degree."
+    },
+    {
+      "word": "rather",
+      "reason": "hedges by moderating degree."
+    },
+    {
+      "word": "kind",
+      "reason": "hedges degree in ‘kind of’ (hedging use)."
+    },
+    {
+      "word": "sort",
+      "reason": "hedges degree in ‘sort of’ (hedging use)."
+    },
+    {
+      "word": "kinda",
+      "reason": "hedges degree informally."
+    },
+    {
+      "word": "sorta",
+      "reason": "hedges degree informally."
+    },
+    {
+      "word": "about",
+      "reason": "hedges quantity by approximating."
+    },
+    {
+      "word": "around",
+      "reason": "hedges quantity by approximating."
+    },
+    {
+      "word": "approximately",
+      "reason": "hedges quantity by approximating."
+    },
+    {
+      "word": "roughly",
+      "reason": "hedges quantity by approximating."
+    },
+    {
+      "word": "nearly",
+      "reason": "hedges quantity by approximating short of a value."
+    },
+    {
+      "word": "almost",
+      "reason": "hedges by approximating short of a value."
+    },
+    {
+      "word": "virtually",
+      "reason": "hedges by approximating to near-equivalence."
+    },
+    {
+      "word": "essentially",
+      "reason": "hedges by reducing to essence rather than full identity."
+    },
+    {
+      "word": "basically",
+      "reason": "hedges by reducing to fundamentals."
+    },
+    {
+      "word": "largely",
+      "reason": "hedges by qualifying scope as predominant not total."
+    },
+    {
+      "word": "mostly",
+      "reason": "hedges scope as predominant not total."
+    },
+    {
+      "word": "generally",
+      "reason": "hedges by marking general rather than universal scope."
+    },
+    {
+      "word": "typically",
+      "reason": "hedges by marking typicality not universality."
+    },
+    {
+      "word": "usually",
+      "reason": "hedges by marking habitual not universal scope."
+    },
+    {
+      "word": "often",
+      "reason": "hedges frequency."
+    },
+    {
+      "word": "sometimes",
+      "reason": "hedges frequency to less than always."
+    },
+    {
+      "word": "occasionally",
+      "reason": "hedges frequency to low frequency."
+    },
+    {
+      "word": "seem",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use as predicator)."
+    },
+    {
+      "word": "seems",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use as predicator). (inflected form of seem)"
+    },
+    {
+      "word": "seeming",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use as predicator). (inflected form of seem)"
+    },
+    {
+      "word": "seemed",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use as predicator). (inflected form of seem)"
+    },
+    {
+      "word": "appear",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use)."
+    },
+    {
+      "word": "appears",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use). (inflected form of appear)"
+    },
+    {
+      "word": "appearing",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use). (inflected form of appear)"
+    },
+    {
+      "word": "appeared",
+      "reason": "hedges by marking attributive evidence rather than assertion (hedging use). (inflected form of appear)"
+    },
+    {
+      "word": "tend",
+      "reason": "hedges by marking tendency rather than rule."
+    },
+    {
+      "word": "tends",
+      "reason": "hedges by marking tendency rather than rule. (inflected form of tend)"
+    },
+    {
+      "word": "tending",
+      "reason": "hedges by marking tendency rather than rule. (inflected form of tend)"
+    },
+    {
+      "word": "tended",
+      "reason": "hedges by marking tendency rather than rule. (inflected form of tend)"
+    },
+    {
+      "word": "suggest",
+      "reason": "hedges by softening assertion to suggestion (hedging use)."
+    },
+    {
+      "word": "suggests",
+      "reason": "hedges by softening assertion to suggestion (hedging use). (inflected form of suggest)"
+    },
+    {
+      "word": "suggesting",
+      "reason": "hedges by softening assertion to suggestion (hedging use). (inflected form of suggest)"
+    },
+    {
+      "word": "suggested",
+      "reason": "hedges by softening assertion to suggestion (hedging use). (inflected form of suggest)"
+    },
+    {
+      "word": "indicate",
+      "reason": "hedges by marking evidential pointing rather than assertion."
+    },
+    {
+      "word": "indicates",
+      "reason": "hedges by marking evidential pointing rather than assertion. (inflected form of indicate)"
+    },
+    {
+      "word": "indicating",
+      "reason": "hedges by marking evidential pointing rather than assertion. (inflected form of indicate)"
+    },
+    {
+      "word": "indicated",
+      "reason": "hedges by marking evidential pointing rather than assertion. (inflected form of indicate)"
+    },
+    {
+      "word": "might",
+      "reason": "hedges epistemic commitment via modal possibility."
+    },
+    {
+      "word": "could",
+      "reason": "hedges epistemic commitment via tentative modal."
+    },
+    {
+      "word": "may",
+      "reason": "hedges epistemic commitment via modal possibility."
+    },
+    {
+      "word": "would",
+      "reason": "hedges by marking hypothetical or tentative claim."
+    },
+    {
+      "word": "should",
+      "reason": "hedges by marking expectation rather than certainty."
+    },
+    {
+      "word": "think",
+      "reason": "hedges by marking the claim as personal cognition (e.g., ‘I think’)."
+    },
+    {
+      "word": "thinks",
+      "reason": "hedges by marking the claim as personal cognition (e.g., ‘I think’). (inflected form of think)"
+    },
+    {
+      "word": "thinking",
+      "reason": "hedges by marking the claim as personal cognition (e.g., ‘I think’). (inflected form of think)"
+    },
+    {
+      "word": "thought",
+      "reason": "hedges by marking the claim as personal cognition (e.g., ‘I think’). (inflected form of think)"
+    },
+    {
+      "word": "believe",
+      "reason": "hedges by marking the claim as personal belief."
+    },
+    {
+      "word": "believes",
+      "reason": "hedges by marking the claim as personal belief. (inflected form of believe)"
+    },
+    {
+      "word": "believing",
+      "reason": "hedges by marking the claim as personal belief. (inflected form of believe)"
+    },
+    {
+      "word": "believed",
+      "reason": "hedges by marking the claim as personal belief. (inflected form of believe)"
+    },
+    {
+      "word": "guess",
+      "reason": "hedges by marking the claim as guess."
+    },
+    {
+      "word": "guesses",
+      "reason": "hedges by marking the claim as guess. (inflected form of guess)"
+    },
+    {
+      "word": "guessing",
+      "reason": "hedges by marking the claim as guess. (inflected form of guess)"
+    },
+    {
+      "word": "guessed",
+      "reason": "hedges by marking the claim as guess. (inflected form of guess)"
+    },
+    {
+      "word": "suppose",
+      "reason": "hedges by marking the claim as supposition."
+    },
+    {
+      "word": "supposes",
+      "reason": "hedges by marking the claim as supposition. (inflected form of suppose)"
+    },
+    {
+      "word": "supposing",
+      "reason": "hedges by marking the claim as supposition. (inflected form of suppose)"
+    },
+    {
+      "word": "supposed",
+      "reason": "hedges by marking the claim as supposition. (inflected form of suppose)"
+    },
+    {
+      "word": "assume",
+      "reason": "hedges by marking the claim as assumption."
+    },
+    {
+      "word": "assumes",
+      "reason": "hedges by marking the claim as assumption. (inflected form of assume)"
+    },
+    {
+      "word": "assuming",
+      "reason": "hedges by marking the claim as assumption. (inflected form of assume)"
+    },
+    {
+      "word": "assumed",
+      "reason": "hedges by marking the claim as assumption. (inflected form of assume)"
+    },
+    {
+      "word": "understand",
+      "reason": "hedges by attributing source (e.g., ‘as I understand’)."
+    },
+    {
+      "word": "understands",
+      "reason": "hedges by attributing source (e.g., ‘as I understand’). (inflected form of understand)"
+    },
+    {
+      "word": "understanding",
+      "reason": "hedges by attributing source (e.g., ‘as I understand’). (inflected form of understand)"
+    },
+    {
+      "word": "understood",
+      "reason": "hedges by attributing source (e.g., ‘as I understand’). (inflected form of understand)"
+    },
+    {
+      "word": "partly",
+      "reason": "hedges scope of a predicate to part rather than whole."
+    },
+    {
+      "word": "partially",
+      "reason": "hedges scope of a predicate to part rather than whole."
+    },
+    {
+      "word": "possible",
+      "reason": "hedges by marking proposition as possible (predicative use)."
+    },
+    {
+      "word": "likely",
+      "reason": "hedges by marking proposition as probable rather than certain."
+    },
+    {
+      "word": "likelier",
+      "reason": "hedges by marking proposition as probable rather than certain. (inflected form of likely)"
+    },
+    {
+      "word": "likeliest",
+      "reason": "hedges by marking proposition as probable rather than certain. (inflected form of likely)"
+    },
+    {
+      "word": "unlikely",
+      "reason": "hedges by marking proposition as improbable."
+    },
+    {
+      "word": "unlikelier",
+      "reason": "hedges by marking proposition as improbable. (inflected form of unlikely)"
+    },
+    {
+      "word": "unlikeliest",
+      "reason": "hedges by marking proposition as improbable. (inflected form of unlikely)"
+    },
+    {
+      "word": "doubtful",
+      "reason": "hedges by marking low credence."
+    }
+  ]
+}

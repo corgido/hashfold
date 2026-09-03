@@ -1,0 +1,123 @@
+{
+  "category_name": "ELABORATION_MARKERS",
+  "source_file": "words_ELABORATION_MARKERS_expanded.json",
+  "count": 29,
+  "words": [
+    {
+      "word": "specifically",
+      "reason": "marks what follows as a more specific elaboration."
+    },
+    {
+      "word": "namely",
+      "reason": "marks what follows as the specification of what preceded."
+    },
+    {
+      "word": "viz",
+      "reason": "marks what follows as the specification of what preceded."
+    },
+    {
+      "word": "indeed",
+      "reason": "marks what follows as elaboration confirming and extending."
+    },
+    {
+      "word": "particularly",
+      "reason": "marks what follows as a particularising elaboration."
+    },
+    {
+      "word": "notably",
+      "reason": "marks what follows as a noteworthy specification."
+    },
+    {
+      "word": "especially",
+      "reason": "marks what follows as a particularising elaboration."
+    },
+    {
+      "word": "for",
+      "reason": "marks elaboration in ‘for example’ or ‘for instance’."
+    },
+    {
+      "word": "example",
+      "reason": "marks elaboration in ‘for example’."
+    },
+    {
+      "word": "instance",
+      "reason": "marks elaboration in ‘for instance’."
+    },
+    {
+      "word": "such",
+      "reason": "marks elaboration in ‘such as’."
+    },
+    {
+      "word": "like",
+      "reason": "marks elaboration in ‘like’ introducing example."
+    },
+    {
+      "word": "including",
+      "reason": "marks elaboration listing examples."
+    },
+    {
+      "word": "e.g.",
+      "reason": "marks elaboration introducing examples."
+    },
+    {
+      "word": "eg",
+      "reason": "marks elaboration introducing examples."
+    },
+    {
+      "word": "i.e.",
+      "reason": "marks elaboration restating in other words."
+    },
+    {
+      "word": "ie",
+      "reason": "marks elaboration restating in other words."
+    },
+    {
+      "word": "that",
+      "reason": "marks elaboration in ‘that is’."
+    },
+    {
+      "word": "means",
+      "reason": "marks elaboration in ‘which means’."
+    },
+    {
+      "word": "words",
+      "reason": "marks elaboration in ‘in other words’."
+    },
+    {
+      "word": "rephrase",
+      "reason": "marks elaboration restating."
+    },
+    {
+      "word": "restated",
+      "reason": "marks elaboration restating."
+    },
+    {
+      "word": "alternatively",
+      "reason": "marks elaboration restating in another way."
+    },
+    {
+      "word": "equivalently",
+      "reason": "marks elaboration restating equivalently."
+    },
+    {
+      "word": "precisely",
+      "reason": "marks elaboration giving precise restatement."
+    },
+    {
+      "word": "explicitly",
+      "reason": "marks elaboration making explicit."
+    },
+    {
+      "word": "chiefly",
+      "reason": "marks elaboration specifying primary instance."
+    },
+    {
+      "word": "mainly",
+      "reason": "marks elaboration specifying main instance."
+    },
+    {
+      "word": "typically",
+      "reason": "marks elaboration specifying typical instance."
+    }
+  ]
+}

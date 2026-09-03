@@ -1,0 +1,87 @@
+{
+  "category_name": "ADVERSATIVE_CONJUNCTIONS",
+  "source_file": "words_ADVERSATIVE_CONJUNCTIONS_expanded.json",
+  "count": 20,
+  "words": [
+    {
+      "word": "however",
+      "reason": "adversative cohesive conjunction across sentence boundaries."
+    },
+    {
+      "word": "yet",
+      "reason": "adversative cohesive conjunction across sentence boundaries."
+    },
+    {
+      "word": "nevertheless",
+      "reason": "adversative cohesive conjunction signalling counter-expectation."
+    },
+    {
+      "word": "nonetheless",
+      "reason": "adversative cohesive conjunction signalling counter-expectation."
+    },
+    {
+      "word": "still",
+      "reason": "adversative cohesive conjunction signalling counter-expectation."
+    },
+    {
+      "word": "though",
+      "reason": "adversative cohesive conjunction in sentence-final use."
+    },
+    {
+      "word": "notwithstanding",
+      "reason": "adversative cohesive conjunction signalling counter-expectation."
+    },
+    {
+      "word": "instead",
+      "reason": "adversative cohesive conjunction marking replacement."
+    },
+    {
+      "word": "conversely",
+      "reason": "adversative cohesive conjunction marking reversal."
+    },
+    {
+      "word": "contrariwise",
+      "reason": "adversative cohesive conjunction marking opposition."
+    },
+    {
+      "word": "rather",
+      "reason": "adversative cohesive conjunction marking replacement."
+    },
+    {
+      "word": "anyway",
+      "reason": "adversative cohesive conjunction dismissing prior considerations."
+    },
+    {
+      "word": "anyhow",
+      "reason": "adversative cohesive conjunction dismissing prior considerations."
+    },
+    {
+      "word": "regardless",
+      "reason": "adversative cohesive conjunction dismissing prior considerations."
+    },
+    {
+      "word": "howbeit",
+      "reason": "adversative cohesive conjunction (archaic)."
+    },
+    {
+      "word": "alternatively",
+      "reason": "adversative cohesive conjunction marking alternative."
+    },
+    {
+      "word": "otherwise",
+      "reason": "adversative cohesive conjunction marking alternative outcome."
+    },
+    {
+      "word": "but",
+      "reason": "adversative cohesive conjunction across clauses or sentences."
+    },
+    {
+      "word": "only",
+      "reason": "adversative cohesive conjunction in sentence-initial restrictive use."
+    },
+    {
+      "word": "except",
+      "reason": "adversative cohesive conjunction marking exception."
+    }
+  ]
+}

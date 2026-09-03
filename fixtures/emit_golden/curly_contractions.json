@@ -1,0 +1,172 @@
+{
+  "arc": {
+    "n_slices": 2,
+    "per_dimension": {
+      "lexical_novelty": {
+        "end": 0.782608695652,
+        "monotone": true,
+        "range": 0.0,
+        "slope": null,
+        "start": 0.782608695652
+      },
+      "modal_density": {
+        "end": 0.0,
+        "monotone": true,
+        "range": 0.0,
+        "slope": 0.0,
+        "start": 0.0
+      },
+      "negation_density": {
+        "end": 10.4395604396,
+        "monotone": true,
+        "range": 5.7942057942,
+        "slope": -5.7942057942,
+        "start": 16.2337662338
+      },
+      "sentence_length_variance": {
+        "end": 17.0612244898,
+        "monotone": true,
+        "range": 8.6536192602,
+        "slope": -8.6536192602,
+        "start": 25.71484375
+      }
+    },
+    "per_slice": [
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": null,
+          "negation_density": null,
+          "sentence_length_variance": null
+        },
+        "index": 0,
+        "labels": [
+          "opening"
+        ],
+        "values": {
+          "lexical_novelty": null,
+          "modal_density": 0.0,
+          "negation_density": 16.2337662338,
+          "sentence_length_variance": 25.71484375
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": 0.0,
+          "negation_density": -5.7942057942,
+          "sentence_length_variance": -8.6536192602
+        },
+        "index": 1,
+        "labels": [
+          "closing",
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.782608695652,
+          "modal_density": 0.0,
+          "negation_density": 10.4395604396,
+          "sentence_length_variance": 17.0612244898
+        }
+      }
+    ]
+  },
+  "coherence": {
+    "diverging_axes": [
+      "rst_contrast",
+      "register_modality"
+    ],
+    "evidence": {
+      "axis_directions": {
+        "cohesion_repetition": "agree_mid",
+        "register_modality": "diverge",
+        "rst_contrast": "diverge",
+        "rst_elaboration": "agree_low",
+        "sfl_process_complexity": "agree_high"
+      },
+      "excluded_axes": [
+        "cohesion_repetition"
+      ],
+      "overall": "mixed"
+    },
+    "incomparable_axes": [],
+    "label": "moderate",
+    "n_axes_agree": 2,
+    "n_axes_measurable": 4,
+    "value": 0.5
+  },
+  "flags": [],
+  "metadata": {
+    "catalog_sha256": "e040613dfb47cab55a5d80fc2b0d7bf64e1e3a597071a31cbf6c6bcb6dcab97d",
+    "content_sha256": "d80f1f7bfa60c44841610ecf7615a5a79206ef884dc1e025bb87308589dd203b",
+    "core_code_sha256": "cc207254d437a6161f5185cd4777b09aa9ef3ae7af577cd57ce76ec183756fe8",
+    "distance_method": "feature_zscore_l2",
+    "emission_version": "v2",
+    "input_sha256": "ff761651b03da57cc70e5ad1d88ab867162aae564f5af55c0ac426ff138e6562",
+    "instrument_version": "0.10.0",
+    "lexicon_version": "v1",
+    "n_sentences": 48,
+    "n_words": 336,
+    "reading_sha256": "9fe24d395050d32f4c12e66861b080bd57d31c2ba99ad38f5fbd88cf342072ef",
+    "reproducibility_hash": "714f76fe394347157746c8c9fe89a4e222308c2e1c2da0e4815c079cbcb659ed",
+    "schema_version": "0.10.0",
+    "timestamp": "GOLDEN"
+  },
+  "register": {
+    "cohort": "llm_technical_prose",
+    "distance": 2.29248484313,
+    "evidence": {
+      "declared_hint": null,
+      "detected_cohort": "llm_technical_prose",
+      "distances_to_all_references": [
+        {
+          "distance": 6.42907637232,
+          "name": "academic_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 3.39869372665,
+          "name": "dialogue_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 3.84735477631,
+          "name": "journalism_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 5.76761564614,
+          "name": "literary_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 2.29248484313,
+          "name": "llm_technical_prose",
+          "percentile": null,
+          "version": "v2"
+        }
+      ],
+      "feature_calibration": {
+        "status": "reference_lacks_feature_quantiles"
+      },
+      "reference_cohort": "llm_technical_prose",
+      "reference_envelope": {
+        "status": "seed_reference_no_confidence_envelope"
+      },
+      "reference_name": "llm_technical_prose",
+      "reference_provenance": {
+        "provenance_status": "pre_0_10_reference"
+      },
+      "reference_version": "v2",
+      "router_flags": [
+        "auto_routed"
+      ],
+      "router_match": "match"
+    },
+    "label": "match"
+  }
+}

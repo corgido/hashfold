@@ -1,0 +1,179 @@
+{
+  "category_name": "SEQUENCE_MARKERS",
+  "source_file": "words_SEQUENCE_MARKERS_expanded.json",
+  "count": 43,
+  "words": [
+    {
+      "word": "first",
+      "reason": "marks ordinal sequence as the initial item."
+    },
+    {
+      "word": "firstly",
+      "reason": "marks ordinal sequence as the initial item."
+    },
+    {
+      "word": "second",
+      "reason": "marks ordinal sequence as the second item."
+    },
+    {
+      "word": "secondly",
+      "reason": "marks ordinal sequence as the second item."
+    },
+    {
+      "word": "third",
+      "reason": "marks ordinal sequence as the third item."
+    },
+    {
+      "word": "thirdly",
+      "reason": "marks ordinal sequence as the third item."
+    },
+    {
+      "word": "fourth",
+      "reason": "marks ordinal sequence."
+    },
+    {
+      "word": "fourthly",
+      "reason": "marks ordinal sequence."
+    },
+    {
+      "word": "fifth",
+      "reason": "marks ordinal sequence."
+    },
+    {
+      "word": "then",
+      "reason": "marks temporal sequence to next event."
+    },
+    {
+      "word": "next",
+      "reason": "marks ordinal or temporal sequence to next item."
+    },
+    {
+      "word": "after",
+      "reason": "marks temporal sequence after a reference event."
+    },
+    {
+      "word": "afterward",
+      "reason": "marks temporal sequence after a reference event."
+    },
+    {
+      "word": "afterwards",
+      "reason": "marks temporal sequence after a reference event."
+    },
+    {
+      "word": "subsequently",
+      "reason": "marks temporal sequence after a reference event."
+    },
+    {
+      "word": "later",
+      "reason": "marks temporal sequence after a reference event."
+    },
+    {
+      "word": "before",
+      "reason": "marks temporal sequence before a reference event."
+    },
+    {
+      "word": "earlier",
+      "reason": "marks temporal sequence before a reference event."
+    },
+    {
+      "word": "previously",
+      "reason": "marks temporal sequence before a reference event."
+    },
+    {
+      "word": "formerly",
+      "reason": "marks temporal sequence at an earlier time."
+    },
+    {
+      "word": "initially",
+      "reason": "marks temporal sequence as the initial stage."
+    },
+    {
+      "word": "originally",
+      "reason": "marks temporal sequence as the initial stage."
+    },
+    {
+      "word": "eventually",
+      "reason": "marks temporal sequence as the final stage."
+    },
+    {
+      "word": "finally",
+      "reason": "marks ordinal or temporal sequence as the last item."
+    },
+    {
+      "word": "lastly",
+      "reason": "marks ordinal sequence as the last item."
+    },
+    {
+      "word": "ultimately",
+      "reason": "marks temporal sequence as the final stage."
+    },
+    {
+      "word": "meanwhile",
+      "reason": "marks temporal sequence as concurrent."
+    },
+    {
+      "word": "simultaneously",
+      "reason": "marks temporal sequence as concurrent."
+    },
+    {
+      "word": "concurrently",
+      "reason": "marks temporal sequence as concurrent."
+    },
+    {
+      "word": "during",
+      "reason": "marks temporal sequence as concurrent."
+    },
+    {
+      "word": "when",
+      "reason": "marks temporal sequence linking two events."
+    },
+    {
+      "word": "once",
+      "reason": "marks temporal sequence following completion."
+    },
+    {
+      "word": "until",
+      "reason": "marks temporal sequence up to a point."
+    },
+    {
+      "word": "till",
+      "reason": "marks temporal sequence up to a point."
+    },
+    {
+      "word": "now",
+      "reason": "marks temporal sequence at present in narrative."
+    },
+    {
+      "word": "soon",
+      "reason": "marks temporal sequence shortly after."
+    },
+    {
+      "word": "immediately",
+      "reason": "marks temporal sequence directly after."
+    },
+    {
+      "word": "thereafter",
+      "reason": "marks temporal sequence after a reference event."
+    },
+    {
+      "word": "hereafter",
+      "reason": "marks temporal sequence after the present."
+    },
+    {
+      "word": "henceforth",
+      "reason": "marks temporal sequence from now on."
+    },
+    {
+      "word": "hitherto",
+      "reason": "marks temporal sequence up to now."
+    },
+    {
+      "word": "since",
+      "reason": "marks temporal sequence from a reference point (temporal use)."
+    },
+    {
+      "word": "while",
+      "reason": "marks temporal sequence as concurrent (temporal use)."
+    }
+  ]
+}

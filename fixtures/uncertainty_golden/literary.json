@@ -1,0 +1,495 @@
+{
+  "input_sha256": "136d2d45a16e6882286cbc8e307c084b481802af03f57e7c24f7828babdea76f",
+  "source": "fixtures/source/literary.md",
+  "uncertainty": {
+    "b": 50,
+    "features": {
+      "coh.additive_density": {
+        "ci_high": 9.56525445178,
+        "ci_low": 7.31659743917,
+        "n_finite": 50,
+        "point": 8.32517140059,
+        "se": 0.693659034274
+      },
+      "coh.adversative_density": {
+        "ci_high": 1.39785447761,
+        "ci_low": 0.31712253264,
+        "n_finite": 50,
+        "point": 0.783545543585,
+        "se": 0.286707095353
+      },
+      "coh.causal_density": {
+        "ci_high": 2.139474766,
+        "ci_low": 1.00663428812,
+        "n_finite": 50,
+        "point": 1.56709108717,
+        "se": 0.323667984396
+      },
+      "coh.conjunction_balance": {
+        "ci_high": 0.138320707071,
+        "ci_low": 0.0382107459572,
+        "n_finite": 50,
+        "point": 0.0860215053763,
+        "se": 0.0275879401836
+      },
+      "coh.definite_article_density": {
+        "ci_high": 12.3059138075,
+        "ci_low": 7.21078774442,
+        "n_finite": 50,
+        "point": 9.30460333007,
+        "se": 1.39346750961
+      },
+      "coh.demonstrative_density": {
+        "ci_high": 2.71601624558,
+        "ci_low": 1.6484282463,
+        "n_finite": 50,
+        "point": 2.15475024486,
+        "se": 0.323954417236
+      },
+      "coh.lexical_chain_count": {
+        "ci_high": 2.19545454545,
+        "ci_low": 0.830088987764,
+        "n_finite": 50,
+        "point": 0.666666666667,
+        "se": 0.419072540634
+      },
+      "coh.lexical_chain_span": {
+        "ci_high": 0.749206314185,
+        "ci_low": 0.454702155483,
+        "n_finite": 50,
+        "point": 0.541193181818,
+        "se": 0.0853591114335
+      },
+      "coh.lexical_repetition_rate": {
+        "ci_high": 0.743454822667,
+        "ci_low": 0.328997635934,
+        "n_finite": 50,
+        "point": 0.238095238095,
+        "se": 0.117023813673
+      },
+      "coh.pronoun_density": {
+        "ci_high": 9.45154043646,
+        "ci_low": 6.23194264931,
+        "n_finite": 50,
+        "point": 7.7375122429,
+        "se": 0.941724536557
+      },
+      "coh.reference_density": {
+        "ci_high": 21.5204983137,
+        "ci_low": 16.5994785004,
+        "n_finite": 50,
+        "point": 19.1968658178,
+        "se": 1.52954068433
+      },
+      "coh.temporal_density": {
+        "ci_high": 2.37595369485,
+        "ci_low": 0.757874292133,
+        "n_finite": 50,
+        "point": 1.56709108717,
+        "se": 0.468114027975
+      },
+      "coh.type_token_ratio": {
+        "ci_high": 0.570698051948,
+        "ci_low": 0.384535216765,
+        "n_finite": 50,
+        "point": 0.64691943128,
+        "se": 0.0540292729667
+      },
+      "cohesion.lexical_repetition": {
+        "ci_high": 0.736771194453,
+        "ci_low": 0.32450806769,
+        "n_finite": 50,
+        "point": 0.22695035461,
+        "se": 0.117031392688
+      },
+      "cohesion.pronoun_density": {
+        "ci_high": 11.9382179573,
+        "ci_low": 8.26143859684,
+        "n_finite": 50,
+        "point": 9.89226248776,
+        "se": 1.01872881841
+      },
+      "cohesion.type_token_ratio": {
+        "ci_high": 0.326283130474,
+        "ci_low": 0.223180213922,
+        "n_finite": 50,
+        "point": 0.354554358472,
+        "se": 0.0290762439303
+      },
+      "dist.bigram_entropy": {
+        "ci_high": 9.10461066348,
+        "ci_low": 8.45896417144,
+        "n_finite": 50,
+        "point": 9.44910711868,
+        "se": 0.150236973667
+      },
+      "dist.burstiness": {
+        "ci_high": -0.0378864144306,
+        "ci_low": -0.167542321092,
+        "n_finite": 50,
+        "point": -0.0864316855087,
+        "se": 0.0335400623756
+      },
+      "dist.char_entropy": {
+        "ci_high": 4.1014140464,
+        "ci_low": 4.03852962714,
+        "n_finite": 50,
+        "point": 4.08419095687,
+        "se": 0.0157630773688
+      },
+      "dist.compression_ratio": {
+        "ci_high": 0.297721184478,
+        "ci_low": 0.275183918363,
+        "n_finite": 50,
+        "point": 0.28914785142,
+        "se": 0.00581656774519
+      },
+      "dist.entropy_drift": {
+        "ci_high": 0.0512121112699,
+        "ci_low": 0.00251052820246,
+        "n_finite": 50,
+        "point": 0.040291158875,
+        "se": 0.0184176470029
+      },
+      "dist.growth_slope": {
+        "ci_high": 0.000351863665358,
+        "ci_low": 0.000164360726569,
+        "n_finite": 50,
+        "point": 0.00032852491124,
+        "se": 5.45451478071e-05
+      },
+      "dist.hapax_ratio": {
+        "ci_high": 0.569066295547,
+        "ci_low": 0.218465045593,
+        "n_finite": 50,
+        "point": 0.649171270718,
+        "se": 0.0968043530992
+      },
+      "dist.mattr": {
+        "ci_high": 0.663525658734,
+        "ci_low": 0.602302621461,
+        "n_finite": 50,
+        "point": 0.644056399132,
+        "se": 0.0178050119553
+      },
+      "dist.mean_word_length": {
+        "ci_high": 4.39509992409,
+        "ci_low": 4.10777462171,
+        "n_finite": 50,
+        "point": 4.24681684623,
+        "se": 0.0763666336044
+      },
+      "dist.repetition_halflife": {
+        "ci_high": 0.774690175233,
+        "ci_low": 0.374850352017,
+        "n_finite": 50,
+        "point": 0.562745098039,
+        "se": 0.102431495713
+      },
+      "dist.sentence_length_entropy": {
+        "ci_high": 2.30038302302,
+        "ci_low": 1.32622833245,
+        "n_finite": 50,
+        "point": 2.00869516467,
+        "se": 0.248771263955
+      },
+      "dist.yule_k": {
+        "ci_high": 250.122370066,
+        "ci_low": 160.735638592,
+        "n_finite": 50,
+        "point": 185.660387494,
+        "se": 26.4465646774
+      },
+      "register.lexical_novelty": {
+        "ci_high": 0.590842352092,
+        "ci_low": 0.394973804576,
+        "n_finite": 50,
+        "point": 0.668246445498,
+        "se": 0.0555460900108
+      },
+      "register.modal_density": {
+        "ci_high": 1.47000755715,
+        "ci_low": 0.415545426509,
+        "n_finite": 50,
+        "point": 0.979431929481,
+        "se": 0.286199229314
+      },
+      "register.negation_density": {
+        "ci_high": 3.37710426726,
+        "ci_low": 1.79862291978,
+        "n_finite": 50,
+        "point": 2.6444662096,
+        "se": 0.440804526887
+      },
+      "register.sentence_length_variance": {
+        "ci_high": 566.130432281,
+        "ci_low": 268.356085783,
+        "n_finite": 50,
+        "point": 388.189164371,
+        "se": 79.0661839531
+      },
+      "rst.branching_score": {
+        "ci_high": 0.867857142857,
+        "ci_low": 0.470287356322,
+        "n_finite": 50,
+        "point": 0.758620689655,
+        "se": 0.102235392865
+      },
+      "rst.cause_density": {
+        "ci_high": 0.550973303671,
+        "ci_low": 0.25703125,
+        "n_finite": 50,
+        "point": 0.424242424242,
+        "se": 0.0919762732699
+      },
+      "rst.concession_density": {
+        "ci_high": 0.859012539185,
+        "ci_low": 0.54236391129,
+        "n_finite": 50,
+        "point": 0.666666666667,
+        "se": 0.0876303060985
+      },
+      "rst.condition_density": {
+        "ci_high": 0.959639498433,
+        "ci_low": 0.691300940439,
+        "n_finite": 50,
+        "point": 0.818181818182,
+        "se": 0.071330304063
+      },
+      "rst.contrast_density": {
+        "ci_high": 0.34140625,
+        "ci_low": 0.0674242424242,
+        "n_finite": 50,
+        "point": 0.212121212121,
+        "se": 0.0731156244793
+      },
+      "rst.contrast_marker_density": {
+        "ci_high": 0.209393939394,
+        "ci_low": 0.030303030303,
+        "n_finite": 50,
+        "point": 0.0909090909091,
+        "se": 0.0516860664942
+      },
+      "rst.elaboration_density": {
+        "ci_high": 0.720454545455,
+        "ci_low": 0.391465517241,
+        "n_finite": 50,
+        "point": 0.545454545455,
+        "se": 0.0898107133139
+      },
+      "rst.elaboration_marker_density": {
+        "ci_high": 0.757575757576,
+        "ci_low": 0.433189655172,
+        "n_finite": 50,
+        "point": 0.606060606061,
+        "se": 0.0912868743821
+      },
+      "rst.marker_density": {
+        "ci_high": 1.01818181818,
+        "ci_low": 0.596519886364,
+        "n_finite": 50,
+        "point": 0.787878787879,
+        "se": 0.11556993042
+      },
+      "rst.max_depth_score": {
+        "ci_high": 0.254310344828,
+        "ci_low": 0.077861952862,
+        "n_finite": 50,
+        "point": 0.0909090909091,
+        "se": 0.0500452949552
+      },
+      "rst.purpose_density": {
+        "ci_high": 0.677419354839,
+        "ci_low": 0.31953125,
+        "n_finite": 50,
+        "point": 0.515151515152,
+        "se": 0.104212082552
+      },
+      "rst.relation_diversity": {
+        "ci_high": 0.956083089383,
+        "ci_low": 0.878595720396,
+        "n_finite": 50,
+        "point": 0.933736528181,
+        "se": 0.0191457575934
+      },
+      "rst.result_density": {
+        "ci_high": 0.424242424242,
+        "ci_low": 0.15859375,
+        "n_finite": 50,
+        "point": 0.272727272727,
+        "se": 0.0772428422971
+      },
+      "rst.sequence_density": {
+        "ci_high": 0.617398119122,
+        "ci_low": 0.236363636364,
+        "n_finite": 50,
+        "point": 0.393939393939,
+        "se": 0.0922030451356
+      },
+      "rst.summary_density": {
+        "ci_high": 0.135928809789,
+        "ci_low": 0.0,
+        "n_finite": 50,
+        "point": 0.0606060606061,
+        "se": 0.0360639376148
+      },
+      "rst.total_marker_density": {
+        "ci_high": 4.70665246212,
+        "ci_low": 3.3028125,
+        "n_finite": 50,
+        "point": 3.90909090909,
+        "se": 0.40109424865
+      },
+      "sfl.booster_density": {
+        "ci_high": 5.35798628971,
+        "ci_low": 3.30646327357,
+        "n_finite": 50,
+        "point": 4.50538687561,
+        "se": 0.580419865813
+      },
+      "sfl.hedge_density": {
+        "ci_high": 3.14994767019,
+        "ci_low": 1.40806023749,
+        "n_finite": 50,
+        "point": 2.35063663075,
+        "se": 0.495155660078
+      },
+      "sfl.modal_density": {
+        "ci_high": 1.47000755715,
+        "ci_low": 0.415545426509,
+        "n_finite": 50,
+        "point": 0.979431929481,
+        "se": 0.286199229314
+      },
+      "sfl.modality_balance": {
+        "ci_high": 0.545842217484,
+        "ci_low": 0.103132911392,
+        "n_finite": 50,
+        "point": 0.314285714286,
+        "se": 0.110217409974
+      },
+      "sfl.pct_behavioral": {
+        "ci_high": 0.0227063091871,
+        "ci_low": 0.0,
+        "n_finite": 50,
+        "point": 0.0047619047619,
+        "se": 0.00615299809488
+      },
+      "sfl.pct_existential": {
+        "ci_high": 0.0635580774366,
+        "ci_low": 0.0170212765957,
+        "n_finite": 50,
+        "point": 0.0380952380952,
+        "se": 0.013183594867
+      },
+      "sfl.pct_material": {
+        "ci_high": 0.280454582696,
+        "ci_low": 0.18566387348,
+        "n_finite": 50,
+        "point": 0.238095238095,
+        "se": 0.0286073647947
+      },
+      "sfl.pct_mental": {
+        "ci_high": 0.230772330867,
+        "ci_low": 0.133198745796,
+        "n_finite": 50,
+        "point": 0.166666666667,
+        "se": 0.0258718188685
+      },
+      "sfl.pct_relational": {
+        "ci_high": 0.573163361827,
+        "ci_low": 0.459647348411,
+        "n_finite": 50,
+        "point": 0.514285714286,
+        "se": 0.0326779423749
+      },
+      "sfl.pct_verbal": {
+        "ci_high": 0.056560121399,
+        "ci_low": 0.0187455277281,
+        "n_finite": 50,
+        "point": 0.0380952380952,
+        "se": 0.0112115906104
+      },
+      "sfl.process_density": {
+        "ci_high": 22.8342739234,
+        "ci_low": 18.4416479555,
+        "n_finite": 50,
+        "point": 20.5680705191,
+        "se": 1.09359713606
+      },
+      "sfl.process_proxy_entropy": {
+        "ci_high": 1.83946205182,
+        "ci_low": 1.60286031881,
+        "n_finite": 50,
+        "point": 1.73893534079,
+        "se": 0.0634268906065
+      },
+      "sfl.projection_frequency": {
+        "ci_high": 5.19231369286,
+        "ci_low": 3.15001210041,
+        "n_finite": 50,
+        "point": 4.21155729677,
+        "se": 0.546512624651
+      },
+      "sfl.stative_active_ratio": {
+        "ci_high": 1.38151859005,
+        "ci_low": 0.815351835664,
+        "n_finite": 50,
+        "point": 1.04716981132,
+        "se": 0.15101604554
+      },
+      "stylometry.comma_per_sentence": {
+        "ci_high": 2.41060606061,
+        "ci_low": 1.31468719453,
+        "n_finite": 50,
+        "point": 1.90909090909,
+        "se": 0.300347882098
+      },
+      "stylometry.compression_ratio": {
+        "ci_high": 0.297721184478,
+        "ci_low": 0.275183918363,
+        "n_finite": 50,
+        "point": 0.28914785142,
+        "se": 0.00581656774519
+      },
+      "stylometry.exclamation_rate": {
+        "ci_high": 0.0,
+        "ci_low": 0.0,
+        "n_finite": 50,
+        "point": 0.0,
+        "se": 0.0
+      },
+      "stylometry.question_rate": {
+        "ci_high": 0.0,
+        "ci_low": 0.0,
+        "n_finite": 50,
+        "point": 0.0,
+        "se": 0.0
+      },
+      "stylometry.quotation_density": {
+        "ci_high": 0.962769986504,
+        "ci_low": 0.0,
+        "n_finite": 50,
+        "point": 0.547445255474,
+        "se": 0.282397164977
+      },
+      "stylometry.semicolon_per_1k_words": {
+        "ci_high": 8.25192022638,
+        "ci_low": 1.15437344659,
+        "n_finite": 50,
+        "point": 3.91772771792,
+        "se": 2.1367366711
+      },
+      "stylometry.subordination_density": {
+        "ci_high": 23.6888702316,
+        "ci_low": 11.8631010716,
+        "n_finite": 50,
+        "point": 18.6092066601,
+        "se": 3.22867884861
+      }
+    },
+    "method": "sentence_bootstrap_paragraph_shape_v1",
+    "n_sentences": 33,
+    "seed": "136d2d45a16e6882286cbc8e307c084b481802af03f57e7c24f7828babdea76f"
+  }
+}

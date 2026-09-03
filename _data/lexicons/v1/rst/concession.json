@@ -1,0 +1,123 @@
+{
+  "category_name": "CONCESSION_MARKERS",
+  "source_file": "words_CONCESSION_MARKERS_expanded.json",
+  "count": 29,
+  "words": [
+    {
+      "word": "although",
+      "reason": "marks concession acknowledging a counter-point while maintaining the main argument."
+    },
+    {
+      "word": "though",
+      "reason": "marks concession acknowledging a counter-point."
+    },
+    {
+      "word": "even",
+      "reason": "marks concession in ‘even though’ or ‘even if’."
+    },
+    {
+      "word": "while",
+      "reason": "marks concession acknowledging a counter-point (concessive use)."
+    },
+    {
+      "word": "whilst",
+      "reason": "marks concession acknowledging a counter-point."
+    },
+    {
+      "word": "despite",
+      "reason": "marks concession with respect to a stated factor."
+    },
+    {
+      "word": "notwithstanding",
+      "reason": "marks concession with respect to a stated factor."
+    },
+    {
+      "word": "regardless",
+      "reason": "marks concession dismissing a stated factor."
+    },
+    {
+      "word": "admittedly",
+      "reason": "marks concession granting a point."
+    },
+    {
+      "word": "granted",
+      "reason": "marks concession granting a point."
+    },
+    {
+      "word": "granting",
+      "reason": "marks concession granting a point."
+    },
+    {
+      "word": "true",
+      "reason": "marks concession granting a point (e.g., ‘true, but…’)."
+    },
+    {
+      "word": "certainly",
+      "reason": "marks concession granting a point before counter-assertion."
+    },
+    {
+      "word": "of",
+      "reason": "marks concession in ‘of course’ used concessively."
+    },
+    {
+      "word": "course",
+      "reason": "marks concession in ‘of course’ used concessively."
+    },
+    {
+      "word": "indeed",
+      "reason": "marks concession granting a point before counter-assertion."
+    },
+    {
+      "word": "naturally",
+      "reason": "marks concession granting a point before counter-assertion."
+    },
+    {
+      "word": "obviously",
+      "reason": "marks concession granting a point before counter-assertion."
+    },
+    {
+      "word": "sure",
+      "reason": "marks concession granting a point informally."
+    },
+    {
+      "word": "doubtless",
+      "reason": "marks concession granting a point before counter-assertion."
+    },
+    {
+      "word": "nevertheless",
+      "reason": "marks concession by maintaining main argument despite counter-point."
+    },
+    {
+      "word": "nonetheless",
+      "reason": "marks concession by maintaining main argument despite counter-point."
+    },
+    {
+      "word": "still",
+      "reason": "marks concession by maintaining main argument despite counter-point."
+    },
+    {
+      "word": "yet",
+      "reason": "marks concession by maintaining main argument despite counter-point."
+    },
+    {
+      "word": "however",
+      "reason": "marks concession by maintaining main argument despite counter-point."
+    },
+    {
+      "word": "anyway",
+      "reason": "marks concession by setting aside counter-point."
+    },
+    {
+      "word": "anyhow",
+      "reason": "marks concession by setting aside counter-point."
+    },
+    {
+      "word": "albeit",
+      "reason": "marks concession introducing a qualifying counter-point."
+    },
+    {
+      "word": "if",
+      "reason": "marks concession in ‘even if’ acknowledging hypothetical counter-point."
+    }
+  ]
+}

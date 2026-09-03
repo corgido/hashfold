@@ -1,0 +1,1387 @@
+{
+  "category_name": "MENTAL_PROCESS_VERBS",
+  "source_file": "words_MENTAL_PROCESS_VERBS_expanded.json",
+  "count": 345,
+  "words": [
+    {
+      "word": "think",
+      "reason": "construes a cognitive process with a conscious Senser entertaining a Phenomenon."
+    },
+    {
+      "word": "thinks",
+      "reason": "construes a cognitive process with a conscious Senser entertaining a Phenomenon. (inflected form of think)"
+    },
+    {
+      "word": "thinking",
+      "reason": "construes a cognitive process with a conscious Senser entertaining a Phenomenon. (inflected form of think)"
+    },
+    {
+      "word": "thought",
+      "reason": "construes a cognitive process with a conscious Senser entertaining a Phenomenon. (inflected form of think)"
+    },
+    {
+      "word": "know",
+      "reason": "construes cognition: the Senser holds a Phenomenon as known."
+    },
+    {
+      "word": "knows",
+      "reason": "construes cognition: the Senser holds a Phenomenon as known. (inflected form of know)"
+    },
+    {
+      "word": "knowing",
+      "reason": "construes cognition: the Senser holds a Phenomenon as known. (inflected form of know)"
+    },
+    {
+      "word": "knew",
+      "reason": "construes cognition: the Senser holds a Phenomenon as known. (inflected form of know)"
+    },
+    {
+      "word": "known",
+      "reason": "construes cognition: the Senser holds a Phenomenon as known. (inflected form of know)"
+    },
+    {
+      "word": "believe",
+      "reason": "construes cognition with epistemic stance toward a projected Phenomenon."
+    },
+    {
+      "word": "believes",
+      "reason": "construes cognition with epistemic stance toward a projected Phenomenon. (inflected form of believe)"
+    },
+    {
+      "word": "believing",
+      "reason": "construes cognition with epistemic stance toward a projected Phenomenon. (inflected form of believe)"
+    },
+    {
+      "word": "believed",
+      "reason": "construes cognition with epistemic stance toward a projected Phenomenon. (inflected form of believe)"
+    },
+    {
+      "word": "understand",
+      "reason": "construes cognitive grasp of a Phenomenon by a conscious Senser."
+    },
+    {
+      "word": "understands",
+      "reason": "construes cognitive grasp of a Phenomenon by a conscious Senser. (inflected form of understand)"
+    },
+    {
+      "word": "understanding",
+      "reason": "construes cognitive grasp of a Phenomenon by a conscious Senser. (inflected form of understand)"
+    },
+    {
+      "word": "understood",
+      "reason": "construes cognitive grasp of a Phenomenon by a conscious Senser. (inflected form of understand)"
+    },
+    {
+      "word": "realise",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon."
+    },
+    {
+      "word": "realises",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon. (inflected form of realise)"
+    },
+    {
+      "word": "realising",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon. (inflected form of realise)"
+    },
+    {
+      "word": "realised",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon. (inflected form of realise)"
+    },
+    {
+      "word": "realize",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon."
+    },
+    {
+      "word": "realizes",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon. (inflected form of realize)"
+    },
+    {
+      "word": "realizing",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon. (inflected form of realize)"
+    },
+    {
+      "word": "realized",
+      "reason": "construes cognitive change-of-state in the Senser registering a Phenomenon. (inflected form of realize)"
+    },
+    {
+      "word": "remember",
+      "reason": "construes cognition: the Senser retrieves a Phenomenon."
+    },
+    {
+      "word": "remembers",
+      "reason": "construes cognition: the Senser retrieves a Phenomenon. (inflected form of remember)"
+    },
+    {
+      "word": "remembering",
+      "reason": "construes cognition: the Senser retrieves a Phenomenon. (inflected form of remember)"
+    },
+    {
+      "word": "remembered",
+      "reason": "construes cognition: the Senser retrieves a Phenomenon. (inflected form of remember)"
+    },
+    {
+      "word": "forget",
+      "reason": "construes cognition: the Senser fails to retain a Phenomenon."
+    },
+    {
+      "word": "forgets",
+      "reason": "construes cognition: the Senser fails to retain a Phenomenon. (inflected form of forget)"
+    },
+    {
+      "word": "forgetting",
+      "reason": "construes cognition: the Senser fails to retain a Phenomenon. (inflected form of forget)"
+    },
+    {
+      "word": "forgot",
+      "reason": "construes cognition: the Senser fails to retain a Phenomenon. (inflected form of forget)"
+    },
+    {
+      "word": "forgotten",
+      "reason": "construes cognition: the Senser fails to retain a Phenomenon. (inflected form of forget)"
+    },
+    {
+      "word": "recall",
+      "reason": "construes cognitive retrieval of a Phenomenon by the Senser."
+    },
+    {
+      "word": "recalls",
+      "reason": "construes cognitive retrieval of a Phenomenon by the Senser. (inflected form of recall)"
+    },
+    {
+      "word": "recalling",
+      "reason": "construes cognitive retrieval of a Phenomenon by the Senser. (inflected form of recall)"
+    },
+    {
+      "word": "recalled",
+      "reason": "construes cognitive retrieval of a Phenomenon by the Senser. (inflected form of recall)"
+    },
+    {
+      "word": "recognise",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon."
+    },
+    {
+      "word": "recognises",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon. (inflected form of recognise)"
+    },
+    {
+      "word": "recognising",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon. (inflected form of recognise)"
+    },
+    {
+      "word": "recognised",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon. (inflected form of recognise)"
+    },
+    {
+      "word": "recognize",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon."
+    },
+    {
+      "word": "recognizes",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon. (inflected form of recognize)"
+    },
+    {
+      "word": "recognizing",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon. (inflected form of recognize)"
+    },
+    {
+      "word": "recognized",
+      "reason": "construes perceptual-cognitive identification of a Phenomenon. (inflected form of recognize)"
+    },
+    {
+      "word": "imagine",
+      "reason": "construes mental simulation of a projected Phenomenon."
+    },
+    {
+      "word": "imagines",
+      "reason": "construes mental simulation of a projected Phenomenon. (inflected form of imagine)"
+    },
+    {
+      "word": "imagining",
+      "reason": "construes mental simulation of a projected Phenomenon. (inflected form of imagine)"
+    },
+    {
+      "word": "imagined",
+      "reason": "construes mental simulation of a projected Phenomenon. (inflected form of imagine)"
+    },
+    {
+      "word": "suppose",
+      "reason": "construes cognitive entertainment of a Phenomenon as hypothesis."
+    },
+    {
+      "word": "supposes",
+      "reason": "construes cognitive entertainment of a Phenomenon as hypothesis. (inflected form of suppose)"
+    },
+    {
+      "word": "supposing",
+      "reason": "construes cognitive entertainment of a Phenomenon as hypothesis. (inflected form of suppose)"
+    },
+    {
+      "word": "supposed",
+      "reason": "construes cognitive entertainment of a Phenomenon as hypothesis. (inflected form of suppose)"
+    },
+    {
+      "word": "assume",
+      "reason": "construes cognition: the Senser takes a Phenomenon as given."
+    },
+    {
+      "word": "assumes",
+      "reason": "construes cognition: the Senser takes a Phenomenon as given. (inflected form of assume)"
+    },
+    {
+      "word": "assuming",
+      "reason": "construes cognition: the Senser takes a Phenomenon as given. (inflected form of assume)"
+    },
+    {
+      "word": "assumed",
+      "reason": "construes cognition: the Senser takes a Phenomenon as given. (inflected form of assume)"
+    },
+    {
+      "word": "doubt",
+      "reason": "construes cognitive-affective stance of low credence toward a Phenomenon."
+    },
+    {
+      "word": "doubts",
+      "reason": "construes cognitive-affective stance of low credence toward a Phenomenon. (inflected form of doubt)"
+    },
+    {
+      "word": "doubting",
+      "reason": "construes cognitive-affective stance of low credence toward a Phenomenon. (inflected form of doubt)"
+    },
+    {
+      "word": "doubted",
+      "reason": "construes cognitive-affective stance of low credence toward a Phenomenon. (inflected form of doubt)"
+    },
+    {
+      "word": "wonder",
+      "reason": "construes cognitive uncertainty projecting an interrogative Phenomenon."
+    },
+    {
+      "word": "wonders",
+      "reason": "construes cognitive uncertainty projecting an interrogative Phenomenon. (inflected form of wonder)"
+    },
+    {
+      "word": "wondering",
+      "reason": "construes cognitive uncertainty projecting an interrogative Phenomenon. (inflected form of wonder)"
+    },
+    {
+      "word": "wondered",
+      "reason": "construes cognitive uncertainty projecting an interrogative Phenomenon. (inflected form of wonder)"
+    },
+    {
+      "word": "consider",
+      "reason": "construes cognitive deliberation upon a Phenomenon."
+    },
+    {
+      "word": "considers",
+      "reason": "construes cognitive deliberation upon a Phenomenon. (inflected form of consider)"
+    },
+    {
+      "word": "considering",
+      "reason": "construes cognitive deliberation upon a Phenomenon. (inflected form of consider)"
+    },
+    {
+      "word": "considered",
+      "reason": "construes cognitive deliberation upon a Phenomenon. (inflected form of consider)"
+    },
+    {
+      "word": "guess",
+      "reason": "construes cognition under uncertainty about a Phenomenon."
+    },
+    {
+      "word": "guesses",
+      "reason": "construes cognition under uncertainty about a Phenomenon. (inflected form of guess)"
+    },
+    {
+      "word": "guessing",
+      "reason": "construes cognition under uncertainty about a Phenomenon. (inflected form of guess)"
+    },
+    {
+      "word": "guessed",
+      "reason": "construes cognition under uncertainty about a Phenomenon. (inflected form of guess)"
+    },
+    {
+      "word": "expect",
+      "reason": "construes cognitive projection of a future Phenomenon."
+    },
+    {
+      "word": "expects",
+      "reason": "construes cognitive projection of a future Phenomenon. (inflected form of expect)"
+    },
+    {
+      "word": "expecting",
+      "reason": "construes cognitive projection of a future Phenomenon. (inflected form of expect)"
+    },
+    {
+      "word": "expected",
+      "reason": "construes cognitive projection of a future Phenomenon. (inflected form of expect)"
+    },
+    {
+      "word": "intend",
+      "reason": "construes a desiderative-cognitive orientation toward a projected Phenomenon."
+    },
+    {
+      "word": "intends",
+      "reason": "construes a desiderative-cognitive orientation toward a projected Phenomenon. (inflected form of intend)"
+    },
+    {
+      "word": "intending",
+      "reason": "construes a desiderative-cognitive orientation toward a projected Phenomenon. (inflected form of intend)"
+    },
+    {
+      "word": "intended",
+      "reason": "construes a desiderative-cognitive orientation toward a projected Phenomenon. (inflected form of intend)"
+    },
+    {
+      "word": "decide",
+      "reason": "construes cognitive resolution upon a Phenomenon."
+    },
+    {
+      "word": "decides",
+      "reason": "construes cognitive resolution upon a Phenomenon. (inflected form of decide)"
+    },
+    {
+      "word": "deciding",
+      "reason": "construes cognitive resolution upon a Phenomenon. (inflected form of decide)"
+    },
+    {
+      "word": "decided",
+      "reason": "construes cognitive resolution upon a Phenomenon. (inflected form of decide)"
+    },
+    {
+      "word": "see",
+      "reason": "construes perception of a visual Phenomenon by the Senser; mental in perceptual use, not in the sense ‘meet’."
+    },
+    {
+      "word": "sees",
+      "reason": "construes perception of a visual Phenomenon by the Senser; mental in perceptual use, not in the sense ‘meet’. (inflected form of see)"
+    },
+    {
+      "word": "seeing",
+      "reason": "construes perception of a visual Phenomenon by the Senser; mental in perceptual use, not in the sense ‘meet’. (inflected form of see)"
+    },
+    {
+      "word": "saw",
+      "reason": "construes perception of a visual Phenomenon by the Senser; mental in perceptual use, not in the sense ‘meet’. (inflected form of see)"
+    },
+    {
+      "word": "seen",
+      "reason": "construes perception of a visual Phenomenon by the Senser; mental in perceptual use, not in the sense ‘meet’. (inflected form of see)"
+    },
+    {
+      "word": "hear",
+      "reason": "construes auditory perception of a Phenomenon."
+    },
+    {
+      "word": "hears",
+      "reason": "construes auditory perception of a Phenomenon. (inflected form of hear)"
+    },
+    {
+      "word": "hearing",
+      "reason": "construes auditory perception of a Phenomenon. (inflected form of hear)"
+    },
+    {
+      "word": "heard",
+      "reason": "construes auditory perception of a Phenomenon. (inflected form of hear)"
+    },
+    {
+      "word": "notice",
+      "reason": "construes perceptual registration of a Phenomenon."
+    },
+    {
+      "word": "notices",
+      "reason": "construes perceptual registration of a Phenomenon. (inflected form of notice)"
+    },
+    {
+      "word": "noticing",
+      "reason": "construes perceptual registration of a Phenomenon. (inflected form of notice)"
+    },
+    {
+      "word": "noticed",
+      "reason": "construes perceptual registration of a Phenomenon. (inflected form of notice)"
+    },
+    {
+      "word": "perceive",
+      "reason": "construes general perception of a Phenomenon."
+    },
+    {
+      "word": "perceives",
+      "reason": "construes general perception of a Phenomenon. (inflected form of perceive)"
+    },
+    {
+      "word": "perceiving",
+      "reason": "construes general perception of a Phenomenon. (inflected form of perceive)"
+    },
+    {
+      "word": "perceived",
+      "reason": "construes general perception of a Phenomenon. (inflected form of perceive)"
+    },
+    {
+      "word": "feel",
+      "reason": "construes affective or perceptual sensing of a Phenomenon by the Senser."
+    },
+    {
+      "word": "feels",
+      "reason": "construes affective or perceptual sensing of a Phenomenon by the Senser. (inflected form of feel)"
+    },
+    {
+      "word": "feeling",
+      "reason": "construes affective or perceptual sensing of a Phenomenon by the Senser. (inflected form of feel)"
+    },
+    {
+      "word": "felt",
+      "reason": "construes affective or perceptual sensing of a Phenomenon by the Senser. (inflected form of feel)"
+    },
+    {
+      "word": "smell",
+      "reason": "construes olfactory perception of a Phenomenon."
+    },
+    {
+      "word": "smells",
+      "reason": "construes olfactory perception of a Phenomenon. (inflected form of smell)"
+    },
+    {
+      "word": "smelling",
+      "reason": "construes olfactory perception of a Phenomenon. (inflected form of smell)"
+    },
+    {
+      "word": "smelled",
+      "reason": "construes olfactory perception of a Phenomenon. (inflected form of smell)"
+    },
+    {
+      "word": "smelt",
+      "reason": "construes olfactory perception of a Phenomenon. (inflected form of smell)"
+    },
+    {
+      "word": "taste",
+      "reason": "construes gustatory perception of a Phenomenon."
+    },
+    {
+      "word": "tastes",
+      "reason": "construes gustatory perception of a Phenomenon. (inflected form of taste)"
+    },
+    {
+      "word": "tasting",
+      "reason": "construes gustatory perception of a Phenomenon. (inflected form of taste)"
+    },
+    {
+      "word": "tasted",
+      "reason": "construes gustatory perception of a Phenomenon. (inflected form of taste)"
+    },
+    {
+      "word": "sense",
+      "reason": "construes perceptual or intuitive registration of a Phenomenon."
+    },
+    {
+      "word": "senses",
+      "reason": "construes perceptual or intuitive registration of a Phenomenon. (inflected form of sense)"
+    },
+    {
+      "word": "sensing",
+      "reason": "construes perceptual or intuitive registration of a Phenomenon. (inflected form of sense)"
+    },
+    {
+      "word": "sensed",
+      "reason": "construes perceptual or intuitive registration of a Phenomenon. (inflected form of sense)"
+    },
+    {
+      "word": "observe",
+      "reason": "construes attentive perception of a Phenomenon (perceptual use, not the verbal ‘remark’ use)."
+    },
+    {
+      "word": "observes",
+      "reason": "construes attentive perception of a Phenomenon (perceptual use, not the verbal ‘remark’ use). (inflected form of observe)"
+    },
+    {
+      "word": "observing",
+      "reason": "construes attentive perception of a Phenomenon (perceptual use, not the verbal ‘remark’ use). (inflected form of observe)"
+    },
+    {
+      "word": "observed",
+      "reason": "construes attentive perception of a Phenomenon (perceptual use, not the verbal ‘remark’ use). (inflected form of observe)"
+    },
+    {
+      "word": "want",
+      "reason": "construes desire of the Senser for a Phenomenon."
+    },
+    {
+      "word": "wants",
+      "reason": "construes desire of the Senser for a Phenomenon. (inflected form of want)"
+    },
+    {
+      "word": "wanting",
+      "reason": "construes desire of the Senser for a Phenomenon. (inflected form of want)"
+    },
+    {
+      "word": "wanted",
+      "reason": "construes desire of the Senser for a Phenomenon. (inflected form of want)"
+    },
+    {
+      "word": "wish",
+      "reason": "construes desiderative orientation toward a counterfactual or future Phenomenon."
+    },
+    {
+      "word": "wishes",
+      "reason": "construes desiderative orientation toward a counterfactual or future Phenomenon. (inflected form of wish)"
+    },
+    {
+      "word": "wishing",
+      "reason": "construes desiderative orientation toward a counterfactual or future Phenomenon. (inflected form of wish)"
+    },
+    {
+      "word": "wished",
+      "reason": "construes desiderative orientation toward a counterfactual or future Phenomenon. (inflected form of wish)"
+    },
+    {
+      "word": "desire",
+      "reason": "construes desire of the Senser for a Phenomenon."
+    },
+    {
+      "word": "desires",
+      "reason": "construes desire of the Senser for a Phenomenon. (inflected form of desire)"
+    },
+    {
+      "word": "desiring",
+      "reason": "construes desire of the Senser for a Phenomenon. (inflected form of desire)"
+    },
+    {
+      "word": "desired",
+      "reason": "construes desire of the Senser for a Phenomenon. (inflected form of desire)"
+    },
+    {
+      "word": "hope",
+      "reason": "construes desiderative-cognitive orientation toward a future Phenomenon."
+    },
+    {
+      "word": "hopes",
+      "reason": "construes desiderative-cognitive orientation toward a future Phenomenon. (inflected form of hope)"
+    },
+    {
+      "word": "hoping",
+      "reason": "construes desiderative-cognitive orientation toward a future Phenomenon. (inflected form of hope)"
+    },
+    {
+      "word": "hoped",
+      "reason": "construes desiderative-cognitive orientation toward a future Phenomenon. (inflected form of hope)"
+    },
+    {
+      "word": "crave",
+      "reason": "construes intense desire of the Senser for a Phenomenon."
+    },
+    {
+      "word": "craves",
+      "reason": "construes intense desire of the Senser for a Phenomenon. (inflected form of crave)"
+    },
+    {
+      "word": "craving",
+      "reason": "construes intense desire of the Senser for a Phenomenon. (inflected form of crave)"
+    },
+    {
+      "word": "craved",
+      "reason": "construes intense desire of the Senser for a Phenomenon. (inflected form of crave)"
+    },
+    {
+      "word": "yearn",
+      "reason": "construes affective longing of the Senser for a Phenomenon."
+    },
+    {
+      "word": "yearns",
+      "reason": "construes affective longing of the Senser for a Phenomenon. (inflected form of yearn)"
+    },
+    {
+      "word": "yearning",
+      "reason": "construes affective longing of the Senser for a Phenomenon. (inflected form of yearn)"
+    },
+    {
+      "word": "yearned",
+      "reason": "construes affective longing of the Senser for a Phenomenon. (inflected form of yearn)"
+    },
+    {
+      "word": "long",
+      "reason": "construes affective longing for a Phenomenon (mental use, not the spatial adjective)."
+    },
+    {
+      "word": "longs",
+      "reason": "construes affective longing for a Phenomenon (mental use, not the spatial adjective). (inflected form of long)"
+    },
+    {
+      "word": "longing",
+      "reason": "construes affective longing for a Phenomenon (mental use, not the spatial adjective). (inflected form of long)"
+    },
+    {
+      "word": "longed",
+      "reason": "construes affective longing for a Phenomenon (mental use, not the spatial adjective). (inflected form of long)"
+    },
+    {
+      "word": "prefer",
+      "reason": "construes evaluative desire ranking one Phenomenon over another."
+    },
+    {
+      "word": "prefers",
+      "reason": "construes evaluative desire ranking one Phenomenon over another. (inflected form of prefer)"
+    },
+    {
+      "word": "preferring",
+      "reason": "construes evaluative desire ranking one Phenomenon over another. (inflected form of prefer)"
+    },
+    {
+      "word": "preferred",
+      "reason": "construes evaluative desire ranking one Phenomenon over another. (inflected form of prefer)"
+    },
+    {
+      "word": "like",
+      "reason": "construes affective positive orientation toward a Phenomenon."
+    },
+    {
+      "word": "likes",
+      "reason": "construes affective positive orientation toward a Phenomenon. (inflected form of like)"
+    },
+    {
+      "word": "liking",
+      "reason": "construes affective positive orientation toward a Phenomenon. (inflected form of like)"
+    },
+    {
+      "word": "liked",
+      "reason": "construes affective positive orientation toward a Phenomenon. (inflected form of like)"
+    },
+    {
+      "word": "love",
+      "reason": "construes strong positive affect toward a Phenomenon."
+    },
+    {
+      "word": "loves",
+      "reason": "construes strong positive affect toward a Phenomenon. (inflected form of love)"
+    },
+    {
+      "word": "loving",
+      "reason": "construes strong positive affect toward a Phenomenon. (inflected form of love)"
+    },
+    {
+      "word": "loved",
+      "reason": "construes strong positive affect toward a Phenomenon. (inflected form of love)"
+    },
+    {
+      "word": "hate",
+      "reason": "construes strong negative affect toward a Phenomenon."
+    },
+    {
+      "word": "hates",
+      "reason": "construes strong negative affect toward a Phenomenon. (inflected form of hate)"
+    },
+    {
+      "word": "hating",
+      "reason": "construes strong negative affect toward a Phenomenon. (inflected form of hate)"
+    },
+    {
+      "word": "hated",
+      "reason": "construes strong negative affect toward a Phenomenon. (inflected form of hate)"
+    },
+    {
+      "word": "dislike",
+      "reason": "construes negative affect toward a Phenomenon."
+    },
+    {
+      "word": "dislikes",
+      "reason": "construes negative affect toward a Phenomenon. (inflected form of dislike)"
+    },
+    {
+      "word": "disliking",
+      "reason": "construes negative affect toward a Phenomenon. (inflected form of dislike)"
+    },
+    {
+      "word": "disliked",
+      "reason": "construes negative affect toward a Phenomenon. (inflected form of dislike)"
+    },
+    {
+      "word": "loathe",
+      "reason": "construes intense negative affect toward a Phenomenon."
+    },
+    {
+      "word": "loathes",
+      "reason": "construes intense negative affect toward a Phenomenon. (inflected form of loathe)"
+    },
+    {
+      "word": "loathing",
+      "reason": "construes intense negative affect toward a Phenomenon. (inflected form of loathe)"
+    },
+    {
+      "word": "loathed",
+      "reason": "construes intense negative affect toward a Phenomenon. (inflected form of loathe)"
+    },
+    {
+      "word": "admire",
+      "reason": "construes appreciative affect of the Senser toward a Phenomenon."
+    },
+    {
+      "word": "admires",
+      "reason": "construes appreciative affect of the Senser toward a Phenomenon. (inflected form of admire)"
+    },
+    {
+      "word": "admiring",
+      "reason": "construes appreciative affect of the Senser toward a Phenomenon. (inflected form of admire)"
+    },
+    {
+      "word": "admired",
+      "reason": "construes appreciative affect of the Senser toward a Phenomenon. (inflected form of admire)"
+    },
+    {
+      "word": "enjoy",
+      "reason": "construes positive affective experience of a Phenomenon."
+    },
+    {
+      "word": "enjoys",
+      "reason": "construes positive affective experience of a Phenomenon. (inflected form of enjoy)"
+    },
+    {
+      "word": "enjoying",
+      "reason": "construes positive affective experience of a Phenomenon. (inflected form of enjoy)"
+    },
+    {
+      "word": "enjoyed",
+      "reason": "construes positive affective experience of a Phenomenon. (inflected form of enjoy)"
+    },
+    {
+      "word": "fear",
+      "reason": "construes affective response of apprehension toward a Phenomenon."
+    },
+    {
+      "word": "fears",
+      "reason": "construes affective response of apprehension toward a Phenomenon. (inflected form of fear)"
+    },
+    {
+      "word": "fearing",
+      "reason": "construes affective response of apprehension toward a Phenomenon. (inflected form of fear)"
+    },
+    {
+      "word": "feared",
+      "reason": "construes affective response of apprehension toward a Phenomenon. (inflected form of fear)"
+    },
+    {
+      "word": "dread",
+      "reason": "construes affective anticipation of an aversive Phenomenon."
+    },
+    {
+      "word": "dreads",
+      "reason": "construes affective anticipation of an aversive Phenomenon. (inflected form of dread)"
+    },
+    {
+      "word": "dreading",
+      "reason": "construes affective anticipation of an aversive Phenomenon. (inflected form of dread)"
+    },
+    {
+      "word": "dreaded",
+      "reason": "construes affective anticipation of an aversive Phenomenon. (inflected form of dread)"
+    },
+    {
+      "word": "regret",
+      "reason": "construes affective stance toward a past Phenomenon."
+    },
+    {
+      "word": "regrets",
+      "reason": "construes affective stance toward a past Phenomenon. (inflected form of regret)"
+    },
+    {
+      "word": "regretting",
+      "reason": "construes affective stance toward a past Phenomenon. (inflected form of regret)"
+    },
+    {
+      "word": "regretted",
+      "reason": "construes affective stance toward a past Phenomenon. (inflected form of regret)"
+    },
+    {
+      "word": "envy",
+      "reason": "construes affective response toward another’s Phenomenon."
+    },
+    {
+      "word": "envies",
+      "reason": "construes affective response toward another’s Phenomenon. (inflected form of envy)"
+    },
+    {
+      "word": "envying",
+      "reason": "construes affective response toward another’s Phenomenon. (inflected form of envy)"
+    },
+    {
+      "word": "envied",
+      "reason": "construes affective response toward another’s Phenomenon. (inflected form of envy)"
+    },
+    {
+      "word": "pity",
+      "reason": "construes affective response of sympathy toward a Phenomenon."
+    },
+    {
+      "word": "pities",
+      "reason": "construes affective response of sympathy toward a Phenomenon. (inflected form of pity)"
+    },
+    {
+      "word": "pitying",
+      "reason": "construes affective response of sympathy toward a Phenomenon. (inflected form of pity)"
+    },
+    {
+      "word": "pitied",
+      "reason": "construes affective response of sympathy toward a Phenomenon. (inflected form of pity)"
+    },
+    {
+      "word": "trust",
+      "reason": "construes cognitive-affective credence in a Phenomenon."
+    },
+    {
+      "word": "trusts",
+      "reason": "construes cognitive-affective credence in a Phenomenon. (inflected form of trust)"
+    },
+    {
+      "word": "trusting",
+      "reason": "construes cognitive-affective credence in a Phenomenon. (inflected form of trust)"
+    },
+    {
+      "word": "trusted",
+      "reason": "construes cognitive-affective credence in a Phenomenon. (inflected form of trust)"
+    },
+    {
+      "word": "mistrust",
+      "reason": "construes cognitive-affective lack of credence in a Phenomenon."
+    },
+    {
+      "word": "mistrusts",
+      "reason": "construes cognitive-affective lack of credence in a Phenomenon. (inflected form of mistrust)"
+    },
+    {
+      "word": "mistrusting",
+      "reason": "construes cognitive-affective lack of credence in a Phenomenon. (inflected form of mistrust)"
+    },
+    {
+      "word": "mistrusted",
+      "reason": "construes cognitive-affective lack of credence in a Phenomenon. (inflected form of mistrust)"
+    },
+    {
+      "word": "suspect",
+      "reason": "construes cognition under uncertainty toward a Phenomenon."
+    },
+    {
+      "word": "suspects",
+      "reason": "construes cognition under uncertainty toward a Phenomenon. (inflected form of suspect)"
+    },
+    {
+      "word": "suspecting",
+      "reason": "construes cognition under uncertainty toward a Phenomenon. (inflected form of suspect)"
+    },
+    {
+      "word": "suspected",
+      "reason": "construes cognition under uncertainty toward a Phenomenon. (inflected form of suspect)"
+    },
+    {
+      "word": "appreciate",
+      "reason": "construes affective-evaluative response to a Phenomenon."
+    },
+    {
+      "word": "appreciates",
+      "reason": "construes affective-evaluative response to a Phenomenon. (inflected form of appreciate)"
+    },
+    {
+      "word": "appreciating",
+      "reason": "construes affective-evaluative response to a Phenomenon. (inflected form of appreciate)"
+    },
+    {
+      "word": "appreciated",
+      "reason": "construes affective-evaluative response to a Phenomenon. (inflected form of appreciate)"
+    },
+    {
+      "word": "mind",
+      "reason": "construes affective objection to a Phenomenon (mental use, not the noun)."
+    },
+    {
+      "word": "minds",
+      "reason": "construes affective objection to a Phenomenon (mental use, not the noun). (inflected form of mind)"
+    },
+    {
+      "word": "minding",
+      "reason": "construes affective objection to a Phenomenon (mental use, not the noun). (inflected form of mind)"
+    },
+    {
+      "word": "minded",
+      "reason": "construes affective objection to a Phenomenon (mental use, not the noun). (inflected form of mind)"
+    },
+    {
+      "word": "care",
+      "reason": "construes affective concern for a Phenomenon."
+    },
+    {
+      "word": "cares",
+      "reason": "construes affective concern for a Phenomenon. (inflected form of care)"
+    },
+    {
+      "word": "caring",
+      "reason": "construes affective concern for a Phenomenon. (inflected form of care)"
+    },
+    {
+      "word": "cared",
+      "reason": "construes affective concern for a Phenomenon. (inflected form of care)"
+    },
+    {
+      "word": "contemplate",
+      "reason": "construes sustained cognitive attention to a Phenomenon."
+    },
+    {
+      "word": "contemplates",
+      "reason": "construes sustained cognitive attention to a Phenomenon. (inflected form of contemplate)"
+    },
+    {
+      "word": "contemplating",
+      "reason": "construes sustained cognitive attention to a Phenomenon. (inflected form of contemplate)"
+    },
+    {
+      "word": "contemplated",
+      "reason": "construes sustained cognitive attention to a Phenomenon. (inflected form of contemplate)"
+    },
+    {
+      "word": "ponder",
+      "reason": "construes deliberative cognition over a Phenomenon."
+    },
+    {
+      "word": "ponders",
+      "reason": "construes deliberative cognition over a Phenomenon. (inflected form of ponder)"
+    },
+    {
+      "word": "pondering",
+      "reason": "construes deliberative cognition over a Phenomenon. (inflected form of ponder)"
+    },
+    {
+      "word": "pondered",
+      "reason": "construes deliberative cognition over a Phenomenon. (inflected form of ponder)"
+    },
+    {
+      "word": "reflect",
+      "reason": "construes cognitive review of a Phenomenon (mental use, not the optical sense)."
+    },
+    {
+      "word": "reflects",
+      "reason": "construes cognitive review of a Phenomenon (mental use, not the optical sense). (inflected form of reflect)"
+    },
+    {
+      "word": "reflecting",
+      "reason": "construes cognitive review of a Phenomenon (mental use, not the optical sense). (inflected form of reflect)"
+    },
+    {
+      "word": "reflected",
+      "reason": "construes cognitive review of a Phenomenon (mental use, not the optical sense). (inflected form of reflect)"
+    },
+    {
+      "word": "anticipate",
+      "reason": "construes cognitive projection of a future Phenomenon."
+    },
+    {
+      "word": "anticipates",
+      "reason": "construes cognitive projection of a future Phenomenon. (inflected form of anticipate)"
+    },
+    {
+      "word": "anticipating",
+      "reason": "construes cognitive projection of a future Phenomenon. (inflected form of anticipate)"
+    },
+    {
+      "word": "anticipated",
+      "reason": "construes cognitive projection of a future Phenomenon. (inflected form of anticipate)"
+    },
+    {
+      "word": "conclude",
+      "reason": "construes cognitive arrival at a Phenomenon as inference."
+    },
+    {
+      "word": "concludes",
+      "reason": "construes cognitive arrival at a Phenomenon as inference. (inflected form of conclude)"
+    },
+    {
+      "word": "concluding",
+      "reason": "construes cognitive arrival at a Phenomenon as inference. (inflected form of conclude)"
+    },
+    {
+      "word": "concluded",
+      "reason": "construes cognitive arrival at a Phenomenon as inference. (inflected form of conclude)"
+    },
+    {
+      "word": "infer",
+      "reason": "construes cognitive derivation of a Phenomenon from premises."
+    },
+    {
+      "word": "infers",
+      "reason": "construes cognitive derivation of a Phenomenon from premises. (inflected form of infer)"
+    },
+    {
+      "word": "infering",
+      "reason": "construes cognitive derivation of a Phenomenon from premises. (inflected form of infer)"
+    },
+    {
+      "word": "infered",
+      "reason": "construes cognitive derivation of a Phenomenon from premises. (inflected form of infer)"
+    },
+    {
+      "word": "deduce",
+      "reason": "construes cognitive inference of a Phenomenon."
+    },
+    {
+      "word": "deduces",
+      "reason": "construes cognitive inference of a Phenomenon. (inflected form of deduce)"
+    },
+    {
+      "word": "deducing",
+      "reason": "construes cognitive inference of a Phenomenon. (inflected form of deduce)"
+    },
+    {
+      "word": "deduced",
+      "reason": "construes cognitive inference of a Phenomenon. (inflected form of deduce)"
+    },
+    {
+      "word": "recollect",
+      "reason": "construes cognitive retrieval of a past Phenomenon."
+    },
+    {
+      "word": "recollects",
+      "reason": "construes cognitive retrieval of a past Phenomenon. (inflected form of recollect)"
+    },
+    {
+      "word": "recollecting",
+      "reason": "construes cognitive retrieval of a past Phenomenon. (inflected form of recollect)"
+    },
+    {
+      "word": "recollected",
+      "reason": "construes cognitive retrieval of a past Phenomenon. (inflected form of recollect)"
+    },
+    {
+      "word": "learn",
+      "reason": "construes cognitive acquisition of a Phenomenon by the Senser."
+    },
+    {
+      "word": "learns",
+      "reason": "construes cognitive acquisition of a Phenomenon by the Senser. (inflected form of learn)"
+    },
+    {
+      "word": "learning",
+      "reason": "construes cognitive acquisition of a Phenomenon by the Senser. (inflected form of learn)"
+    },
+    {
+      "word": "learned",
+      "reason": "construes cognitive acquisition of a Phenomenon by the Senser. (inflected form of learn)"
+    },
+    {
+      "word": "discover",
+      "reason": "construes cognitive coming-to-know of a Phenomenon."
+    },
+    {
+      "word": "discovers",
+      "reason": "construes cognitive coming-to-know of a Phenomenon. (inflected form of discover)"
+    },
+    {
+      "word": "discovering",
+      "reason": "construes cognitive coming-to-know of a Phenomenon. (inflected form of discover)"
+    },
+    {
+      "word": "discovered",
+      "reason": "construes cognitive coming-to-know of a Phenomenon. (inflected form of discover)"
+    },
+    {
+      "word": "find",
+      "reason": "construes cognitive arrival at a Phenomenon as conclusion (mental use, e.g., ‘I find that…’)."
+    },
+    {
+      "word": "finds",
+      "reason": "construes cognitive arrival at a Phenomenon as conclusion (mental use, e.g., ‘I find that…’). (inflected form of find)"
+    },
+    {
+      "word": "finding",
+      "reason": "construes cognitive arrival at a Phenomenon as conclusion (mental use, e.g., ‘I find that…’). (inflected form of find)"
+    },
+    {
+      "word": "found",
+      "reason": "construes cognitive arrival at a Phenomenon as conclusion (mental use, e.g., ‘I find that…’). (inflected form of find)"
+    },
+    {
+      "word": "view",
+      "reason": "construes cognitive-evaluative orientation toward a Phenomenon (mental use, e.g., ‘view as’)."
+    },
+    {
+      "word": "views",
+      "reason": "construes cognitive-evaluative orientation toward a Phenomenon (mental use, e.g., ‘view as’). (inflected form of view)"
+    },
+    {
+      "word": "viewing",
+      "reason": "construes cognitive-evaluative orientation toward a Phenomenon (mental use, e.g., ‘view as’). (inflected form of view)"
+    },
+    {
+      "word": "viewed",
+      "reason": "construes cognitive-evaluative orientation toward a Phenomenon (mental use, e.g., ‘view as’). (inflected form of view)"
+    },
+    {
+      "word": "miss",
+      "reason": "construes affective response to absence of a Phenomenon."
+    },
+    {
+      "word": "misses",
+      "reason": "construes affective response to absence of a Phenomenon. (inflected form of miss)"
+    },
+    {
+      "word": "missing",
+      "reason": "construes affective response to absence of a Phenomenon. (inflected form of miss)"
+    },
+    {
+      "word": "missed",
+      "reason": "construes affective response to absence of a Phenomenon. (inflected form of miss)"
+    },
+    {
+      "word": "forgive",
+      "reason": "construes affective release of resentment toward a Phenomenon."
+    },
+    {
+      "word": "forgives",
+      "reason": "construes affective release of resentment toward a Phenomenon. (inflected form of forgive)"
+    },
+    {
+      "word": "forgiving",
+      "reason": "construes affective release of resentment toward a Phenomenon. (inflected form of forgive)"
+    },
+    {
+      "word": "forgave",
+      "reason": "construes affective release of resentment toward a Phenomenon. (inflected form of forgive)"
+    },
+    {
+      "word": "forgiven",
+      "reason": "construes affective release of resentment toward a Phenomenon. (inflected form of forgive)"
+    },
+    {
+      "word": "accept",
+      "reason": "construes cognitive admission of a Phenomenon as the case."
+    },
+    {
+      "word": "accepts",
+      "reason": "construes cognitive admission of a Phenomenon as the case. (inflected form of accept)"
+    },
+    {
+      "word": "accepting",
+      "reason": "construes cognitive admission of a Phenomenon as the case. (inflected form of accept)"
+    },
+    {
+      "word": "accepted",
+      "reason": "construes cognitive admission of a Phenomenon as the case. (inflected form of accept)"
+    },
+    {
+      "word": "reject",
+      "reason": "construes cognitive refusal of a Phenomenon."
+    },
+    {
+      "word": "rejects",
+      "reason": "construes cognitive refusal of a Phenomenon. (inflected form of reject)"
+    },
+    {
+      "word": "rejecting",
+      "reason": "construes cognitive refusal of a Phenomenon. (inflected form of reject)"
+    },
+    {
+      "word": "rejected",
+      "reason": "construes cognitive refusal of a Phenomenon. (inflected form of reject)"
+    },
+    {
+      "word": "judge",
+      "reason": "construes cognitive-evaluative assessment of a Phenomenon."
+    },
+    {
+      "word": "judges",
+      "reason": "construes cognitive-evaluative assessment of a Phenomenon. (inflected form of judge)"
+    },
+    {
+      "word": "judging",
+      "reason": "construes cognitive-evaluative assessment of a Phenomenon. (inflected form of judge)"
+    },
+    {
+      "word": "judged",
+      "reason": "construes cognitive-evaluative assessment of a Phenomenon. (inflected form of judge)"
+    },
+    {
+      "word": "estimate",
+      "reason": "construes cognitive approximation of a Phenomenon."
+    },
+    {
+      "word": "estimates",
+      "reason": "construes cognitive approximation of a Phenomenon. (inflected form of estimate)"
+    },
+    {
+      "word": "estimating",
+      "reason": "construes cognitive approximation of a Phenomenon. (inflected form of estimate)"
+    },
+    {
+      "word": "estimated",
+      "reason": "construes cognitive approximation of a Phenomenon. (inflected form of estimate)"
+    },
+    {
+      "word": "plan",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon."
+    },
+    {
+      "word": "planning",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon. (inflected form of plan)"
+    },
+    {
+      "word": "planned",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon. (inflected form of plan)"
+    },
+    {
+      "word": "mean",
+      "reason": "construes cognitive intent of the Senser toward a Phenomenon (mental use, distinct from the relational ‘signify’ sense)."
+    },
+    {
+      "word": "means",
+      "reason": "construes cognitive intent of the Senser toward a Phenomenon (mental use, distinct from the relational ‘signify’ sense). (inflected form of mean)"
+    },
+    {
+      "word": "meaning",
+      "reason": "construes cognitive intent of the Senser toward a Phenomenon (mental use, distinct from the relational ‘signify’ sense). (inflected form of mean)"
+    },
+    {
+      "word": "meant",
+      "reason": "construes cognitive intent of the Senser toward a Phenomenon (mental use, distinct from the relational ‘signify’ sense). (inflected form of mean)"
+    },
+    {
+      "word": "need",
+      "reason": "construes desiderative orientation of the Senser toward a Phenomenon."
+    },
+    {
+      "word": "needs",
+      "reason": "construes desiderative orientation of the Senser toward a Phenomenon. (inflected form of need)"
+    },
+    {
+      "word": "needing",
+      "reason": "construes desiderative orientation of the Senser toward a Phenomenon. (inflected form of need)"
+    },
+    {
+      "word": "needed",
+      "reason": "construes desiderative orientation of the Senser toward a Phenomenon. (inflected form of need)"
+    },
+    {
+      "word": "choose",
+      "reason": "construes cognitive-desiderative selection of a Phenomenon."
+    },
+    {
+      "word": "chooses",
+      "reason": "construes cognitive-desiderative selection of a Phenomenon. (inflected form of choose)"
+    },
+    {
+      "word": "choosing",
+      "reason": "construes cognitive-desiderative selection of a Phenomenon. (inflected form of choose)"
+    },
+    {
+      "word": "chose",
+      "reason": "construes cognitive-desiderative selection of a Phenomenon. (inflected form of choose)"
+    },
+    {
+      "word": "chosen",
+      "reason": "construes cognitive-desiderative selection of a Phenomenon. (inflected form of choose)"
+    },
+    {
+      "word": "determine",
+      "reason": "construes cognitive resolution upon a Phenomenon."
+    },
+    {
+      "word": "determines",
+      "reason": "construes cognitive resolution upon a Phenomenon. (inflected form of determine)"
+    },
+    {
+      "word": "determining",
+      "reason": "construes cognitive resolution upon a Phenomenon. (inflected form of determine)"
+    },
+    {
+      "word": "determined",
+      "reason": "construes cognitive resolution upon a Phenomenon. (inflected form of determine)"
+    },
+    {
+      "word": "comprehend",
+      "reason": "construes cognitive grasp of a Phenomenon."
+    },
+    {
+      "word": "comprehends",
+      "reason": "construes cognitive grasp of a Phenomenon. (inflected form of comprehend)"
+    },
+    {
+      "word": "comprehending",
+      "reason": "construes cognitive grasp of a Phenomenon. (inflected form of comprehend)"
+    },
+    {
+      "word": "comprehended",
+      "reason": "construes cognitive grasp of a Phenomenon. (inflected form of comprehend)"
+    },
+    {
+      "word": "value",
+      "reason": "construes affective-evaluative appreciation of a Phenomenon."
+    },
+    {
+      "word": "values",
+      "reason": "construes affective-evaluative appreciation of a Phenomenon. (inflected form of value)"
+    },
+    {
+      "word": "valuing",
+      "reason": "construes affective-evaluative appreciation of a Phenomenon. (inflected form of value)"
+    },
+    {
+      "word": "valued",
+      "reason": "construes affective-evaluative appreciation of a Phenomenon. (inflected form of value)"
+    },
+    {
+      "word": "respect",
+      "reason": "construes affective regard for a Phenomenon."
+    },
+    {
+      "word": "respects",
+      "reason": "construes affective regard for a Phenomenon. (inflected form of respect)"
+    },
+    {
+      "word": "respecting",
+      "reason": "construes affective regard for a Phenomenon. (inflected form of respect)"
+    },
+    {
+      "word": "respected",
+      "reason": "construes affective regard for a Phenomenon. (inflected form of respect)"
+    },
+    {
+      "word": "adore",
+      "reason": "construes intense positive affect toward a Phenomenon."
+    },
+    {
+      "word": "adores",
+      "reason": "construes intense positive affect toward a Phenomenon. (inflected form of adore)"
+    },
+    {
+      "word": "adoring",
+      "reason": "construes intense positive affect toward a Phenomenon. (inflected form of adore)"
+    },
+    {
+      "word": "adored",
+      "reason": "construes intense positive affect toward a Phenomenon. (inflected form of adore)"
+    },
+    {
+      "word": "fancy",
+      "reason": "construes affective-desiderative orientation toward a Phenomenon (mental use)."
+    },
+    {
+      "word": "fancies",
+      "reason": "construes affective-desiderative orientation toward a Phenomenon (mental use). (inflected form of fancy)"
+    },
+    {
+      "word": "fancying",
+      "reason": "construes affective-desiderative orientation toward a Phenomenon (mental use). (inflected form of fancy)"
+    },
+    {
+      "word": "fancied",
+      "reason": "construes affective-desiderative orientation toward a Phenomenon (mental use). (inflected form of fancy)"
+    },
+    {
+      "word": "dream",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon (mental use, e.g., ‘dream of’)."
+    },
+    {
+      "word": "dreams",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon (mental use, e.g., ‘dream of’). (inflected form of dream)"
+    },
+    {
+      "word": "dreaming",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon (mental use, e.g., ‘dream of’). (inflected form of dream)"
+    },
+    {
+      "word": "dreamed",
+      "reason": "construes cognitive-desiderative projection of a Phenomenon (mental use, e.g., ‘dream of’). (inflected form of dream)"
+    }
+  ]
+}

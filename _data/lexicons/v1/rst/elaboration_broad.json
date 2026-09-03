@@ -1,0 +1,39 @@
+{
+  "category_name": "ELABORATION_BROAD_MARKERS",
+  "source": "Curated 2026-04-17 from lexicons/v1/rst/elaboration.json. Single-word discourse adverbs that are genuine elaboration cues in technical and analytical prose but fire as conversational fillers in dialogue and journalistic registers (e.g. 'Indeed, she said.', 'Precisely.', 'Notably.'). The compact and extended scanners apply a sentence-length guard (>=8 words) when checking these cues so they do not fire on dialogue tags and short declarative fillers. Cues kept in elaboration.json fire without the guard.",
+  "count": 8,
+  "words": [
+    {
+      "word": "indeed",
+      "reason": "Often a conversational filler ('Indeed.', 'Indeed, she said.'); real elaboration use requires a longer clause."
+    },
+    {
+      "word": "namely",
+      "reason": "Legitimate elaboration cue in technical prose; length guard filters short declarative uses."
+    },
+    {
+      "word": "specifically",
+      "reason": "Legitimate elaboration cue in technical prose; length guard filters short-sentence register."
+    },
+    {
+      "word": "notably",
+      "reason": "Discourse adverb; often fires as a short-sentence topical emphasis in journalism."
+    },
+    {
+      "word": "particularly",
+      "reason": "Frequently a short-sentence emphasis rather than an elaboration cue."
+    },
+    {
+      "word": "especially",
+      "reason": "Often a short-sentence emphasis in dialogue and journalism."
+    },
+    {
+      "word": "precisely",
+      "reason": "Classic one-word confirmatory filler in dialogue ('Precisely.')."
+    },
+    {
+      "word": "explicitly",
+      "reason": "Discourse adverb; length guard prevents firing on short clarifying interjections."
+    }
+  ]
+}

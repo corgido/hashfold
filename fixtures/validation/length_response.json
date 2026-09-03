@@ -1,0 +1,707 @@
+{
+  "audit": "length_invariance",
+  "classification_rule": {
+    "insufficient_range": "fewer than 3 finite (doc, stratum) points",
+    "length_invariant": "|median_rel_change| < 0.1 and |spearman_rho| < 0.3"
+  },
+  "corpus": {
+    "academic_long": {
+      "cohort": "academic",
+      "native_n_words": 1431,
+      "strata": [
+        [
+          150,
+          158
+        ],
+        [
+          300,
+          316
+        ],
+        [
+          600,
+          610
+        ],
+        [
+          1200,
+          1220
+        ],
+        [
+          2400,
+          2417
+        ]
+      ],
+      "synthetic_from_stratum": 2400
+    },
+    "academic_short": {
+      "cohort": "academic",
+      "native_n_words": 490,
+      "strata": [
+        [
+          150,
+          164
+        ],
+        [
+          300,
+          310
+        ],
+        [
+          1200,
+          1242
+        ],
+        [
+          2400,
+          2411
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    },
+    "contraction_heavy": {
+      "cohort": "dialogue",
+      "native_n_words": 336,
+      "strata": [
+        [
+          150,
+          154
+        ],
+        [
+          300,
+          302
+        ],
+        [
+          1200,
+          1202
+        ],
+        [
+          2400,
+          2400
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    },
+    "dialogue": {
+      "cohort": "dialogue",
+      "native_n_words": 586,
+      "strata": [
+        [
+          150,
+          153
+        ],
+        [
+          300,
+          303
+        ],
+        [
+          1200,
+          1200
+        ],
+        [
+          2400,
+          2430
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    },
+    "discourse_heavy": {
+      "cohort": "academic",
+      "native_n_words": 393,
+      "strata": [
+        [
+          150,
+          157
+        ],
+        [
+          300,
+          304
+        ],
+        [
+          1200,
+          1217
+        ],
+        [
+          2400,
+          2401
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    },
+    "journalism": {
+      "cohort": "journalism",
+      "native_n_words": 680,
+      "strata": [
+        [
+          150,
+          160
+        ],
+        [
+          300,
+          307
+        ],
+        [
+          600,
+          605
+        ],
+        [
+          1200,
+          1240
+        ],
+        [
+          2400,
+          2426
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    },
+    "literary": {
+      "cohort": "literary",
+      "native_n_words": 1021,
+      "strata": [
+        [
+          150,
+          174
+        ],
+        [
+          300,
+          351
+        ],
+        [
+          600,
+          601
+        ],
+        [
+          1200,
+          1250
+        ],
+        [
+          2400,
+          2404
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    },
+    "llm_technical": {
+      "cohort": "llm_technical",
+      "native_n_words": 841,
+      "strata": [
+        [
+          150,
+          159
+        ],
+        [
+          300,
+          305
+        ],
+        [
+          600,
+          606
+        ],
+        [
+          1200,
+          1217
+        ],
+        [
+          2400,
+          2438
+        ]
+      ],
+      "synthetic_from_stratum": 1200
+    }
+  },
+  "features": {
+    "coh.additive_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0301498643869,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.0671857907305
+    },
+    "coh.adversative_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.209350434421,
+      "monotone_fraction": 0.0,
+      "n_points": 36,
+      "spearman_rho": 0.116617325267
+    },
+    "coh.causal_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.677775980726,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.311940784703
+    },
+    "coh.conjunction_balance": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.132450331131,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.0929289218979
+    },
+    "coh.definite_article_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0444504448003,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.180320484317
+    },
+    "coh.demonstrative_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0640617221426,
+      "monotone_fraction": 0.0,
+      "n_points": 36,
+      "spearman_rho": 0.122272990793
+    },
+    "coh.lexical_chain_count": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 3.28046035589,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": 0.757790424813
+    },
+    "coh.lexical_chain_span": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.176470476284,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.341871540739
+    },
+    "coh.lexical_repetition_rate": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 4.67500000001,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": 0.898441266874
+    },
+    "coh.pronoun_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.854008499692,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": 0.258977989445
+    },
+    "coh.reference_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0928853673848,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.185866906938
+    },
+    "coh.temporal_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.311176027815,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": -0.250225254215
+    },
+    "coh.type_token_ratio": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.707058293752,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": -0.928562234522
+    },
+    "cohesion.lexical_repetition": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 5.19663299663,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": 0.894574786024
+    },
+    "cohesion.pronoun_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.317134169342,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.211224095765
+    },
+    "cohesion.type_token_ratio": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.762238854399,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": -0.961709249691
+    },
+    "dist.bigram_entropy": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.328350826797,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": 0.896968918776
+    },
+    "dist.burstiness": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.861241038117,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": 0.840337217777
+    },
+    "dist.char_entropy": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0065434837149,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.299247056415
+    },
+    "dist.compression_ratio": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.354197902014,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": -0.975481049706
+    },
+    "dist.entropy_drift": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.894703836752,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": -0.682283288626
+    },
+    "dist.growth_slope": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.986812143795,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": -0.974966216061
+    },
+    "dist.hapax_ratio": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -1.0,
+      "monotone_fraction": 0.875,
+      "n_points": 36,
+      "spearman_rho": -0.879567641612
+    },
+    "dist.mattr": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.0402405208998,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": -0.352146213484
+    },
+    "dist.mean_word_length": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0592293115296,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": -0.120342364623
+    },
+    "dist.repetition_halflife": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0748965102033,
+      "monotone_fraction": 0.0,
+      "n_points": 36,
+      "spearman_rho": 0.130639037532
+    },
+    "dist.sentence_length_entropy": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.14815346149,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.371709892011
+    },
+    "dist.yule_k": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.171018699689,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.327305490091
+    },
+    "register.lexical_novelty": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.703741847167,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": -0.927086687035
+    },
+    "register.modal_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.0399757238464,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": 0.431084075692
+    },
+    "register.negation_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.284409786395,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.115587591711
+    },
+    "register.sentence_length_variance": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0689708097104,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.2175172152
+    },
+    "rst.branching_score": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0580874385262,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": -0.17239604022
+    },
+    "rst.cause_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.064782996054,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.100367926555
+    },
+    "rst.concession_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.194736842105,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": 0.0608829965246
+    },
+    "rst.condition_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0076215989072,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.10684173286
+    },
+    "rst.contrast_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.211010385495,
+      "monotone_fraction": 0.0,
+      "n_points": 36,
+      "spearman_rho": 0.179044922126
+    },
+    "rst.contrast_marker_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.459117281393,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.289186821995
+    },
+    "rst.elaboration_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.206863568496,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.0994980048912
+    },
+    "rst.elaboration_marker_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0921622461667,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.165926498381
+    },
+    "rst.marker_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.165165207903,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": 0.238171874412
+    },
+    "rst.max_depth_score": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.878607238934,
+      "monotone_fraction": 0.75,
+      "n_points": 36,
+      "spearman_rho": -0.763615320797
+    },
+    "rst.purpose_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.241814821335,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.10892938181
+    },
+    "rst.relation_diversity": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.0772600811668,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.554604544555
+    },
+    "rst.result_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.148936170213,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": 0.198209834306
+    },
+    "rst.sequence_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0418137388003,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": 0.0594900894246
+    },
+    "rst.summary_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.229640498899,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.395993662765
+    },
+    "rst.total_marker_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0334581513074,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": 0.162697901918
+    },
+    "sfl.booster_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.047532144341,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.126262951545
+    },
+    "sfl.hedge_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.699719603135,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": 0.325802922732
+    },
+    "sfl.modal_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.648804616656,
+      "monotone_fraction": 0.375,
+      "n_points": 36,
+      "spearman_rho": 0.360060260946
+    },
+    "sfl.modality_balance": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.561073043527,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": -0.16006951182
+    },
+    "sfl.pct_behavioral": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.198150839952,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": 0.0850947343603
+    },
+    "sfl.pct_existential": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.498956158665,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": -0.0639258167221
+    },
+    "sfl.pct_material": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0722338204609,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.197206668362
+    },
+    "sfl.pct_mental": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0875232774667,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.0373254392947
+    },
+    "sfl.pct_relational": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": -0.0589213618399,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.0810862991575
+    },
+    "sfl.pct_verbal": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.102133168495,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": -0.166816836144
+    },
+    "sfl.process_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.177989349917,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.160241972145
+    },
+    "sfl.process_proxy_entropy": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.092514890772,
+      "monotone_fraction": 0.0,
+      "n_points": 36,
+      "spearman_rho": 0.209408585285
+    },
+    "sfl.projection_frequency": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0996511003754,
+      "monotone_fraction": 0.0,
+      "n_points": 36,
+      "spearman_rho": 0.00656412897942
+    },
+    "sfl.stative_active_ratio": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0122631295402,
+      "monotone_fraction": 0.25,
+      "n_points": 36,
+      "spearman_rho": 0.156895553449
+    },
+    "stylometry.comma_per_sentence": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.118874773142,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.221135281246
+    },
+    "stylometry.compression_ratio": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.354197902014,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": -0.975481049706
+    },
+    "stylometry.exclamation_rate": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": null,
+      "monotone_fraction": 1.0,
+      "n_points": 36,
+      "spearman_rho": 0.0
+    },
+    "stylometry.question_rate": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": null,
+      "monotone_fraction": 0.625,
+      "n_points": 36,
+      "spearman_rho": 0.33877759126
+    },
+    "stylometry.quotation_density": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": 0.121107662164,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": 0.182533978651
+    },
+    "stylometry.semicolon_per_1k_words": {
+      "classification": "length_sensitive",
+      "median_rel_change_150_to_max": -0.198141870558,
+      "monotone_fraction": 0.5,
+      "n_points": 36,
+      "spearman_rho": 0.439034997621
+    },
+    "stylometry.subordination_density": {
+      "classification": "length_invariant",
+      "median_rel_change_150_to_max": 0.0716200919415,
+      "monotone_fraction": 0.125,
+      "n_points": 36,
+      "spearman_rho": -0.135152529283
+    }
+  },
+  "generated_by": "python -m tools.length_invariance --write",
+  "strata_word_targets": [
+    150,
+    300,
+    600,
+    1200,
+    2400
+  ],
+  "synthetic_note": "1200/2400 strata use same-cohort fixture concatenation in sorted filename order (cycled); valid for measuring feature response to length (a property of the formulas), not discourse quality. Vocabulary-novelty features see exaggerated declines at synthetic strata (cycling recurs every type); the artifact's sign matches natural vocabulary saturation.",
+  "synthetic_strata": [
+    1200,
+    2400
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "arc": {
+    "n_slices": 3,
+    "per_dimension": {
+      "lexical_novelty": {
+        "end": 0.615384615385,
+        "monotone": true,
+        "range": 0.215123859191,
+        "slope": -0.215123859191,
+        "start": 0.830508474576
+      },
+      "modal_density": {
+        "end": 0.487804878049,
+        "monotone": true,
+        "range": 0.487804878049,
+        "slope": 0.243902439024,
+        "start": 0.0
+      },
+      "negation_density": {
+        "end": 2.43902439024,
+        "monotone": false,
+        "range": 3.24279379158,
+        "slope": -0.243902439025,
+        "start": 2.92682926829
+      },
+      "sentence_length_variance": {
+        "end": 344.775510204,
+        "monotone": false,
+        "range": 194.14741103,
+        "slope": 42.669005102,
+        "start": 259.4375
+      }
+    },
+    "per_slice": [
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": null,
+          "negation_density": null,
+          "sentence_length_variance": null
+        },
+        "index": 0,
+        "labels": [
+          "opening"
+        ],
+        "values": {
+          "lexical_novelty": null,
+          "modal_density": 0.0,
+          "negation_density": 2.92682926829,
+          "sentence_length_variance": 259.4375
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": 0.0,
+          "negation_density": 2.75498891353,
+          "sentence_length_variance": -108.809400826
+        },
+        "index": 1,
+        "labels": [
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.830508474576,
+          "modal_density": 0.0,
+          "negation_density": 5.68181818182,
+          "sentence_length_variance": 150.628099174
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": -0.215123859191,
+          "modal_density": 0.487804878049,
+          "negation_density": -3.24279379158,
+          "sentence_length_variance": 194.14741103
+        },
+        "index": 2,
+        "labels": [
+          "closing",
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.615384615385,
+          "modal_density": 0.487804878049,
+          "negation_density": 2.43902439024,
+          "sentence_length_variance": 344.775510204
+        }
+      }
+    ]
+  },
+  "coherence": {
+    "diverging_axes": [
+      "rst_contrast",
+      "register_modality"
+    ],
+    "evidence": {
+      "axis_directions": {
+        "cohesion_repetition": "agree_mid",
+        "register_modality": "diverge",
+        "rst_contrast": "diverge",
+        "rst_elaboration": "agree_mid",
+        "sfl_process_complexity": "agree_high"
+      },
+      "excluded_axes": [
+        "cohesion_repetition"
+      ],
+      "overall": "mixed"
+    },
+    "incomparable_axes": [],
+    "label": "moderate",
+    "n_axes_agree": 2,
+    "n_axes_measurable": 4,
+    "value": 0.5
+  },
+  "flags": [],
+  "metadata": {
+    "catalog_sha256": "e040613dfb47cab55a5d80fc2b0d7bf64e1e3a597071a31cbf6c6bcb6dcab97d",
+    "content_sha256": "e96a07b70d526a88388a278c350a1b00526f3239c20208839b8f55eea841dcae",
+    "core_code_sha256": "cc207254d437a6161f5185cd4777b09aa9ef3ae7af577cd57ce76ec183756fe8",
+    "distance_method": "feature_zscore_l2",
+    "emission_version": "v2",
+    "input_sha256": "f63e15e0519e71a37d97c731101ff0590c8df3629e07d796db650a8f7c069708",
+    "instrument_version": "0.10.0",
+    "lexicon_version": "v1",
+    "n_sentences": 62,
+    "n_words": 586,
+    "reading_sha256": "c4d7fe278d1c32f2797926122acf27f22c320905257fda4b6ee2816b041c6115",
+    "reproducibility_hash": "2b1c451dcda22d64fe28d4a726964ceab1394236cc2c48418701b7c81b3afc4f",
+    "schema_version": "0.10.0",
+    "timestamp": "GOLDEN"
+  },
+  "register": {
+    "cohort": "llm_technical_prose",
+    "distance": 2.74977180977,
+    "evidence": {
+      "declared_hint": null,
+      "detected_cohort": "llm_technical_prose",
+      "distances_to_all_references": [
+        {
+          "distance": 4.77270491346,
+          "name": "academic_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 3.57113901194,
+          "name": "dialogue_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 4.35586342438,
+          "name": "journalism_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 2.94060434182,
+          "name": "literary_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 2.74977180977,
+          "name": "llm_technical_prose",
+          "percentile": null,
+          "version": "v2"
+        }
+      ],
+      "feature_calibration": {
+        "status": "reference_lacks_feature_quantiles"
+      },
+      "reference_cohort": "llm_technical_prose",
+      "reference_envelope": {
+        "status": "seed_reference_no_confidence_envelope"
+      },
+      "reference_name": "llm_technical_prose",
+      "reference_provenance": {
+        "provenance_status": "pre_0_10_reference"
+      },
+      "reference_version": "v2",
+      "router_flags": [
+        "auto_routed"
+      ],
+      "router_match": "match"
+    },
+    "label": "drift"
+  }
+}

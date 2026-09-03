@@ -1,0 +1,235 @@
+{
+  "arc": {
+    "n_slices": 5,
+    "per_dimension": {
+      "lexical_novelty": {
+        "end": 0.387096774194,
+        "monotone": true,
+        "range": 0.51841503683,
+        "slope": -0.169646374848,
+        "start": 0.905511811024
+      },
+      "modal_density": {
+        "end": 2.40963855422,
+        "monotone": false,
+        "range": 1.39953754412,
+        "slope": 0.128681653649,
+        "start": 2.33644859813
+      },
+      "negation_density": {
+        "end": 1.80722891566,
+        "monotone": false,
+        "range": 2.16795615731,
+        "slope": 0.385510670778,
+        "start": 0.934579439252
+      },
+      "sentence_length_variance": {
+        "end": 260.0,
+        "monotone": false,
+        "range": 170.52892562,
+        "slope": 14.9342285453,
+        "start": 155.49
+      }
+    },
+    "per_slice": [
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": null,
+          "negation_density": null,
+          "sentence_length_variance": null
+        },
+        "index": 0,
+        "labels": [
+          "opening",
+          "hedging_peak"
+        ],
+        "values": {
+          "lexical_novelty": null,
+          "modal_density": 2.33644859813,
+          "negation_density": 0.934579439252,
+          "sentence_length_variance": 155.49
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": -1.32634758803,
+          "negation_density": -0.177003681676,
+          "sentence_length_variance": -6.341211073
+        },
+        "index": 1,
+        "labels": [
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.905511811024,
+          "modal_density": 1.0101010101,
+          "negation_density": 0.757575757576,
+          "sentence_length_variance": 149.148788927
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": -0.194400699913,
+          "modal_density": 1.11755856437,
+          "negation_density": 2.16795615731,
+          "sentence_length_variance": 23.211072665
+        },
+        "index": 2,
+        "labels": [
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.711111111111,
+          "modal_density": 2.12765957447,
+          "negation_density": 2.92553191489,
+          "sentence_length_variance": 172.359861592
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": -0.141218637993,
+          "modal_density": 0.02287805994,
+          "negation_density": -0.05814840235,
+          "sentence_length_variance": -82.8887872118
+        },
+        "index": 3,
+        "labels": [
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.569892473118,
+          "modal_density": 2.15053763441,
+          "negation_density": 2.86738351254,
+          "sentence_length_variance": 89.4710743802
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": -0.182795698924,
+          "modal_density": 0.25910091981,
+          "negation_density": -1.06015459688,
+          "sentence_length_variance": 170.52892562
+        },
+        "index": 4,
+        "labels": [
+          "closing",
+          "elaboration",
+          "hedging_peak"
+        ],
+        "values": {
+          "lexical_novelty": 0.387096774194,
+          "modal_density": 2.40963855422,
+          "negation_density": 1.80722891566,
+          "sentence_length_variance": 260.0
+        }
+      }
+    ]
+  },
+  "coherence": {
+    "diverging_axes": [],
+    "evidence": {
+      "axis_directions": {
+        "cohesion_repetition": "agree_mid",
+        "register_modality": "agree_high",
+        "rst_contrast": "agree_high",
+        "rst_elaboration": "agree_high",
+        "sfl_process_complexity": "agree_mid"
+      },
+      "excluded_axes": [
+        "cohesion_repetition"
+      ],
+      "overall": "converge"
+    },
+    "incomparable_axes": [],
+    "label": "high",
+    "n_axes_agree": 4,
+    "n_axes_measurable": 4,
+    "value": 1.0
+  },
+  "flags": [
+    {
+      "evidence": {
+        "first_half_slope": -1.32634758803,
+        "pivot_at_slice": 2,
+        "second_half_slope": 0.140989489875
+      },
+      "severity": "notable",
+      "type": "modal_pivot"
+    }
+  ],
+  "metadata": {
+    "catalog_sha256": "e040613dfb47cab55a5d80fc2b0d7bf64e1e3a597071a31cbf6c6bcb6dcab97d",
+    "content_sha256": "18a270e8e6fec50222bb38fcb3dc4d6ffe5b0b29a1b692969606b9d409256a39",
+    "core_code_sha256": "cc207254d437a6161f5185cd4777b09aa9ef3ae7af577cd57ce76ec183756fe8",
+    "distance_method": "feature_zscore_l2",
+    "emission_version": "v2",
+    "input_sha256": "ae03d301a0a471765c6367e4c1a4bedab386ac73b305a19db63f1d0e65a6022d",
+    "instrument_version": "0.10.0",
+    "lexicon_version": "v1",
+    "n_sentences": 68,
+    "n_words": 1431,
+    "reading_sha256": "9e0e7637cf77248b73488211fcee877f683e81518dbc04c30c125ff6b80a006f",
+    "reproducibility_hash": "6e92f2c0f385d697e24ab117b512b911ceda8eb92179f0ff6f3fc99539eb6abf",
+    "schema_version": "0.10.0",
+    "timestamp": "GOLDEN"
+  },
+  "register": {
+    "cohort": "literary",
+    "distance": 2.05531110619,
+    "evidence": {
+      "declared_hint": null,
+      "detected_cohort": "literary",
+      "distances_to_all_references": [
+        {
+          "distance": 4.26962037167,
+          "name": "academic_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 7.23939827813,
+          "name": "dialogue_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 6.53399007315,
+          "name": "journalism_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 2.05531110619,
+          "name": "literary_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 3.79515097546,
+          "name": "llm_technical_prose",
+          "percentile": null,
+          "version": "v2"
+        }
+      ],
+      "feature_calibration": {
+        "status": "reference_lacks_feature_quantiles"
+      },
+      "reference_cohort": "literary",
+      "reference_envelope": {
+        "status": "seed_reference_no_confidence_envelope"
+      },
+      "reference_name": "literary_prose",
+      "reference_provenance": {
+        "provenance_status": "pre_0_10_reference"
+      },
+      "reference_version": "v2",
+      "router_flags": [
+        "auto_routed"
+      ],
+      "router_match": "match"
+    },
+    "label": "match"
+  }
+}

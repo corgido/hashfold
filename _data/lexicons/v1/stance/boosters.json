@@ -1,0 +1,319 @@
+{
+  "category_name": "BOOSTERS",
+  "source_file": "words_BOOSTERS_expanded.json",
+  "count": 78,
+  "words": [
+    {
+      "word": "clearly",
+      "reason": "raises epistemic commitment by marking the claim as evident."
+    },
+    {
+      "word": "certainly",
+      "reason": "raises epistemic commitment to certainty."
+    },
+    {
+      "word": "definitely",
+      "reason": "raises epistemic commitment to certainty."
+    },
+    {
+      "word": "absolutely",
+      "reason": "raises commitment to absolute degree."
+    },
+    {
+      "word": "undoubtedly",
+      "reason": "raises commitment by denying doubt."
+    },
+    {
+      "word": "indubitably",
+      "reason": "raises commitment by denying doubt."
+    },
+    {
+      "word": "indisputably",
+      "reason": "raises commitment by denying dispute."
+    },
+    {
+      "word": "unquestionably",
+      "reason": "raises commitment by denying question."
+    },
+    {
+      "word": "undeniably",
+      "reason": "raises commitment by denying deniability."
+    },
+    {
+      "word": "obviously",
+      "reason": "raises commitment by marking the claim as obvious."
+    },
+    {
+      "word": "evidently",
+      "reason": "raises commitment by marking the claim as evident."
+    },
+    {
+      "word": "plainly",
+      "reason": "raises commitment by marking the claim as plain."
+    },
+    {
+      "word": "manifestly",
+      "reason": "raises commitment by marking the claim as manifest."
+    },
+    {
+      "word": "patently",
+      "reason": "raises commitment by marking the claim as patent."
+    },
+    {
+      "word": "decidedly",
+      "reason": "raises commitment to decidedness."
+    },
+    {
+      "word": "assuredly",
+      "reason": "raises commitment to assurance."
+    },
+    {
+      "word": "surely",
+      "reason": "raises commitment via appeal to mutual certainty."
+    },
+    {
+      "word": "really",
+      "reason": "raises commitment by intensifying truth."
+    },
+    {
+      "word": "truly",
+      "reason": "raises commitment by intensifying truth."
+    },
+    {
+      "word": "genuinely",
+      "reason": "raises commitment by marking claim as genuine."
+    },
+    {
+      "word": "actually",
+      "reason": "raises commitment by contrasting with appearance."
+    },
+    {
+      "word": "indeed",
+      "reason": "raises commitment by confirming."
+    },
+    {
+      "word": "of",
+      "reason": "boosts commitment as part of ‘of course’ (booster use)."
+    },
+    {
+      "word": "course",
+      "reason": "boosts commitment as part of ‘of course’ (booster use)."
+    },
+    {
+      "word": "naturally",
+      "reason": "raises commitment by marking claim as natural truth."
+    },
+    {
+      "word": "inevitably",
+      "reason": "raises commitment by marking claim as necessary outcome."
+    },
+    {
+      "word": "necessarily",
+      "reason": "raises commitment by marking claim as logically necessary."
+    },
+    {
+      "word": "invariably",
+      "reason": "raises commitment by marking claim as without exception."
+    },
+    {
+      "word": "always",
+      "reason": "raises commitment by universal quantification of frequency."
+    },
+    {
+      "word": "never",
+      "reason": "raises commitment by universal negation of frequency."
+    },
+    {
+      "word": "totally",
+      "reason": "raises commitment to total degree."
+    },
+    {
+      "word": "entirely",
+      "reason": "raises commitment to total degree."
+    },
+    {
+      "word": "wholly",
+      "reason": "raises commitment to total degree."
+    },
+    {
+      "word": "completely",
+      "reason": "raises commitment to total degree."
+    },
+    {
+      "word": "fully",
+      "reason": "raises commitment to full degree."
+    },
+    {
+      "word": "utterly",
+      "reason": "raises commitment to total degree."
+    },
+    {
+      "word": "thoroughly",
+      "reason": "raises commitment to thorough degree."
+    },
+    {
+      "word": "extremely",
+      "reason": "raises commitment by intensifying degree."
+    },
+    {
+      "word": "highly",
+      "reason": "raises commitment by intensifying degree."
+    },
+    {
+      "word": "strongly",
+      "reason": "raises commitment by intensifying degree."
+    },
+    {
+      "word": "deeply",
+      "reason": "raises commitment by intensifying degree."
+    },
+    {
+      "word": "very",
+      "reason": "raises commitment by intensifying degree."
+    },
+    {
+      "word": "quite",
+      "reason": "raises commitment by intensifying degree (booster use)."
+    },
+    {
+      "word": "must",
+      "reason": "boosts epistemic commitment via modal of necessity."
+    },
+    {
+      "word": "will",
+      "reason": "boosts epistemic commitment via modal of confident prediction."
+    },
+    {
+      "word": "show",
+      "reason": "boosts commitment by marking demonstration (e.g., ‘studies show’)."
+    },
+    {
+      "word": "shows",
+      "reason": "boosts commitment by marking demonstration (e.g., ‘studies show’). (inflected form of show)"
+    },
+    {
+      "word": "showing",
+      "reason": "boosts commitment by marking demonstration (e.g., ‘studies show’). (inflected form of show)"
+    },
+    {
+      "word": "showed",
+      "reason": "boosts commitment by marking demonstration (e.g., ‘studies show’). (inflected form of show)"
+    },
+    {
+      "word": "shown",
+      "reason": "boosts commitment by marking demonstration (e.g., ‘studies show’). (inflected form of show)"
+    },
+    {
+      "word": "demonstrate",
+      "reason": "boosts commitment by marking demonstration."
+    },
+    {
+      "word": "demonstrates",
+      "reason": "boosts commitment by marking demonstration. (inflected form of demonstrate)"
+    },
+    {
+      "word": "demonstrating",
+      "reason": "boosts commitment by marking demonstration. (inflected form of demonstrate)"
+    },
+    {
+      "word": "demonstrated",
+      "reason": "boosts commitment by marking demonstration. (inflected form of demonstrate)"
+    },
+    {
+      "word": "prove",
+      "reason": "boosts commitment by marking proof."
+    },
+    {
+      "word": "proves",
+      "reason": "boosts commitment by marking proof. (inflected form of prove)"
+    },
+    {
+      "word": "proving",
+      "reason": "boosts commitment by marking proof. (inflected form of prove)"
+    },
+    {
+      "word": "proved",
+      "reason": "boosts commitment by marking proof. (inflected form of prove)"
+    },
+    {
+      "word": "proven",
+      "reason": "boosts commitment by marking proof. (inflected form of prove)"
+    },
+    {
+      "word": "establish",
+      "reason": "boosts commitment by marking establishment of fact."
+    },
+    {
+      "word": "establishes",
+      "reason": "boosts commitment by marking establishment of fact. (inflected form of establish)"
+    },
+    {
+      "word": "establishing",
+      "reason": "boosts commitment by marking establishment of fact. (inflected form of establish)"
+    },
+    {
+      "word": "established",
+      "reason": "boosts commitment by marking establishment of fact. (inflected form of establish)"
+    },
+    {
+      "word": "know",
+      "reason": "boosts commitment by marking the claim as knowledge."
+    },
+    {
+      "word": "knows",
+      "reason": "boosts commitment by marking the claim as knowledge. (inflected form of know)"
+    },
+    {
+      "word": "knowing",
+      "reason": "boosts commitment by marking the claim as knowledge. (inflected form of know)"
+    },
+    {
+      "word": "knew",
+      "reason": "boosts commitment by marking the claim as knowledge. (inflected form of know)"
+    },
+    {
+      "word": "known",
+      "reason": "boosts commitment by marking the claim as knowledge. (inflected form of know)"
+    },
+    {
+      "word": "recognise",
+      "reason": "boosts commitment by marking the claim as recognised."
+    },
+    {
+      "word": "recognises",
+      "reason": "boosts commitment by marking the claim as recognised. (inflected form of recognise)"
+    },
+    {
+      "word": "recognising",
+      "reason": "boosts commitment by marking the claim as recognised. (inflected form of recognise)"
+    },
+    {
+      "word": "recognised",
+      "reason": "boosts commitment by marking the claim as recognised. (inflected form of recognise)"
+    },
+    {
+      "word": "recognize",
+      "reason": "boosts commitment by marking the claim as recognised."
+    },
+    {
+      "word": "recognizes",
+      "reason": "boosts commitment by marking the claim as recognised. (inflected form of recognize)"
+    },
+    {
+      "word": "recognizing",
+      "reason": "boosts commitment by marking the claim as recognised. (inflected form of recognize)"
+    },
+    {
+      "word": "recognized",
+      "reason": "boosts commitment by marking the claim as recognised. (inflected form of recognize)"
+    },
+    {
+      "word": "fact",
+      "reason": "boosts commitment as part of ‘in fact’ (booster use)."
+    },
+    {
+      "word": "doubtless",
+      "reason": "raises commitment by denying doubt."
+    }
+  ]
+}

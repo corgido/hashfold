@@ -1,0 +1,127 @@
+{
+  "category_name": "CONDITION_MARKERS",
+  "source_file": "words_CONDITION_MARKERS_expanded.json",
+  "count": 30,
+  "words": [
+    {
+      "word": "if",
+      "reason": "marks the clause it introduces as a condition."
+    },
+    {
+      "word": "unless",
+      "reason": "marks the clause it introduces as a negative condition."
+    },
+    {
+      "word": "provided",
+      "reason": "marks the clause it introduces as a condition (in ‘provided that’)."
+    },
+    {
+      "word": "providing",
+      "reason": "marks the clause it introduces as a condition."
+    },
+    {
+      "word": "supposing",
+      "reason": "marks the clause it introduces as a hypothetical condition."
+    },
+    {
+      "word": "suppose",
+      "reason": "marks the clause it introduces as a hypothetical condition."
+    },
+    {
+      "word": "assuming",
+      "reason": "marks the clause it introduces as a hypothetical condition."
+    },
+    {
+      "word": "granted",
+      "reason": "marks the clause it introduces as a hypothetical condition (in ‘granted that’)."
+    },
+    {
+      "word": "given",
+      "reason": "marks the clause it introduces as a condition (in ‘given that’)."
+    },
+    {
+      "word": "when",
+      "reason": "marks the clause it introduces as a condition (conditional use)."
+    },
+    {
+      "word": "whenever",
+      "reason": "marks the clause it introduces as a generalised condition."
+    },
+    {
+      "word": "should",
+      "reason": "marks conditional in inverted ‘should X happen’."
+    },
+    {
+      "word": "were",
+      "reason": "marks conditional in inverted ‘were X to…’."
+    },
+    {
+      "word": "had",
+      "reason": "marks conditional in inverted ‘had X done…’."
+    },
+    {
+      "word": "on",
+      "reason": "marks condition in ‘on condition that’."
+    },
+    {
+      "word": "condition",
+      "reason": "marks condition in ‘on condition that’."
+    },
+    {
+      "word": "long",
+      "reason": "marks condition in ‘as long as’."
+    },
+    {
+      "word": "so",
+      "reason": "marks condition in ‘so long as’."
+    },
+    {
+      "word": "contingent",
+      "reason": "marks condition in ‘contingent on’."
+    },
+    {
+      "word": "subject",
+      "reason": "marks condition in ‘subject to’."
+    },
+    {
+      "word": "in",
+      "reason": "marks condition in ‘in case’."
+    },
+    {
+      "word": "case",
+      "reason": "marks condition in ‘in case’."
+    },
+    {
+      "word": "lest",
+      "reason": "marks negative-purpose condition (conditional use)."
+    },
+    {
+      "word": "else",
+      "reason": "marks negative condition in ‘or else’."
+    },
+    {
+      "word": "otherwise",
+      "reason": "marks negative condition complementing ‘if’."
+    },
+    {
+      "word": "but",
+      "reason": "marks condition in ‘but for’."
+    },
+    {
+      "word": "for",
+      "reason": "marks condition in ‘but for’."
+    },
+    {
+      "word": "only",
+      "reason": "marks restrictive condition in ‘only if’."
+    },
+    {
+      "word": "even",
+      "reason": "marks concessive-conditional in ‘even if’."
+    },
+    {
+      "word": "save",
+      "reason": "marks negative condition in ‘save that’."
+    }
+  ]
+}

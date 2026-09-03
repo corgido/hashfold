@@ -1,0 +1,294 @@
+{
+  "below_envelope": {
+    "other_shaper_soft_flags": [],
+    "shaper": false
+  },
+  "convergence": {
+    "axes": {
+      "cohesion_repetition": {
+        "confidence": 0.988610320161,
+        "direction": "agree_low",
+        "independence": "duplicate_computation",
+        "other_keys": [
+          "coh.lexical_repetition_rate"
+        ],
+        "other_normalised": 0.288797061524,
+        "other_reducer": "sum",
+        "other_value": 0.207070707071,
+        "shaper_key": "cohesion.lexical_repetition",
+        "shaper_normalised": 0.300186741363,
+        "shaper_value": 0.196078431373
+      },
+      "register_modality": {
+        "confidence": 0.584566651088,
+        "direction": "diverge",
+        "independence": "shared_lexicons",
+        "other_keys": [
+          "sfl.modal_density",
+          "sfl.hedge_density"
+        ],
+        "other_normalised": 0.51929168614,
+        "other_reducer": "sum",
+        "other_value": 2.54452926209,
+        "shaper_key": "register.modal_density",
+        "shaper_normalised": 0.103858337228,
+        "shaper_value": 0.254452926209
+      },
+      "rst_contrast": {
+        "confidence": 1.0,
+        "direction": "agree_high",
+        "independence": "independent",
+        "other_keys": [
+          "rst.contrast_density",
+          "rst.concession_density"
+        ],
+        "other_normalised": 1.0,
+        "other_reducer": "sum",
+        "other_value": 0.612903225806,
+        "shaper_key": "rst.contrast_marker_density",
+        "shaper_normalised": 1.0,
+        "shaper_value": 0.322580645161
+      },
+      "rst_elaboration": {
+        "confidence": 0.768049155146,
+        "direction": "diverge",
+        "independence": "shared_marker_inventory",
+        "other_keys": [
+          "rst.elaboration_density"
+        ],
+        "other_normalised": 1.0,
+        "other_reducer": "sum",
+        "other_value": 0.290322580645,
+        "shaper_key": "rst.elaboration_marker_density",
+        "shaper_normalised": 0.768049155146,
+        "shaper_value": 0.322580645161
+      },
+      "sfl_process_complexity": {
+        "confidence": 0.556333871532,
+        "direction": "diverge",
+        "independence": "shared_lexicons",
+        "other_keys": [
+          "sfl.pct_material",
+          "sfl.pct_mental",
+          "sfl.pct_relational",
+          "sfl.pct_verbal",
+          "sfl.pct_behavioral",
+          "sfl.pct_existential"
+        ],
+        "other_normalised": 0.654749328669,
+        "other_reducer": "entropy_of_proportions",
+        "other_value": 2.00081660713,
+        "shaper_key": "sfl.process_proxy_entropy",
+        "shaper_normalised": 0.211083200201,
+        "shaper_value": 1.41074065627
+      }
+    },
+    "n_axes_agree": 2,
+    "n_axes_diverge": 3,
+    "n_axes_incomparable": 0,
+    "overall": "mixed"
+  },
+  "distributional": {
+    "feature_order": [
+      "dist.hapax_ratio",
+      "dist.yule_k",
+      "dist.growth_slope",
+      "dist.mean_word_length",
+      "dist.char_entropy",
+      "dist.bigram_entropy",
+      "dist.compression_ratio",
+      "dist.sentence_length_entropy",
+      "dist.burstiness",
+      "dist.repetition_halflife",
+      "dist.entropy_drift",
+      "dist.mattr"
+    ],
+    "features": {
+      "dist.bigram_entropy": 8.52604941681,
+      "dist.burstiness": -0.267801419519,
+      "dist.char_entropy": 4.09733993611,
+      "dist.compression_ratio": 0.322631913541,
+      "dist.entropy_drift": 0.0145435189017,
+      "dist.growth_slope": 0.00149300585412,
+      "dist.hapax_ratio": 0.75,
+      "dist.mattr": 0.807244897959,
+      "dist.mean_word_length": 6.7989821883,
+      "dist.repetition_halflife": 0.663265306122,
+      "dist.sentence_length_entropy": 1.57448402599,
+      "dist.yule_k": 71.8683837383
+    }
+  },
+  "n_sentences": 31,
+  "n_words": {
+    "other_shaper": 393,
+    "shaper": 393
+  },
+  "other_shaper": {
+    "feature_order": [
+      "sfl.pct_material",
+      "sfl.pct_mental",
+      "sfl.pct_relational",
+      "sfl.pct_verbal",
+      "sfl.pct_behavioral",
+      "sfl.pct_existential",
+      "sfl.process_density",
+      "sfl.modal_density",
+      "sfl.hedge_density",
+      "sfl.booster_density",
+      "sfl.modality_balance",
+      "rst.contrast_density",
+      "rst.concession_density",
+      "rst.cause_density",
+      "rst.result_density",
+      "rst.elaboration_density",
+      "rst.sequence_density",
+      "rst.condition_density",
+      "rst.purpose_density",
+      "rst.summary_density",
+      "rst.total_marker_density",
+      "rst.relation_diversity",
+      "rst.branching_score",
+      "rst.max_depth_score",
+      "coh.pronoun_density",
+      "coh.demonstrative_density",
+      "coh.definite_article_density",
+      "coh.reference_density",
+      "coh.additive_density",
+      "coh.adversative_density",
+      "coh.causal_density",
+      "coh.temporal_density",
+      "coh.conjunction_balance",
+      "coh.type_token_ratio",
+      "coh.lexical_repetition_rate",
+      "coh.lexical_chain_count",
+      "coh.lexical_chain_span"
+    ],
+    "features": {
+      "coh.additive_density": 4.07124681934,
+      "coh.adversative_density": 2.54452926209,
+      "coh.causal_density": 3.30788804071,
+      "coh.conjunction_balance": 0.384615384615,
+      "coh.definite_article_density": 6.36132315522,
+      "coh.demonstrative_density": 2.29007633588,
+      "coh.lexical_chain_count": 0.677419354839,
+      "coh.lexical_chain_span": 0.603174603175,
+      "coh.lexical_repetition_rate": 0.207070707071,
+      "coh.pronoun_density": 1.01781170483,
+      "coh.reference_density": 9.66921119593,
+      "coh.temporal_density": 2.54452926209,
+      "coh.type_token_ratio": 0.692307692308,
+      "rst.branching_score": 0.896551724138,
+      "rst.cause_density": 0.193548387097,
+      "rst.concession_density": 0.258064516129,
+      "rst.condition_density": 0.387096774194,
+      "rst.contrast_density": 0.354838709677,
+      "rst.elaboration_density": 0.290322580645,
+      "rst.max_depth_score": 0.0645161290323,
+      "rst.purpose_density": 0.290322580645,
+      "rst.relation_diversity": 0.954099312321,
+      "rst.result_density": 0.225806451613,
+      "rst.sequence_density": 0.193548387097,
+      "rst.summary_density": 0.0322580645161,
+      "rst.total_marker_density": 2.22580645161,
+      "sfl.booster_density": 3.30788804071,
+      "sfl.hedge_density": 2.29007633588,
+      "sfl.modal_density": 0.254452926209,
+      "sfl.modality_balance": 0.181818181818,
+      "sfl.pct_behavioral": 0.0,
+      "sfl.pct_existential": 0.0714285714286,
+      "sfl.pct_material": 0.0714285714286,
+      "sfl.pct_mental": 0.142857142857,
+      "sfl.pct_relational": 0.392857142857,
+      "sfl.pct_verbal": 0.321428571429,
+      "sfl.process_density": 7.12468193384
+    }
+  },
+  "schema_version": "0.10.0",
+  "shaper": {
+    "feature_order": [
+      "sfl.process_proxy_entropy",
+      "sfl.stative_active_ratio",
+      "sfl.projection_frequency",
+      "rst.marker_density",
+      "rst.elaboration_marker_density",
+      "rst.contrast_marker_density",
+      "cohesion.type_token_ratio",
+      "cohesion.pronoun_density",
+      "cohesion.lexical_repetition",
+      "register.lexical_novelty",
+      "register.sentence_length_variance",
+      "register.modal_density",
+      "register.negation_density"
+    ],
+    "features": {
+      "cohesion.lexical_repetition": 0.196078431373,
+      "cohesion.pronoun_density": 3.30788804071,
+      "cohesion.type_token_ratio": 0.620865139949,
+      "register.lexical_novelty": 0.713286713287,
+      "register.modal_density": 0.254452926209,
+      "register.negation_density": 1.01781170483,
+      "register.sentence_length_variance": 19.1425598335,
+      "rst.contrast_marker_density": 0.322580645161,
+      "rst.elaboration_marker_density": 0.322580645161,
+      "rst.marker_density": 1.1935483871,
+      "sfl.process_proxy_entropy": 1.41074065627,
+      "sfl.projection_frequency": 3.30788804071,
+      "sfl.stative_active_ratio": 0.180327868852
+    }
+  },
+  "soft_flags": [],
+  "stylometry": {
+    "feature_order": [
+      "stylometry.compression_ratio",
+      "stylometry.semicolon_per_1k_words",
+      "stylometry.comma_per_sentence",
+      "stylometry.question_rate",
+      "stylometry.exclamation_rate",
+      "stylometry.quotation_density",
+      "stylometry.subordination_density"
+    ],
+    "features": {
+      "stylometry.comma_per_sentence": 1.03225806452,
+      "stylometry.compression_ratio": 0.322631913541,
+      "stylometry.exclamation_rate": 0.0,
+      "stylometry.question_rate": 0.0,
+      "stylometry.quotation_density": 0.0,
+      "stylometry.semicolon_per_1k_words": 0.0,
+      "stylometry.subordination_density": 25.4452926209
+    }
+  },
+  "trajectory": {
+    "boundary_level": "paragraph-relaxed",
+    "features": {
+      "lexical_novelty": [
+        null,
+        0.705882352941
+      ],
+      "modal_density": [
+        0.0,
+        0.602409638554
+      ],
+      "negation_density": [
+        0.881057268722,
+        1.20481927711
+      ],
+      "sentence_length_variance": [
+        8.52631578947,
+        33.5
+      ]
+    },
+    "n_slices": 2,
+    "regime": "elegant",
+    "slices": [
+      [
+        0,
+        1800
+      ],
+      [
+        1800,
+        3140
+      ]
+    ]
+  },
+  "ts": "GOLDEN"
+}

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security issue
+    url: https://github.com/corgido/hashfold/security/advisories/new
+    about: Report a vulnerability privately through GitHub Security Advisories, not as a public issue.

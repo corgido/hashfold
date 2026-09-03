@@ -1,0 +1,229 @@
+{
+  "arc": {
+    "n_slices": 4,
+    "per_dimension": {
+      "lexical_novelty": {
+        "end": 0.675,
+        "monotone": true,
+        "range": 0.148529411765,
+        "slope": -0.0742647058825,
+        "start": 0.823529411765
+      },
+      "modal_density": {
+        "end": 1.2,
+        "monotone": false,
+        "range": 2.62052792321,
+        "slope": 0.325578433346,
+        "start": 0.520833333333
+      },
+      "negation_density": {
+        "end": 0.8,
+        "monotone": false,
+        "range": 1.0899113975,
+        "slope": 0.19274113975,
+        "start": 0.520833333333
+      },
+      "sentence_length_variance": {
+        "end": 94.6666666667,
+        "monotone": false,
+        "range": 528.756944444,
+        "slope": -135.060305556,
+        "start": 556.0
+      }
+    },
+    "per_slice": [
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": null,
+          "negation_density": null,
+          "sentence_length_variance": null
+        },
+        "index": 0,
+        "labels": [
+          "opening",
+          "variance_burst"
+        ],
+        "values": {
+          "lexical_novelty": null,
+          "modal_density": 0.520833333333,
+          "negation_density": 0.520833333333,
+          "sentence_length_variance": 556.0
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": 1.40224358975,
+          "negation_density": -0.040064102564,
+          "sentence_length_variance": -528.756944444
+        },
+        "index": 1,
+        "labels": [
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.823529411765,
+          "modal_density": 1.92307692308,
+          "negation_density": 0.480769230769,
+          "sentence_length_variance": 27.2430555556
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": -0.096256684492,
+          "modal_density": 1.21828433346,
+          "negation_density": 1.0899113975,
+          "sentence_length_variance": 33.3969444444
+        },
+        "index": 2,
+        "labels": [
+          "introduction",
+          "hedging_peak"
+        ],
+        "values": {
+          "lexical_novelty": 0.727272727273,
+          "modal_density": 3.14136125654,
+          "negation_density": 1.57068062827,
+          "sentence_length_variance": 60.64
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": -0.052272727273,
+          "modal_density": -1.94136125654,
+          "negation_density": -0.77068062827,
+          "sentence_length_variance": 34.0266666667
+        },
+        "index": 3,
+        "labels": [
+          "closing",
+          "introduction"
+        ],
+        "values": {
+          "lexical_novelty": 0.675,
+          "modal_density": 1.2,
+          "negation_density": 0.8,
+          "sentence_length_variance": 94.6666666667
+        }
+      }
+    ]
+  },
+  "coherence": {
+    "diverging_axes": [
+      "rst_contrast"
+    ],
+    "evidence": {
+      "axis_directions": {
+        "cohesion_repetition": "agree_mid",
+        "register_modality": "agree_high",
+        "rst_contrast": "diverge",
+        "rst_elaboration": "agree_high",
+        "sfl_process_complexity": "agree_mid"
+      },
+      "excluded_axes": [
+        "cohesion_repetition"
+      ],
+      "overall": "converge"
+    },
+    "incomparable_axes": [],
+    "label": "moderate",
+    "n_axes_agree": 3,
+    "n_axes_measurable": 4,
+    "value": 0.75
+  },
+  "flags": [
+    {
+      "evidence": {
+        "doc_slice_mean": 184.637430556,
+        "slices": [
+          0
+        ]
+      },
+      "severity": "notable",
+      "type": "variance_spike"
+    },
+    {
+      "evidence": {
+        "first_half_slope": 1.40224358975,
+        "pivot_at_slice": 2,
+        "second_half_slope": -1.94136125654
+      },
+      "severity": "notable",
+      "type": "modal_pivot"
+    }
+  ],
+  "metadata": {
+    "catalog_sha256": "e040613dfb47cab55a5d80fc2b0d7bf64e1e3a597071a31cbf6c6bcb6dcab97d",
+    "content_sha256": "8b03bfbcc1a899e921a542a2dda06b27f8759e352d223fb985e465a45a3f85c4",
+    "core_code_sha256": "cc207254d437a6161f5185cd4777b09aa9ef3ae7af577cd57ce76ec183756fe8",
+    "distance_method": "feature_zscore_l2",
+    "emission_version": "v2",
+    "input_sha256": "80071a54e6b46c22c8c0f6c138e931dbf58a6bb43a0c55a0a00662beb83205ca",
+    "instrument_version": "0.10.0",
+    "lexicon_version": "v1",
+    "n_sentences": 57,
+    "n_words": 841,
+    "reading_sha256": "0a38d511f65faa718cb62103e083b0454e6e25bb957ab060eafa9b0ca7a5a446",
+    "reproducibility_hash": "e96a2f26cd71399493ba18abdaca3f06acc686a81b772d7b4bbea438387616f5",
+    "schema_version": "0.10.0",
+    "timestamp": "GOLDEN"
+  },
+  "register": {
+    "cohort": "literary",
+    "distance": 0.785587804408,
+    "evidence": {
+      "declared_hint": null,
+      "detected_cohort": "literary",
+      "distances_to_all_references": [
+        {
+          "distance": 3.46767066892,
+          "name": "academic_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 5.10203721915,
+          "name": "dialogue_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 4.8115804045,
+          "name": "journalism_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 0.785587804408,
+          "name": "literary_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 2.14992589545,
+          "name": "llm_technical_prose",
+          "percentile": null,
+          "version": "v2"
+        }
+      ],
+      "feature_calibration": {
+        "status": "reference_lacks_feature_quantiles"
+      },
+      "reference_cohort": "literary",
+      "reference_envelope": {
+        "status": "seed_reference_no_confidence_envelope"
+      },
+      "reference_name": "literary_prose",
+      "reference_provenance": {
+        "provenance_status": "pre_0_10_reference"
+      },
+      "reference_version": "v2",
+      "router_flags": [
+        "auto_routed"
+      ],
+      "router_match": "match"
+    },
+    "label": "match"
+  }
+}

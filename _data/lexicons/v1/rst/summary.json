@@ -1,0 +1,127 @@
+{
+  "category_name": "SUMMARY_MARKERS",
+  "source_file": "words_SUMMARY_MARKERS_expanded.json",
+  "count": 30,
+  "words": [
+    {
+      "word": "overall",
+      "reason": "marks what follows as a summary generalisation."
+    },
+    {
+      "word": "altogether",
+      "reason": "marks what follows as a summary aggregation."
+    },
+    {
+      "word": "briefly",
+      "reason": "marks what follows as a brief summary."
+    },
+    {
+      "word": "summary",
+      "reason": "marks summary in ‘in summary’."
+    },
+    {
+      "word": "short",
+      "reason": "marks summary in ‘in short’."
+    },
+    {
+      "word": "sum",
+      "reason": "marks summary in ‘in sum’ or ‘to sum up’."
+    },
+    {
+      "word": "conclusion",
+      "reason": "marks summary in ‘in conclusion’."
+    },
+    {
+      "word": "conclude",
+      "reason": "marks summary in ‘to conclude’."
+    },
+    {
+      "word": "summarise",
+      "reason": "marks summary in ‘to summarise’."
+    },
+    {
+      "word": "summarize",
+      "reason": "marks summary in ‘to summarize’."
+    },
+    {
+      "word": "recap",
+      "reason": "marks summary in ‘to recap’."
+    },
+    {
+      "word": "essentially",
+      "reason": "marks summary by reducing to essence."
+    },
+    {
+      "word": "basically",
+      "reason": "marks summary by reducing to fundamentals."
+    },
+    {
+      "word": "ultimately",
+      "reason": "marks summary as final upshot."
+    },
+    {
+      "word": "finally",
+      "reason": "marks summary as concluding point."
+    },
+    {
+      "word": "net",
+      "reason": "marks summary in ‘net net’ or ‘in net’."
+    },
+    {
+      "word": "upshot",
+      "reason": "marks summary in ‘the upshot is’."
+    },
+    {
+      "word": "nutshell",
+      "reason": "marks summary in ‘in a nutshell’."
+    },
+    {
+      "word": "all",
+      "reason": "marks summary in ‘all in all’ or ‘all things considered’."
+    },
+    {
+      "word": "totalling",
+      "reason": "marks summary aggregating quantity."
+    },
+    {
+      "word": "collectively",
+      "reason": "marks summary aggregating instances."
+    },
+    {
+      "word": "generally",
+      "reason": "marks summary by generalisation."
+    },
+    {
+      "word": "broadly",
+      "reason": "marks summary by broad generalisation."
+    },
+    {
+      "word": "simply",
+      "reason": "marks summary in ‘to put it simply’."
+    },
+    {
+      "word": "put",
+      "reason": "marks summary in ‘put simply’ or ‘to put it briefly’."
+    },
+    {
+      "word": "end",
+      "reason": "marks summary in ‘in the end’."
+    },
+    {
+      "word": "hence",
+      "reason": "marks summary inferential closing."
+    },
+    {
+      "word": "thus",
+      "reason": "marks summary inferential closing."
+    },
+    {
+      "word": "therefore",
+      "reason": "marks summary inferential closing."
+    },
+    {
+      "word": "crucially",
+      "reason": "marks summary highlighting central point."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "category_name": "RESULT_MARKERS",
+  "source_file": "words_RESULT_MARKERS_expanded.json",
+  "count": 15,
+  "words": [
+    {
+      "word": "therefore",
+      "reason": "marks what follows as the result of what preceded."
+    },
+    {
+      "word": "thus",
+      "reason": "marks what follows as the consequence of what preceded."
+    },
+    {
+      "word": "hence",
+      "reason": "marks what follows as the consequence of what preceded."
+    },
+    {
+      "word": "consequently",
+      "reason": "marks what follows as the consequence."
+    },
+    {
+      "word": "accordingly",
+      "reason": "marks what follows as the consequent action."
+    },
+    {
+      "word": "so",
+      "reason": "marks what follows as the result (resultative use)."
+    },
+    {
+      "word": "then",
+      "reason": "marks what follows as the inferential consequence."
+    },
+    {
+      "word": "ergo",
+      "reason": "marks what follows as the logical consequence."
+    },
+    {
+      "word": "wherefore",
+      "reason": "marks what follows as the consequence (archaic)."
+    },
+    {
+      "word": "whereupon",
+      "reason": "marks what follows as the immediate consequence."
+    },
+    {
+      "word": "result",
+      "reason": "marks consequence in ‘as a result’."
+    },
+    {
+      "word": "consequence",
+      "reason": "marks consequence in ‘as a consequence’."
+    },
+    {
+      "word": "upshot",
+      "reason": "marks consequence in ‘the upshot is’."
+    },
+    {
+      "word": "subsequently",
+      "reason": "marks consequence-following in temporal-resultative use."
+    },
+    {
+      "word": "which",
+      "reason": "marks consequence in ‘which is why’."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Per-run pytest artefact emitted by pyproject's addopts.
+.pytest-junit.xml
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local scratch output from the tools (regenerable).
+outputs/
+work/
+converted/
+uploads/

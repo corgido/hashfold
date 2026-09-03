@@ -1,0 +1,164 @@
+{
+  "_comment": [
+    "Emissions catalog — v2.",
+    "",
+    "Supersedes the v1 metrics catalog. The emission surface is now",
+    "four-part: register, arc, flags, coherence. Per-slice labels and",
+    "flag detectors are parameterised here; code contains detection",
+    "logic only.",
+    "",
+    "v2 thresholds are PRE-CALIBRATION placeholders, checked against",
+    "the 515-trace LLM-output corpus to ensure they don't false-positive-",
+    "flood on normal prose but not yet empirically tuned. The planned",
+    "calibration corpus (thousands of LLM outputs across two",
+    "temperatures via free models) will feed v3 catalog publication.",
+    "",
+    "Each detector's parameters are documented at its registration site",
+    "in shaper/metrology/emissions/detectors/{slice_labels,flags}.py.",
+    "Renaming a label, moving a threshold, adding a flag to the catalog",
+    "are all JSON-only changes. Registering a new detector requires a",
+    "code change + a catalog bump."
+  ],
+  "version": "v2",
+  "status": "draft",
+  "instrument_version": "0.9.1",
+  "schema_version": "0.9.1",
+  "calibration_state": "pre-calibration placeholders; empirical tuning planned on synthetic corpus",
+
+  "register": {
+    "_comment": [
+      "Register labels come from two sources:",
+      "1. Distance bands, when the reading projects onto a reference cohort.",
+      "   Walked in order; first band whose max is not exceeded wins.",
+      "2. Projection states, when projection fails. Emitted by the",
+      "   emissions API as a graceful-degradation fallback. 'structural'",
+      "   for table-dominated documents that have no prose-cohort match;",
+      "   'unprojectable' for everything else that fails.",
+      "",
+      "When a projection-state label fires, the register.evidence block",
+      "carries 'unprojectable_subtype' naming one of the four taxonomy",
+      "values below. The shape of the emission is the same whether the",
+      "label came from a band or a projection state — same four-part",
+      "DocumentEmission, with register.distance = null on degraded cases."
+    ],
+    "bands": [
+      {"label": "match", "max": 2.3},
+      {"label": "drift", "max": 2.8},
+      {"label": "break", "max": null}
+    ],
+    "projection_states": [
+      {
+        "label": "structural",
+        "description": "Content IS structure (table-dominated). Prose residue below envelope; no prose-cohort reference matches. Evidence carries unprojectable_subtype='reference_table' and a structural_profile dict."
+      },
+      {
+        "label": "unprojectable",
+        "description": "Document doesn't project onto any reference's PC space. Evidence carries unprojectable_subtype naming why (instruction_format / mixed_structural_fp / insufficient_prose) and a structural_profile dict."
+      }
+    ],
+    "unprojectable_subtypes": [
+      {
+        "id": "reference_table",
+        "surfaced_as_label": "structural",
+        "description": "Tables dominate (table_ratio > 0.50) and prose residue < envelope."
+      },
+      {
+        "id": "instruction_format",
+        "surfaced_as_label": "unprojectable",
+        "description": "Code/list scaffolding dominates (structure_ratio > 0.40) but prose residue is between 100 and 300 words. Emissions attempts aggressive-scaffolding-strip recovery before emitting; succeeds when stripped residue clears the 150-word envelope. On recovery, evidence carries preprocessed='aggressive_scaffolding_strip'."
+      },
+      {
+        "id": "mixed_structural_fp",
+        "surfaced_as_label": "unprojectable",
+        "description": "Safety-net label: prose_words >= 300 AND structure_ratio < 0.50. These should have projected on the normal path; if they reach here, the router rejected them anyway."
+      },
+      {
+        "id": "insufficient_prose",
+        "surfaced_as_label": "unprojectable",
+        "description": "Genuinely too little prose to project on any reference. No recovery available."
+      }
+    ]
+  },
+
+  "arc": {
+    "slice_labels": [
+      {"id": "opening",          "detector": "opening"},
+      {"id": "closing",          "detector": "closing"},
+      {"id": "introduction",     "detector": "introduction",
+       "params": {"min_novelty": 0.5}},
+      {"id": "elaboration",      "detector": "elaboration",
+       "params": {"min_novelty": 0.2, "max_novelty": 0.5}},
+      {"id": "plateau",          "detector": "plateau",
+       "params": {"max_novelty": 0.2}},
+      {"id": "reopen",           "detector": "reopen",
+       "params": {"min_delta": 0.15}},
+      {"id": "variance_burst",   "detector": "variance_burst",
+       "params": {"min_ratio": 2.0, "min_absolute": 300.0}},
+      {"id": "negation_cluster", "detector": "negation_cluster",
+       "params": {"min_ratio": 2.0, "min_absolute": 0.1}},
+      {"id": "hedging_peak",     "detector": "hedging_peak",
+       "params": {"min_absolute": 0.5}}
+    ]
+  },
+
+  "flags": [
+    {"id": "novelty_reopen",    "detector": "novelty_reopen",
+     "severity": "notable",
+     "params": {"min_delta": 0.15}},
+    {"id": "novelty_collapse",  "detector": "novelty_collapse",
+     "severity": "notable",
+     "params": {"max_novelty": 0.1, "min_consecutive": 2}},
+    {"id": "variance_spike",    "detector": "variance_spike",
+     "severity": "notable",
+     "params": {"min_ratio": 2.0, "min_absolute": 300.0}},
+    {"id": "modal_pivot",       "detector": "modal_pivot",
+     "severity": "notable",
+     "params": {"min_swing": 0.3}},
+    {"id": "negation_cluster",  "detector": "negation_cluster",
+     "severity": "notable",
+     "params": {"min_ratio": 2.0, "min_absolute": 0.1}},
+    {"id": "register_shift",    "detector": "register_shift",
+     "severity": "notable",
+     "params": {"min_ratio": 2.0}},
+    {"id": "malformed_fence_recovered", "detector": "malformed_fence_recovered",
+     "severity": "critical"},
+    {"id": "unbalanced_quotation",      "detector": "unbalanced_quotation",
+     "severity": "notable"},
+    {"id": "below_envelope_shaper",     "detector": "below_envelope_shaper",
+     "severity": "critical",
+     "params": {"min_words": 150}},
+    {"id": "trajectory_unmeasurable",   "detector": "trajectory_unmeasurable",
+     "severity": "critical",
+     "params": {"min_slices": 2}},
+    {"id": "cross_view_diverge",            "detector": "cross_view_diverge",
+     "severity": "notable"},
+    {"id": "feature_unmeasurable_cluster",  "detector": "feature_unmeasurable_cluster",
+     "severity": "critical",
+     "params": {"min_count": 5}}
+  ],
+
+  "coherence": {
+    "bands": [
+      {"label": "high",     "min": 0.80},
+      {"label": "moderate", "min": 0.50},
+      {"label": "low",      "min": null}
+    ]
+  },
+
+  "deviation_overlay": {
+    "bands": [
+      {"label": "within_spec", "max": 1.25},
+      {"label": "notable",     "max": 1.52},
+      {"label": "extreme",     "max": null}
+    ],
+    "flag_threshold_std": 2.0
+  },
+
+  "pair_overlay": {
+    "bands": [
+      {"label": "break",  "max": 0.70},
+      {"label": "drift",  "max": 0.85},
+      {"label": "stable", "max": null}
+    ]
+  }
+}

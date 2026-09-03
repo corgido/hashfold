@@ -1,0 +1,128 @@
+{
+  "version": "v1",
+  "generated_at": "2026-04-15T18:30:54Z",
+  "source_zip": "wordlists_expanded.zip",
+  "source_zip_sha256": "1b9369febb6a5ae189b46ea26779d8aa9f23a571ca3837f7a0fc8c564892191b",
+  "source_commit": "aba32d73c55aab53e92020fd31ca93fd23bbb0c2",
+  "schema": "v1",
+  "total_entries": 2897,
+  "files": {
+    "cohesion/additive.json": {
+      "sha256": "df1b54ade44336037add231d5151e912d45d0bef5a4e1c776912d3559794bcd6",
+      "count": 27,
+      "source_file": "words_ADDITIVE_CONJUNCTIONS_expanded.json"
+    },
+    "cohesion/adversative.json": {
+      "sha256": "9497a9262e9333eb0c6c86a520601676bceda5f6e26e155fa66bec89e2f37197",
+      "count": 20,
+      "source_file": "words_ADVERSATIVE_CONJUNCTIONS_expanded.json"
+    },
+    "cohesion/causal.json": {
+      "sha256": "ef5df46aea98c75c5c81901359696834834380bc01b20612c2cbcefc18470241",
+      "count": 15,
+      "source_file": "words_CAUSAL_CONJUNCTIONS_expanded.json"
+    },
+    "cohesion/temporal.json": {
+      "sha256": "a5a0a495b5d650218a97451f8d21f0fd820b15f6d42c8593336202aac4ff04ea",
+      "count": 34,
+      "source_file": "words_TEMPORAL_CONJUNCTIONS_expanded.json"
+    },
+    "existential/triggers.json": {
+      "sha256": "7a6adc5d0fc88aa2192299a32b999f4585494cc531f89b4c3d45de485fcf4042",
+      "count": 76,
+      "source_file": "words_EXISTENTIAL_TRIGGERS_expanded.json"
+    },
+    "processes/behavioral.json": {
+      "sha256": "def9a7ad24efe463e846b37ac14dcac8798999bbb232032c57a623ebab8f5f87",
+      "count": 433,
+      "source_file": "words_BEHAVIORAL_PROCESS_VERBS_expanded.json"
+    },
+    "processes/material.json": {
+      "sha256": "dddd5b9c28cc8dda1773195dfe772996493e724609d567a44861f1772501549d",
+      "count": 656,
+      "source_file": "words_MATERIAL_PROCESS_VERBS_expanded.json"
+    },
+    "processes/mental.json": {
+      "sha256": "78de2b6d1fe248048180459463ffdd0f933d2e6e6b87342ab02a7adb62565729",
+      "count": 345,
+      "source_file": "words_MENTAL_PROCESS_VERBS_expanded.json"
+    },
+    "processes/relational.json": {
+      "sha256": "77e83aa4889652d491a9236eb277c81d6a419f1925a50eb4ab4eb302911f77b4",
+      "count": 293,
+      "source_file": "words_RELATIONAL_PROCESS_VERBS_expanded.json"
+    },
+    "processes/verbal.json": {
+      "sha256": "6ae3720efb6342627348e7c166f5b779f2ac3aa04f3e0505bbd36a5875dce1aa",
+      "count": 549,
+      "source_file": "words_VERBAL_PROCESS_VERBS_expanded.json"
+    },
+    "rst/cause.json": {
+      "sha256": "dd74683e65e88d147c2f058a70fe13414b9016518c58c7b9102b5272d0f93ffc",
+      "count": 22,
+      "source_file": "words_CAUSE_MARKERS_expanded.json"
+    },
+    "rst/concession.json": {
+      "sha256": "14fca89fc5f229c45da8cf12b9af70de1517f02896fff3a282ca399043624a22",
+      "count": 29,
+      "source_file": "words_CONCESSION_MARKERS_expanded.json"
+    },
+    "rst/condition.json": {
+      "sha256": "2904c729cda6fe5c950148df32d6de9815914d60f7c2c99c9e01e877b0bacd47",
+      "count": 30,
+      "source_file": "words_CONDITION_MARKERS_expanded.json"
+    },
+    "rst/contrast.json": {
+      "sha256": "8ab03ca732089744643256905be56c3bf4f3b2b2ceb721d2d3596e2d470876b6",
+      "count": 25,
+      "source_file": "words_CONTRAST_MARKERS_expanded.json"
+    },
+    "rst/elaboration.json": {
+      "sha256": "f2645231c91081c6ee59647142073833672ccadb7d323f5fdc0695d65d120cf8",
+      "count": 29,
+      "source_file": "words_ELABORATION_MARKERS_expanded.json"
+    },
+    "rst/elaboration_broad.json": {
+      "sha256": "4083ec2f659eb6f0f0986931b62ad69efc01c42c9199255443bc31ba5d892818",
+      "count": 8,
+      "source_file": "curated_2026-04-17",
+      "note": "Additive to v1. Register-sensitive single-word elaboration cues; scanners apply a sentence-length guard (>=8 words) when checking these. Added without editing existing v1 files so their SHAs remain valid."
+    },
+    "rst/purpose.json": {
+      "sha256": "7d37b3d5122ad1582126051f6c9794be9e9bb6a3875dffdcc6734639f71cf1c2",
+      "count": 26,
+      "source_file": "words_PURPOSE_MARKERS_expanded.json"
+    },
+    "rst/result.json": {
+      "sha256": "8ae5c69eb2e8a4145a2326d65062d58f332a7df2a1272e342fac74ef1c91a97d",
+      "count": 15,
+      "source_file": "words_RESULT_MARKERS_expanded.json"
+    },
+    "rst/sequence.json": {
+      "sha256": "f83571ce641ab094c319fc84316d491d020bb29b53419ef2d2abd106234c8488",
+      "count": 43,
+      "source_file": "words_SEQUENCE_MARKERS_expanded.json"
+    },
+    "rst/summary.json": {
+      "sha256": "cc1811e34e6bb14de2ecdec0ad1d84a80e84010fd1afc39668e0859225efe80d",
+      "count": 30,
+      "source_file": "words_SUMMARY_MARKERS_expanded.json"
+    },
+    "stance/boosters.json": {
+      "sha256": "18a9241184b169d87890d15e9c779d492e8a9620d638b107b9a17230c9998ab5",
+      "count": 78,
+      "source_file": "words_BOOSTERS_expanded.json"
+    },
+    "stance/hedges.json": {
+      "sha256": "662a42f30c31f02ce9d811cf9bf85064aaf26509ef129de350ab03b3fd4da398",
+      "count": 100,
+      "source_file": "words_HEDGES_expanded.json"
+    },
+    "stance/modal.json": {
+      "sha256": "423b74a5d2aa5f00f520ed04213b5cee0acf61579d3ce6f36876a2d7f531dc87",
+      "count": 14,
+      "source_file": "words_MODAL_VERBS_expanded.json"
+    }
+  },
+  "notes": "Generated by tools/lexicons/import_from_zip.py from wordlists_expanded.zip (commit aba32d7). Structural guards remain inline in shaper/other_shaper and are not externalised in v1. Updated 2026-04-15: removed 6 HARD-collision words from processes/{mental,relational,verbal}.json per tools/lexicons/audit_reclassification.py (guards KNOWN_PLURAL_NOUNS and KNOWN_ADJECTIVAL_PARTICIPLES stay authoritative)."
+}

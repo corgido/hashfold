@@ -1,0 +1,107 @@
+{
+  "category_name": "CONTRAST_MARKERS",
+  "source_file": "words_CONTRAST_MARKERS_expanded.json",
+  "count": 25,
+  "words": [
+    {
+      "word": "but",
+      "reason": "marks adversative relation between clauses."
+    },
+    {
+      "word": "however",
+      "reason": "marks adversative relation between propositions."
+    },
+    {
+      "word": "yet",
+      "reason": "marks adversative relation between clauses (contrast use)."
+    },
+    {
+      "word": "whereas",
+      "reason": "marks contrastive relation between clauses."
+    },
+    {
+      "word": "while",
+      "reason": "marks contrastive relation between clauses (contrast use)."
+    },
+    {
+      "word": "whilst",
+      "reason": "marks contrastive relation between clauses."
+    },
+    {
+      "word": "conversely",
+      "reason": "marks reversal contrast between propositions."
+    },
+    {
+      "word": "contrarily",
+      "reason": "marks contrast between propositions."
+    },
+    {
+      "word": "oppositely",
+      "reason": "marks contrast between propositions."
+    },
+    {
+      "word": "instead",
+      "reason": "marks contrastive replacement of one proposition by another."
+    },
+    {
+      "word": "rather",
+      "reason": "marks contrastive replacement (e.g., ‘rather than’)."
+    },
+    {
+      "word": "nonetheless",
+      "reason": "marks contrast counter to expectation."
+    },
+    {
+      "word": "nevertheless",
+      "reason": "marks contrast counter to expectation."
+    },
+    {
+      "word": "notwithstanding",
+      "reason": "marks contrast counter to a stated factor."
+    },
+    {
+      "word": "still",
+      "reason": "marks contrast counter to expectation (contrast use)."
+    },
+    {
+      "word": "though",
+      "reason": "marks contrast counter to expectation (sentence-final or initial use)."
+    },
+    {
+      "word": "anyhow",
+      "reason": "marks contrast dismissing prior considerations."
+    },
+    {
+      "word": "anyway",
+      "reason": "marks contrast dismissing prior considerations."
+    },
+    {
+      "word": "alternatively",
+      "reason": "marks contrastive alternative."
+    },
+    {
+      "word": "otherwise",
+      "reason": "marks contrastive alternative outcome."
+    },
+    {
+      "word": "only",
+      "reason": "marks restrictive contrast (e.g., ‘only that’)."
+    },
+    {
+      "word": "except",
+      "reason": "marks contrastive exception."
+    },
+    {
+      "word": "save",
+      "reason": "marks contrastive exception (e.g., ‘save that’)."
+    },
+    {
+      "word": "besides",
+      "reason": "marks contrast by excepting (contrast use)."
+    },
+    {
+      "word": "contrastively",
+      "reason": "marks contrast between propositions."
+    }
+  ]
+}

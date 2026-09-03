@@ -1,0 +1,95 @@
+{
+  "category_name": "CAUSE_MARKERS",
+  "source_file": "words_CAUSE_MARKERS_expanded.json",
+  "count": 22,
+  "words": [
+    {
+      "word": "because",
+      "reason": "marks the clause it introduces as the cause."
+    },
+    {
+      "word": "since",
+      "reason": "marks the clause it introduces as the cause (causal use)."
+    },
+    {
+      "word": "as",
+      "reason": "marks the clause it introduces as the cause (causal use)."
+    },
+    {
+      "word": "for",
+      "reason": "marks the clause it introduces as the reason (conjunctive ‘for’)."
+    },
+    {
+      "word": "seeing",
+      "reason": "marks cause in ‘seeing that’."
+    },
+    {
+      "word": "considering",
+      "reason": "marks cause in ‘considering that’."
+    },
+    {
+      "word": "given",
+      "reason": "marks cause in ‘given that’."
+    },
+    {
+      "word": "inasmuch",
+      "reason": "marks cause in ‘inasmuch as’."
+    },
+    {
+      "word": "insofar",
+      "reason": "marks cause-condition in ‘insofar as’."
+    },
+    {
+      "word": "whereas",
+      "reason": "marks premise-cause in legal/formal usage (causal use)."
+    },
+    {
+      "word": "now",
+      "reason": "marks cause in ‘now that’."
+    },
+    {
+      "word": "forasmuch",
+      "reason": "marks cause in archaic ‘forasmuch as’."
+    },
+    {
+      "word": "owing",
+      "reason": "marks cause in ‘owing to’."
+    },
+    {
+      "word": "due",
+      "reason": "marks cause in ‘due to’."
+    },
+    {
+      "word": "thanks",
+      "reason": "marks cause in ‘thanks to’."
+    },
+    {
+      "word": "on",
+      "reason": "marks cause in ‘on account of’."
+    },
+    {
+      "word": "account",
+      "reason": "marks cause in ‘on account of’."
+    },
+    {
+      "word": "by",
+      "reason": "marks cause in ‘by virtue of’."
+    },
+    {
+      "word": "virtue",
+      "reason": "marks cause in ‘by virtue of’."
+    },
+    {
+      "word": "through",
+      "reason": "marks cause in causal use (e.g., ‘through neglect’)."
+    },
+    {
+      "word": "from",
+      "reason": "marks cause in causal use (e.g., ‘died from’)."
+    },
+    {
+      "word": "of",
+      "reason": "marks cause in causal use (e.g., ‘died of’)."
+    }
+  ]
+}

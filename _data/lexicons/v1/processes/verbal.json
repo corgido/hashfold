@@ -1,0 +1,2203 @@
+{
+  "category_name": "VERBAL_PROCESS_VERBS",
+  "source_file": "words_VERBAL_PROCESS_VERBS_expanded.json",
+  "count": 549,
+  "words": [
+    {
+      "word": "say",
+      "reason": "construes a verbal process projecting a Verbiage from the Sayer."
+    },
+    {
+      "word": "says",
+      "reason": "construes a verbal process projecting a Verbiage from the Sayer. (inflected form of say)"
+    },
+    {
+      "word": "saying",
+      "reason": "construes a verbal process projecting a Verbiage from the Sayer. (inflected form of say)"
+    },
+    {
+      "word": "said",
+      "reason": "construes a verbal process projecting a Verbiage from the Sayer. (inflected form of say)"
+    },
+    {
+      "word": "tell",
+      "reason": "construes a verbal process directed at a Receiver."
+    },
+    {
+      "word": "tells",
+      "reason": "construes a verbal process directed at a Receiver. (inflected form of tell)"
+    },
+    {
+      "word": "telling",
+      "reason": "construes a verbal process directed at a Receiver. (inflected form of tell)"
+    },
+    {
+      "word": "told",
+      "reason": "construes a verbal process directed at a Receiver. (inflected form of tell)"
+    },
+    {
+      "word": "speak",
+      "reason": "construes verbal process emphasising the act of speaking."
+    },
+    {
+      "word": "speaks",
+      "reason": "construes verbal process emphasising the act of speaking. (inflected form of speak)"
+    },
+    {
+      "word": "speaking",
+      "reason": "construes verbal process emphasising the act of speaking. (inflected form of speak)"
+    },
+    {
+      "word": "spoke",
+      "reason": "construes verbal process emphasising the act of speaking. (inflected form of speak)"
+    },
+    {
+      "word": "spoken",
+      "reason": "construes verbal process emphasising the act of speaking. (inflected form of speak)"
+    },
+    {
+      "word": "talk",
+      "reason": "construes verbal interaction between Sayers."
+    },
+    {
+      "word": "talks",
+      "reason": "construes verbal interaction between Sayers. (inflected form of talk)"
+    },
+    {
+      "word": "talking",
+      "reason": "construes verbal interaction between Sayers. (inflected form of talk)"
+    },
+    {
+      "word": "talked",
+      "reason": "construes verbal interaction between Sayers. (inflected form of talk)"
+    },
+    {
+      "word": "ask",
+      "reason": "construes a verbal process projecting an interrogative Verbiage."
+    },
+    {
+      "word": "asks",
+      "reason": "construes a verbal process projecting an interrogative Verbiage. (inflected form of ask)"
+    },
+    {
+      "word": "asking",
+      "reason": "construes a verbal process projecting an interrogative Verbiage. (inflected form of ask)"
+    },
+    {
+      "word": "asked",
+      "reason": "construes a verbal process projecting an interrogative Verbiage. (inflected form of ask)"
+    },
+    {
+      "word": "inquire",
+      "reason": "construes formal interrogative verbal process."
+    },
+    {
+      "word": "inquires",
+      "reason": "construes formal interrogative verbal process. (inflected form of inquire)"
+    },
+    {
+      "word": "inquiring",
+      "reason": "construes formal interrogative verbal process. (inflected form of inquire)"
+    },
+    {
+      "word": "inquired",
+      "reason": "construes formal interrogative verbal process. (inflected form of inquire)"
+    },
+    {
+      "word": "enquire",
+      "reason": "construes formal interrogative verbal process."
+    },
+    {
+      "word": "enquires",
+      "reason": "construes formal interrogative verbal process. (inflected form of enquire)"
+    },
+    {
+      "word": "enquiring",
+      "reason": "construes formal interrogative verbal process. (inflected form of enquire)"
+    },
+    {
+      "word": "enquired",
+      "reason": "construes formal interrogative verbal process. (inflected form of enquire)"
+    },
+    {
+      "word": "answer",
+      "reason": "construes a verbal response by the Sayer."
+    },
+    {
+      "word": "answering",
+      "reason": "construes a verbal response by the Sayer. (inflected form of answer)"
+    },
+    {
+      "word": "answered",
+      "reason": "construes a verbal response by the Sayer. (inflected form of answer)"
+    },
+    {
+      "word": "reply",
+      "reason": "construes a responsive verbal process."
+    },
+    {
+      "word": "replies",
+      "reason": "construes a responsive verbal process. (inflected form of reply)"
+    },
+    {
+      "word": "replying",
+      "reason": "construes a responsive verbal process. (inflected form of reply)"
+    },
+    {
+      "word": "replied",
+      "reason": "construes a responsive verbal process. (inflected form of reply)"
+    },
+    {
+      "word": "respond",
+      "reason": "construes a responsive verbal process."
+    },
+    {
+      "word": "responds",
+      "reason": "construes a responsive verbal process. (inflected form of respond)"
+    },
+    {
+      "word": "responding",
+      "reason": "construes a responsive verbal process. (inflected form of respond)"
+    },
+    {
+      "word": "responded",
+      "reason": "construes a responsive verbal process. (inflected form of respond)"
+    },
+    {
+      "word": "state",
+      "reason": "construes assertive verbal projection."
+    },
+    {
+      "word": "states",
+      "reason": "construes assertive verbal projection. (inflected form of state)"
+    },
+    {
+      "word": "stating",
+      "reason": "construes assertive verbal projection. (inflected form of state)"
+    },
+    {
+      "word": "stated",
+      "reason": "construes assertive verbal projection. (inflected form of state)"
+    },
+    {
+      "word": "declare",
+      "reason": "construes formal assertive verbal projection."
+    },
+    {
+      "word": "declares",
+      "reason": "construes formal assertive verbal projection. (inflected form of declare)"
+    },
+    {
+      "word": "declaring",
+      "reason": "construes formal assertive verbal projection. (inflected form of declare)"
+    },
+    {
+      "word": "declared",
+      "reason": "construes formal assertive verbal projection. (inflected form of declare)"
+    },
+    {
+      "word": "announce",
+      "reason": "construes public verbal projection by the Sayer."
+    },
+    {
+      "word": "announces",
+      "reason": "construes public verbal projection by the Sayer. (inflected form of announce)"
+    },
+    {
+      "word": "announcing",
+      "reason": "construes public verbal projection by the Sayer. (inflected form of announce)"
+    },
+    {
+      "word": "announced",
+      "reason": "construes public verbal projection by the Sayer. (inflected form of announce)"
+    },
+    {
+      "word": "claim",
+      "reason": "construes assertive verbal projection with epistemic stake."
+    },
+    {
+      "word": "claims",
+      "reason": "construes assertive verbal projection with epistemic stake. (inflected form of claim)"
+    },
+    {
+      "word": "claiming",
+      "reason": "construes assertive verbal projection with epistemic stake. (inflected form of claim)"
+    },
+    {
+      "word": "claimed",
+      "reason": "construes assertive verbal projection with epistemic stake. (inflected form of claim)"
+    },
+    {
+      "word": "assert",
+      "reason": "construes forceful verbal projection."
+    },
+    {
+      "word": "asserts",
+      "reason": "construes forceful verbal projection. (inflected form of assert)"
+    },
+    {
+      "word": "asserting",
+      "reason": "construes forceful verbal projection. (inflected form of assert)"
+    },
+    {
+      "word": "asserted",
+      "reason": "construes forceful verbal projection. (inflected form of assert)"
+    },
+    {
+      "word": "argue",
+      "reason": "construes verbal projection presenting a position."
+    },
+    {
+      "word": "argues",
+      "reason": "construes verbal projection presenting a position. (inflected form of argue)"
+    },
+    {
+      "word": "arguing",
+      "reason": "construes verbal projection presenting a position. (inflected form of argue)"
+    },
+    {
+      "word": "argued",
+      "reason": "construes verbal projection presenting a position. (inflected form of argue)"
+    },
+    {
+      "word": "insist",
+      "reason": "construes emphatic repeated verbal projection."
+    },
+    {
+      "word": "insists",
+      "reason": "construes emphatic repeated verbal projection. (inflected form of insist)"
+    },
+    {
+      "word": "insisting",
+      "reason": "construes emphatic repeated verbal projection. (inflected form of insist)"
+    },
+    {
+      "word": "insisted",
+      "reason": "construes emphatic repeated verbal projection. (inflected form of insist)"
+    },
+    {
+      "word": "maintain",
+      "reason": "construes sustained assertive verbal projection."
+    },
+    {
+      "word": "maintains",
+      "reason": "construes sustained assertive verbal projection. (inflected form of maintain)"
+    },
+    {
+      "word": "maintaining",
+      "reason": "construes sustained assertive verbal projection. (inflected form of maintain)"
+    },
+    {
+      "word": "maintained",
+      "reason": "construes sustained assertive verbal projection. (inflected form of maintain)"
+    },
+    {
+      "word": "contend",
+      "reason": "construes argumentative verbal projection."
+    },
+    {
+      "word": "contends",
+      "reason": "construes argumentative verbal projection. (inflected form of contend)"
+    },
+    {
+      "word": "contending",
+      "reason": "construes argumentative verbal projection. (inflected form of contend)"
+    },
+    {
+      "word": "contended",
+      "reason": "construes argumentative verbal projection. (inflected form of contend)"
+    },
+    {
+      "word": "explain",
+      "reason": "construes expository verbal projection."
+    },
+    {
+      "word": "explains",
+      "reason": "construes expository verbal projection. (inflected form of explain)"
+    },
+    {
+      "word": "explaining",
+      "reason": "construes expository verbal projection. (inflected form of explain)"
+    },
+    {
+      "word": "explained",
+      "reason": "construes expository verbal projection. (inflected form of explain)"
+    },
+    {
+      "word": "describe",
+      "reason": "construes descriptive verbal projection."
+    },
+    {
+      "word": "describes",
+      "reason": "construes descriptive verbal projection. (inflected form of describe)"
+    },
+    {
+      "word": "describing",
+      "reason": "construes descriptive verbal projection. (inflected form of describe)"
+    },
+    {
+      "word": "described",
+      "reason": "construes descriptive verbal projection. (inflected form of describe)"
+    },
+    {
+      "word": "report",
+      "reason": "construes verbal projection relaying information."
+    },
+    {
+      "word": "reports",
+      "reason": "construes verbal projection relaying information. (inflected form of report)"
+    },
+    {
+      "word": "reporting",
+      "reason": "construes verbal projection relaying information. (inflected form of report)"
+    },
+    {
+      "word": "reported",
+      "reason": "construes verbal projection relaying information. (inflected form of report)"
+    },
+    {
+      "word": "mention",
+      "reason": "construes brief verbal projection."
+    },
+    {
+      "word": "mentions",
+      "reason": "construes brief verbal projection. (inflected form of mention)"
+    },
+    {
+      "word": "mentioning",
+      "reason": "construes brief verbal projection. (inflected form of mention)"
+    },
+    {
+      "word": "mentioned",
+      "reason": "construes brief verbal projection. (inflected form of mention)"
+    },
+    {
+      "word": "note",
+      "reason": "construes verbal remark on a point (verbal use, not the noun)."
+    },
+    {
+      "word": "notes",
+      "reason": "construes verbal remark on a point (verbal use, not the noun). (inflected form of note)"
+    },
+    {
+      "word": "noting",
+      "reason": "construes verbal remark on a point (verbal use, not the noun). (inflected form of note)"
+    },
+    {
+      "word": "noted",
+      "reason": "construes verbal remark on a point (verbal use, not the noun). (inflected form of note)"
+    },
+    {
+      "word": "remark",
+      "reason": "construes brief verbal projection of an observation."
+    },
+    {
+      "word": "remarks",
+      "reason": "construes brief verbal projection of an observation. (inflected form of remark)"
+    },
+    {
+      "word": "remarking",
+      "reason": "construes brief verbal projection of an observation. (inflected form of remark)"
+    },
+    {
+      "word": "remarked",
+      "reason": "construes brief verbal projection of an observation. (inflected form of remark)"
+    },
+    {
+      "word": "comment",
+      "reason": "construes evaluative verbal projection."
+    },
+    {
+      "word": "comments",
+      "reason": "construes evaluative verbal projection. (inflected form of comment)"
+    },
+    {
+      "word": "commenting",
+      "reason": "construes evaluative verbal projection. (inflected form of comment)"
+    },
+    {
+      "word": "commented",
+      "reason": "construes evaluative verbal projection. (inflected form of comment)"
+    },
+    {
+      "word": "observe",
+      "reason": "construes verbal remark on a point (verbal use, distinct from perceptual ‘observe’)."
+    },
+    {
+      "word": "observes",
+      "reason": "construes verbal remark on a point (verbal use, distinct from perceptual ‘observe’). (inflected form of observe)"
+    },
+    {
+      "word": "observing",
+      "reason": "construes verbal remark on a point (verbal use, distinct from perceptual ‘observe’). (inflected form of observe)"
+    },
+    {
+      "word": "observed",
+      "reason": "construes verbal remark on a point (verbal use, distinct from perceptual ‘observe’). (inflected form of observe)"
+    },
+    {
+      "word": "suggest",
+      "reason": "construes tentative verbal projection."
+    },
+    {
+      "word": "suggests",
+      "reason": "construes tentative verbal projection. (inflected form of suggest)"
+    },
+    {
+      "word": "suggesting",
+      "reason": "construes tentative verbal projection. (inflected form of suggest)"
+    },
+    {
+      "word": "suggested",
+      "reason": "construes tentative verbal projection. (inflected form of suggest)"
+    },
+    {
+      "word": "propose",
+      "reason": "construes verbal projection putting forward a proposition."
+    },
+    {
+      "word": "proposes",
+      "reason": "construes verbal projection putting forward a proposition. (inflected form of propose)"
+    },
+    {
+      "word": "proposing",
+      "reason": "construes verbal projection putting forward a proposition. (inflected form of propose)"
+    },
+    {
+      "word": "proposed",
+      "reason": "construes verbal projection putting forward a proposition. (inflected form of propose)"
+    },
+    {
+      "word": "recommend",
+      "reason": "construes verbal projection of advice."
+    },
+    {
+      "word": "recommends",
+      "reason": "construes verbal projection of advice. (inflected form of recommend)"
+    },
+    {
+      "word": "recommending",
+      "reason": "construes verbal projection of advice. (inflected form of recommend)"
+    },
+    {
+      "word": "recommended",
+      "reason": "construes verbal projection of advice. (inflected form of recommend)"
+    },
+    {
+      "word": "advise",
+      "reason": "construes directive verbal projection of counsel."
+    },
+    {
+      "word": "advises",
+      "reason": "construes directive verbal projection of counsel. (inflected form of advise)"
+    },
+    {
+      "word": "advising",
+      "reason": "construes directive verbal projection of counsel. (inflected form of advise)"
+    },
+    {
+      "word": "advised",
+      "reason": "construes directive verbal projection of counsel. (inflected form of advise)"
+    },
+    {
+      "word": "warn",
+      "reason": "construes verbal projection cautioning a Receiver."
+    },
+    {
+      "word": "warns",
+      "reason": "construes verbal projection cautioning a Receiver. (inflected form of warn)"
+    },
+    {
+      "word": "warning",
+      "reason": "construes verbal projection cautioning a Receiver. (inflected form of warn)"
+    },
+    {
+      "word": "warned",
+      "reason": "construes verbal projection cautioning a Receiver. (inflected form of warn)"
+    },
+    {
+      "word": "threaten",
+      "reason": "construes verbal projection of intent to harm."
+    },
+    {
+      "word": "threatens",
+      "reason": "construes verbal projection of intent to harm. (inflected form of threaten)"
+    },
+    {
+      "word": "threatening",
+      "reason": "construes verbal projection of intent to harm. (inflected form of threaten)"
+    },
+    {
+      "word": "threatened",
+      "reason": "construes verbal projection of intent to harm. (inflected form of threaten)"
+    },
+    {
+      "word": "promise",
+      "reason": "construes commissive verbal projection."
+    },
+    {
+      "word": "promises",
+      "reason": "construes commissive verbal projection. (inflected form of promise)"
+    },
+    {
+      "word": "promising",
+      "reason": "construes commissive verbal projection. (inflected form of promise)"
+    },
+    {
+      "word": "promised",
+      "reason": "construes commissive verbal projection. (inflected form of promise)"
+    },
+    {
+      "word": "swear",
+      "reason": "construes emphatic commissive verbal projection."
+    },
+    {
+      "word": "swears",
+      "reason": "construes emphatic commissive verbal projection. (inflected form of swear)"
+    },
+    {
+      "word": "swearing",
+      "reason": "construes emphatic commissive verbal projection. (inflected form of swear)"
+    },
+    {
+      "word": "swore",
+      "reason": "construes emphatic commissive verbal projection. (inflected form of swear)"
+    },
+    {
+      "word": "sworn",
+      "reason": "construes emphatic commissive verbal projection. (inflected form of swear)"
+    },
+    {
+      "word": "vow",
+      "reason": "construes solemn commissive verbal projection."
+    },
+    {
+      "word": "vows",
+      "reason": "construes solemn commissive verbal projection. (inflected form of vow)"
+    },
+    {
+      "word": "vowing",
+      "reason": "construes solemn commissive verbal projection. (inflected form of vow)"
+    },
+    {
+      "word": "vowed",
+      "reason": "construes solemn commissive verbal projection. (inflected form of vow)"
+    },
+    {
+      "word": "agree",
+      "reason": "construes verbal projection of assent."
+    },
+    {
+      "word": "agrees",
+      "reason": "construes verbal projection of assent. (inflected form of agree)"
+    },
+    {
+      "word": "agreeing",
+      "reason": "construes verbal projection of assent. (inflected form of agree)"
+    },
+    {
+      "word": "agreed",
+      "reason": "construes verbal projection of assent. (inflected form of agree)"
+    },
+    {
+      "word": "disagree",
+      "reason": "construes verbal projection of dissent."
+    },
+    {
+      "word": "disagrees",
+      "reason": "construes verbal projection of dissent. (inflected form of disagree)"
+    },
+    {
+      "word": "disagreeing",
+      "reason": "construes verbal projection of dissent. (inflected form of disagree)"
+    },
+    {
+      "word": "disagreed",
+      "reason": "construes verbal projection of dissent. (inflected form of disagree)"
+    },
+    {
+      "word": "admit",
+      "reason": "construes verbal projection conceding a point."
+    },
+    {
+      "word": "admits",
+      "reason": "construes verbal projection conceding a point. (inflected form of admit)"
+    },
+    {
+      "word": "admitting",
+      "reason": "construes verbal projection conceding a point. (inflected form of admit)"
+    },
+    {
+      "word": "admitted",
+      "reason": "construes verbal projection conceding a point. (inflected form of admit)"
+    },
+    {
+      "word": "confess",
+      "reason": "construes verbal projection disclosing under reservation."
+    },
+    {
+      "word": "confesses",
+      "reason": "construes verbal projection disclosing under reservation. (inflected form of confess)"
+    },
+    {
+      "word": "confessing",
+      "reason": "construes verbal projection disclosing under reservation. (inflected form of confess)"
+    },
+    {
+      "word": "confessed",
+      "reason": "construes verbal projection disclosing under reservation. (inflected form of confess)"
+    },
+    {
+      "word": "deny",
+      "reason": "construes verbal projection negating a proposition."
+    },
+    {
+      "word": "denies",
+      "reason": "construes verbal projection negating a proposition. (inflected form of deny)"
+    },
+    {
+      "word": "denying",
+      "reason": "construes verbal projection negating a proposition. (inflected form of deny)"
+    },
+    {
+      "word": "denied",
+      "reason": "construes verbal projection negating a proposition. (inflected form of deny)"
+    },
+    {
+      "word": "acknowledge",
+      "reason": "construes verbal recognition of a point."
+    },
+    {
+      "word": "acknowledges",
+      "reason": "construes verbal recognition of a point. (inflected form of acknowledge)"
+    },
+    {
+      "word": "acknowledging",
+      "reason": "construes verbal recognition of a point. (inflected form of acknowledge)"
+    },
+    {
+      "word": "acknowledged",
+      "reason": "construes verbal recognition of a point. (inflected form of acknowledge)"
+    },
+    {
+      "word": "concede",
+      "reason": "construes verbal projection yielding a point."
+    },
+    {
+      "word": "concedes",
+      "reason": "construes verbal projection yielding a point. (inflected form of concede)"
+    },
+    {
+      "word": "conceding",
+      "reason": "construes verbal projection yielding a point. (inflected form of concede)"
+    },
+    {
+      "word": "conceded",
+      "reason": "construes verbal projection yielding a point. (inflected form of concede)"
+    },
+    {
+      "word": "repeat",
+      "reason": "construes re-projection of a Verbiage."
+    },
+    {
+      "word": "repeats",
+      "reason": "construes re-projection of a Verbiage. (inflected form of repeat)"
+    },
+    {
+      "word": "repeating",
+      "reason": "construes re-projection of a Verbiage. (inflected form of repeat)"
+    },
+    {
+      "word": "repeated",
+      "reason": "construes re-projection of a Verbiage. (inflected form of repeat)"
+    },
+    {
+      "word": "quote",
+      "reason": "construes verbal re-projection attributed to a source."
+    },
+    {
+      "word": "quotes",
+      "reason": "construes verbal re-projection attributed to a source. (inflected form of quote)"
+    },
+    {
+      "word": "quoting",
+      "reason": "construes verbal re-projection attributed to a source. (inflected form of quote)"
+    },
+    {
+      "word": "quoted",
+      "reason": "construes verbal re-projection attributed to a source. (inflected form of quote)"
+    },
+    {
+      "word": "recite",
+      "reason": "construes verbal projection of memorised text."
+    },
+    {
+      "word": "recites",
+      "reason": "construes verbal projection of memorised text. (inflected form of recite)"
+    },
+    {
+      "word": "reciting",
+      "reason": "construes verbal projection of memorised text. (inflected form of recite)"
+    },
+    {
+      "word": "recited",
+      "reason": "construes verbal projection of memorised text. (inflected form of recite)"
+    },
+    {
+      "word": "read",
+      "reason": "construes verbal projection from text aloud (verbal use, not silent reading)."
+    },
+    {
+      "word": "reads",
+      "reason": "construes verbal projection from text aloud (verbal use, not silent reading). (inflected form of read)"
+    },
+    {
+      "word": "reading",
+      "reason": "construes verbal projection from text aloud (verbal use, not silent reading). (inflected form of read)"
+    },
+    {
+      "word": "write",
+      "reason": "construes verbal projection in written mode."
+    },
+    {
+      "word": "writes",
+      "reason": "construes verbal projection in written mode. (inflected form of write)"
+    },
+    {
+      "word": "writing",
+      "reason": "construes verbal projection in written mode. (inflected form of write)"
+    },
+    {
+      "word": "wrote",
+      "reason": "construes verbal projection in written mode. (inflected form of write)"
+    },
+    {
+      "word": "written",
+      "reason": "construes verbal projection in written mode. (inflected form of write)"
+    },
+    {
+      "word": "dictate",
+      "reason": "construes verbal projection for transcription."
+    },
+    {
+      "word": "dictates",
+      "reason": "construes verbal projection for transcription. (inflected form of dictate)"
+    },
+    {
+      "word": "dictating",
+      "reason": "construes verbal projection for transcription. (inflected form of dictate)"
+    },
+    {
+      "word": "dictated",
+      "reason": "construes verbal projection for transcription. (inflected form of dictate)"
+    },
+    {
+      "word": "preach",
+      "reason": "construes prolonged didactic verbal projection."
+    },
+    {
+      "word": "preaches",
+      "reason": "construes prolonged didactic verbal projection. (inflected form of preach)"
+    },
+    {
+      "word": "preaching",
+      "reason": "construes prolonged didactic verbal projection. (inflected form of preach)"
+    },
+    {
+      "word": "preached",
+      "reason": "construes prolonged didactic verbal projection. (inflected form of preach)"
+    },
+    {
+      "word": "lecture",
+      "reason": "construes formal didactic verbal projection."
+    },
+    {
+      "word": "lectures",
+      "reason": "construes formal didactic verbal projection. (inflected form of lecture)"
+    },
+    {
+      "word": "lecturing",
+      "reason": "construes formal didactic verbal projection. (inflected form of lecture)"
+    },
+    {
+      "word": "lectured",
+      "reason": "construes formal didactic verbal projection. (inflected form of lecture)"
+    },
+    {
+      "word": "whisper",
+      "reason": "construes verbal projection at low volume."
+    },
+    {
+      "word": "whispers",
+      "reason": "construes verbal projection at low volume. (inflected form of whisper)"
+    },
+    {
+      "word": "whispering",
+      "reason": "construes verbal projection at low volume. (inflected form of whisper)"
+    },
+    {
+      "word": "whispered",
+      "reason": "construes verbal projection at low volume. (inflected form of whisper)"
+    },
+    {
+      "word": "mutter",
+      "reason": "construes indistinct low-volume verbal projection."
+    },
+    {
+      "word": "mutters",
+      "reason": "construes indistinct low-volume verbal projection. (inflected form of mutter)"
+    },
+    {
+      "word": "muttering",
+      "reason": "construes indistinct low-volume verbal projection. (inflected form of mutter)"
+    },
+    {
+      "word": "muttered",
+      "reason": "construes indistinct low-volume verbal projection. (inflected form of mutter)"
+    },
+    {
+      "word": "mumble",
+      "reason": "construes unclear low-volume verbal projection."
+    },
+    {
+      "word": "mumbles",
+      "reason": "construes unclear low-volume verbal projection. (inflected form of mumble)"
+    },
+    {
+      "word": "mumbling",
+      "reason": "construes unclear low-volume verbal projection. (inflected form of mumble)"
+    },
+    {
+      "word": "mumbled",
+      "reason": "construes unclear low-volume verbal projection. (inflected form of mumble)"
+    },
+    {
+      "word": "murmur",
+      "reason": "construes soft continuous verbal projection."
+    },
+    {
+      "word": "murmurs",
+      "reason": "construes soft continuous verbal projection. (inflected form of murmur)"
+    },
+    {
+      "word": "murmuring",
+      "reason": "construes soft continuous verbal projection. (inflected form of murmur)"
+    },
+    {
+      "word": "murmured",
+      "reason": "construes soft continuous verbal projection. (inflected form of murmur)"
+    },
+    {
+      "word": "shout",
+      "reason": "construes loud verbal projection."
+    },
+    {
+      "word": "shouts",
+      "reason": "construes loud verbal projection. (inflected form of shout)"
+    },
+    {
+      "word": "shouting",
+      "reason": "construes loud verbal projection. (inflected form of shout)"
+    },
+    {
+      "word": "shouted",
+      "reason": "construes loud verbal projection. (inflected form of shout)"
+    },
+    {
+      "word": "yell",
+      "reason": "construes loud forceful verbal projection."
+    },
+    {
+      "word": "yells",
+      "reason": "construes loud forceful verbal projection. (inflected form of yell)"
+    },
+    {
+      "word": "yelling",
+      "reason": "construes loud forceful verbal projection. (inflected form of yell)"
+    },
+    {
+      "word": "yelled",
+      "reason": "construes loud forceful verbal projection. (inflected form of yell)"
+    },
+    {
+      "word": "scream",
+      "reason": "construes very loud high-pitched verbal projection."
+    },
+    {
+      "word": "screams",
+      "reason": "construes very loud high-pitched verbal projection. (inflected form of scream)"
+    },
+    {
+      "word": "screaming",
+      "reason": "construes very loud high-pitched verbal projection. (inflected form of scream)"
+    },
+    {
+      "word": "screamed",
+      "reason": "construes very loud high-pitched verbal projection. (inflected form of scream)"
+    },
+    {
+      "word": "shriek",
+      "reason": "construes shrill loud verbal projection."
+    },
+    {
+      "word": "shrieks",
+      "reason": "construes shrill loud verbal projection. (inflected form of shriek)"
+    },
+    {
+      "word": "shrieking",
+      "reason": "construes shrill loud verbal projection. (inflected form of shriek)"
+    },
+    {
+      "word": "shrieked",
+      "reason": "construes shrill loud verbal projection. (inflected form of shriek)"
+    },
+    {
+      "word": "cry",
+      "reason": "construes loud verbal projection (verbal use, not the weeping behavioral use)."
+    },
+    {
+      "word": "cries",
+      "reason": "construes loud verbal projection (verbal use, not the weeping behavioral use). (inflected form of cry)"
+    },
+    {
+      "word": "crying",
+      "reason": "construes loud verbal projection (verbal use, not the weeping behavioral use). (inflected form of cry)"
+    },
+    {
+      "word": "cried",
+      "reason": "construes loud verbal projection (verbal use, not the weeping behavioral use). (inflected form of cry)"
+    },
+    {
+      "word": "call",
+      "reason": "construes loud verbal projection summoning."
+    },
+    {
+      "word": "calls",
+      "reason": "construes loud verbal projection summoning. (inflected form of call)"
+    },
+    {
+      "word": "calling",
+      "reason": "construes loud verbal projection summoning. (inflected form of call)"
+    },
+    {
+      "word": "called",
+      "reason": "construes loud verbal projection summoning. (inflected form of call)"
+    },
+    {
+      "word": "exclaim",
+      "reason": "construes sudden emphatic verbal projection."
+    },
+    {
+      "word": "exclaims",
+      "reason": "construes sudden emphatic verbal projection. (inflected form of exclaim)"
+    },
+    {
+      "word": "exclaiming",
+      "reason": "construes sudden emphatic verbal projection. (inflected form of exclaim)"
+    },
+    {
+      "word": "exclaimed",
+      "reason": "construes sudden emphatic verbal projection. (inflected form of exclaim)"
+    },
+    {
+      "word": "snap",
+      "reason": "construes curt sharp verbal projection."
+    },
+    {
+      "word": "snaps",
+      "reason": "construes curt sharp verbal projection. (inflected form of snap)"
+    },
+    {
+      "word": "snapping",
+      "reason": "construes curt sharp verbal projection. (inflected form of snap)"
+    },
+    {
+      "word": "snapped",
+      "reason": "construes curt sharp verbal projection. (inflected form of snap)"
+    },
+    {
+      "word": "snarl",
+      "reason": "construes hostile verbal projection."
+    },
+    {
+      "word": "snarls",
+      "reason": "construes hostile verbal projection. (inflected form of snarl)"
+    },
+    {
+      "word": "snarling",
+      "reason": "construes hostile verbal projection. (inflected form of snarl)"
+    },
+    {
+      "word": "snarled",
+      "reason": "construes hostile verbal projection. (inflected form of snarl)"
+    },
+    {
+      "word": "growl",
+      "reason": "construes low hostile verbal projection."
+    },
+    {
+      "word": "growls",
+      "reason": "construes low hostile verbal projection. (inflected form of growl)"
+    },
+    {
+      "word": "growling",
+      "reason": "construes low hostile verbal projection. (inflected form of growl)"
+    },
+    {
+      "word": "growled",
+      "reason": "construes low hostile verbal projection. (inflected form of growl)"
+    },
+    {
+      "word": "bark",
+      "reason": "construes curt commanding verbal projection."
+    },
+    {
+      "word": "barks",
+      "reason": "construes curt commanding verbal projection. (inflected form of bark)"
+    },
+    {
+      "word": "barking",
+      "reason": "construes curt commanding verbal projection. (inflected form of bark)"
+    },
+    {
+      "word": "barked",
+      "reason": "construes curt commanding verbal projection. (inflected form of bark)"
+    },
+    {
+      "word": "hiss",
+      "reason": "construes sibilant whispered verbal projection."
+    },
+    {
+      "word": "hisses",
+      "reason": "construes sibilant whispered verbal projection. (inflected form of hiss)"
+    },
+    {
+      "word": "hissing",
+      "reason": "construes sibilant whispered verbal projection. (inflected form of hiss)"
+    },
+    {
+      "word": "hissed",
+      "reason": "construes sibilant whispered verbal projection. (inflected form of hiss)"
+    },
+    {
+      "word": "drawl",
+      "reason": "construes slow drawn-out verbal projection."
+    },
+    {
+      "word": "drawls",
+      "reason": "construes slow drawn-out verbal projection. (inflected form of drawl)"
+    },
+    {
+      "word": "drawling",
+      "reason": "construes slow drawn-out verbal projection. (inflected form of drawl)"
+    },
+    {
+      "word": "drawled",
+      "reason": "construes slow drawn-out verbal projection. (inflected form of drawl)"
+    },
+    {
+      "word": "stammer",
+      "reason": "construes disfluent verbal projection."
+    },
+    {
+      "word": "stammers",
+      "reason": "construes disfluent verbal projection. (inflected form of stammer)"
+    },
+    {
+      "word": "stammering",
+      "reason": "construes disfluent verbal projection. (inflected form of stammer)"
+    },
+    {
+      "word": "stammered",
+      "reason": "construes disfluent verbal projection. (inflected form of stammer)"
+    },
+    {
+      "word": "stutter",
+      "reason": "construes disfluent verbal projection."
+    },
+    {
+      "word": "stutters",
+      "reason": "construes disfluent verbal projection. (inflected form of stutter)"
+    },
+    {
+      "word": "stuttering",
+      "reason": "construes disfluent verbal projection. (inflected form of stutter)"
+    },
+    {
+      "word": "stuttered",
+      "reason": "construes disfluent verbal projection. (inflected form of stutter)"
+    },
+    {
+      "word": "babble",
+      "reason": "construes rapid incoherent verbal projection."
+    },
+    {
+      "word": "babbles",
+      "reason": "construes rapid incoherent verbal projection. (inflected form of babble)"
+    },
+    {
+      "word": "babbling",
+      "reason": "construes rapid incoherent verbal projection. (inflected form of babble)"
+    },
+    {
+      "word": "babbled",
+      "reason": "construes rapid incoherent verbal projection. (inflected form of babble)"
+    },
+    {
+      "word": "ramble",
+      "reason": "construes lengthy unfocused verbal projection."
+    },
+    {
+      "word": "rambles",
+      "reason": "construes lengthy unfocused verbal projection. (inflected form of ramble)"
+    },
+    {
+      "word": "rambling",
+      "reason": "construes lengthy unfocused verbal projection. (inflected form of ramble)"
+    },
+    {
+      "word": "rambled",
+      "reason": "construes lengthy unfocused verbal projection. (inflected form of ramble)"
+    },
+    {
+      "word": "chatter",
+      "reason": "construes rapid casual verbal projection."
+    },
+    {
+      "word": "chatters",
+      "reason": "construes rapid casual verbal projection. (inflected form of chatter)"
+    },
+    {
+      "word": "chattering",
+      "reason": "construes rapid casual verbal projection. (inflected form of chatter)"
+    },
+    {
+      "word": "chattered",
+      "reason": "construes rapid casual verbal projection. (inflected form of chatter)"
+    },
+    {
+      "word": "gossip",
+      "reason": "construes informal verbal projection about others."
+    },
+    {
+      "word": "gossips",
+      "reason": "construes informal verbal projection about others. (inflected form of gossip)"
+    },
+    {
+      "word": "gossiping",
+      "reason": "construes informal verbal projection about others. (inflected form of gossip)"
+    },
+    {
+      "word": "gossiped",
+      "reason": "construes informal verbal projection about others. (inflected form of gossip)"
+    },
+    {
+      "word": "greet",
+      "reason": "construes verbal projection of salutation."
+    },
+    {
+      "word": "greets",
+      "reason": "construes verbal projection of salutation. (inflected form of greet)"
+    },
+    {
+      "word": "greeting",
+      "reason": "construes verbal projection of salutation. (inflected form of greet)"
+    },
+    {
+      "word": "greeted",
+      "reason": "construes verbal projection of salutation. (inflected form of greet)"
+    },
+    {
+      "word": "thank",
+      "reason": "construes verbal projection of gratitude."
+    },
+    {
+      "word": "thanks",
+      "reason": "construes verbal projection of gratitude. (inflected form of thank)"
+    },
+    {
+      "word": "thanking",
+      "reason": "construes verbal projection of gratitude. (inflected form of thank)"
+    },
+    {
+      "word": "thanked",
+      "reason": "construes verbal projection of gratitude. (inflected form of thank)"
+    },
+    {
+      "word": "apologise",
+      "reason": "construes verbal projection of apology."
+    },
+    {
+      "word": "apologises",
+      "reason": "construes verbal projection of apology. (inflected form of apologise)"
+    },
+    {
+      "word": "apologising",
+      "reason": "construes verbal projection of apology. (inflected form of apologise)"
+    },
+    {
+      "word": "apologised",
+      "reason": "construes verbal projection of apology. (inflected form of apologise)"
+    },
+    {
+      "word": "apologize",
+      "reason": "construes verbal projection of apology."
+    },
+    {
+      "word": "apologizes",
+      "reason": "construes verbal projection of apology. (inflected form of apologize)"
+    },
+    {
+      "word": "apologizing",
+      "reason": "construes verbal projection of apology. (inflected form of apologize)"
+    },
+    {
+      "word": "apologized",
+      "reason": "construes verbal projection of apology. (inflected form of apologize)"
+    },
+    {
+      "word": "complain",
+      "reason": "construes verbal projection of grievance."
+    },
+    {
+      "word": "complains",
+      "reason": "construes verbal projection of grievance. (inflected form of complain)"
+    },
+    {
+      "word": "complaining",
+      "reason": "construes verbal projection of grievance. (inflected form of complain)"
+    },
+    {
+      "word": "complained",
+      "reason": "construes verbal projection of grievance. (inflected form of complain)"
+    },
+    {
+      "word": "protest",
+      "reason": "construes verbal projection of objection."
+    },
+    {
+      "word": "protests",
+      "reason": "construes verbal projection of objection. (inflected form of protest)"
+    },
+    {
+      "word": "protesting",
+      "reason": "construes verbal projection of objection. (inflected form of protest)"
+    },
+    {
+      "word": "protested",
+      "reason": "construes verbal projection of objection. (inflected form of protest)"
+    },
+    {
+      "word": "object",
+      "reason": "construes verbal projection raising an objection."
+    },
+    {
+      "word": "objecting",
+      "reason": "construes verbal projection raising an objection. (inflected form of object)"
+    },
+    {
+      "word": "objected",
+      "reason": "construes verbal projection raising an objection. (inflected form of object)"
+    },
+    {
+      "word": "urge",
+      "reason": "construes directive verbal projection."
+    },
+    {
+      "word": "urges",
+      "reason": "construes directive verbal projection. (inflected form of urge)"
+    },
+    {
+      "word": "urging",
+      "reason": "construes directive verbal projection. (inflected form of urge)"
+    },
+    {
+      "word": "urged",
+      "reason": "construes directive verbal projection. (inflected form of urge)"
+    },
+    {
+      "word": "beg",
+      "reason": "construes pleading verbal projection."
+    },
+    {
+      "word": "begs",
+      "reason": "construes pleading verbal projection. (inflected form of beg)"
+    },
+    {
+      "word": "begging",
+      "reason": "construes pleading verbal projection. (inflected form of beg)"
+    },
+    {
+      "word": "begged",
+      "reason": "construes pleading verbal projection. (inflected form of beg)"
+    },
+    {
+      "word": "plead",
+      "reason": "construes earnest verbal projection."
+    },
+    {
+      "word": "pleads",
+      "reason": "construes earnest verbal projection. (inflected form of plead)"
+    },
+    {
+      "word": "pleading",
+      "reason": "construes earnest verbal projection. (inflected form of plead)"
+    },
+    {
+      "word": "pleaded",
+      "reason": "construes earnest verbal projection. (inflected form of plead)"
+    },
+    {
+      "word": "command",
+      "reason": "construes imperative verbal projection."
+    },
+    {
+      "word": "commands",
+      "reason": "construes imperative verbal projection. (inflected form of command)"
+    },
+    {
+      "word": "commanding",
+      "reason": "construes imperative verbal projection. (inflected form of command)"
+    },
+    {
+      "word": "commanded",
+      "reason": "construes imperative verbal projection. (inflected form of command)"
+    },
+    {
+      "word": "order",
+      "reason": "construes imperative verbal projection (verbal use, not the noun)."
+    },
+    {
+      "word": "orders",
+      "reason": "construes imperative verbal projection (verbal use, not the noun). (inflected form of order)"
+    },
+    {
+      "word": "ordering",
+      "reason": "construes imperative verbal projection (verbal use, not the noun). (inflected form of order)"
+    },
+    {
+      "word": "ordered",
+      "reason": "construes imperative verbal projection (verbal use, not the noun). (inflected form of order)"
+    },
+    {
+      "word": "instruct",
+      "reason": "construes directive verbal projection."
+    },
+    {
+      "word": "instructs",
+      "reason": "construes directive verbal projection. (inflected form of instruct)"
+    },
+    {
+      "word": "instructing",
+      "reason": "construes directive verbal projection. (inflected form of instruct)"
+    },
+    {
+      "word": "instructed",
+      "reason": "construes directive verbal projection. (inflected form of instruct)"
+    },
+    {
+      "word": "request",
+      "reason": "construes polite directive verbal projection."
+    },
+    {
+      "word": "requests",
+      "reason": "construes polite directive verbal projection. (inflected form of request)"
+    },
+    {
+      "word": "requesting",
+      "reason": "construes polite directive verbal projection. (inflected form of request)"
+    },
+    {
+      "word": "requested",
+      "reason": "construes polite directive verbal projection. (inflected form of request)"
+    },
+    {
+      "word": "demand",
+      "reason": "construes forceful directive verbal projection."
+    },
+    {
+      "word": "demands",
+      "reason": "construes forceful directive verbal projection. (inflected form of demand)"
+    },
+    {
+      "word": "demanding",
+      "reason": "construes forceful directive verbal projection. (inflected form of demand)"
+    },
+    {
+      "word": "demanded",
+      "reason": "construes forceful directive verbal projection. (inflected form of demand)"
+    },
+    {
+      "word": "inform",
+      "reason": "construes verbal projection conveying information to a Receiver."
+    },
+    {
+      "word": "informs",
+      "reason": "construes verbal projection conveying information to a Receiver. (inflected form of inform)"
+    },
+    {
+      "word": "informing",
+      "reason": "construes verbal projection conveying information to a Receiver. (inflected form of inform)"
+    },
+    {
+      "word": "informed",
+      "reason": "construes verbal projection conveying information to a Receiver. (inflected form of inform)"
+    },
+    {
+      "word": "notify",
+      "reason": "construes verbal projection formally informing a Receiver."
+    },
+    {
+      "word": "notifies",
+      "reason": "construes verbal projection formally informing a Receiver. (inflected form of notify)"
+    },
+    {
+      "word": "notifying",
+      "reason": "construes verbal projection formally informing a Receiver. (inflected form of notify)"
+    },
+    {
+      "word": "notified",
+      "reason": "construes verbal projection formally informing a Receiver. (inflected form of notify)"
+    },
+    {
+      "word": "reveal",
+      "reason": "construes verbal projection disclosing information."
+    },
+    {
+      "word": "reveals",
+      "reason": "construes verbal projection disclosing information. (inflected form of reveal)"
+    },
+    {
+      "word": "revealing",
+      "reason": "construes verbal projection disclosing information. (inflected form of reveal)"
+    },
+    {
+      "word": "revealed",
+      "reason": "construes verbal projection disclosing information. (inflected form of reveal)"
+    },
+    {
+      "word": "disclose",
+      "reason": "construes verbal projection making information known."
+    },
+    {
+      "word": "discloses",
+      "reason": "construes verbal projection making information known. (inflected form of disclose)"
+    },
+    {
+      "word": "disclosing",
+      "reason": "construes verbal projection making information known. (inflected form of disclose)"
+    },
+    {
+      "word": "disclosed",
+      "reason": "construes verbal projection making information known. (inflected form of disclose)"
+    },
+    {
+      "word": "reiterate",
+      "reason": "construes re-projection emphasising a prior Verbiage."
+    },
+    {
+      "word": "reiterates",
+      "reason": "construes re-projection emphasising a prior Verbiage. (inflected form of reiterate)"
+    },
+    {
+      "word": "reiterating",
+      "reason": "construes re-projection emphasising a prior Verbiage. (inflected form of reiterate)"
+    },
+    {
+      "word": "reiterated",
+      "reason": "construes re-projection emphasising a prior Verbiage. (inflected form of reiterate)"
+    },
+    {
+      "word": "retort",
+      "reason": "construes sharp responsive verbal projection."
+    },
+    {
+      "word": "retorts",
+      "reason": "construes sharp responsive verbal projection. (inflected form of retort)"
+    },
+    {
+      "word": "retorting",
+      "reason": "construes sharp responsive verbal projection. (inflected form of retort)"
+    },
+    {
+      "word": "retorted",
+      "reason": "construes sharp responsive verbal projection. (inflected form of retort)"
+    },
+    {
+      "word": "counter",
+      "reason": "construes responsive verbal projection opposing a prior one."
+    },
+    {
+      "word": "counters",
+      "reason": "construes responsive verbal projection opposing a prior one. (inflected form of counter)"
+    },
+    {
+      "word": "countering",
+      "reason": "construes responsive verbal projection opposing a prior one. (inflected form of counter)"
+    },
+    {
+      "word": "countered",
+      "reason": "construes responsive verbal projection opposing a prior one. (inflected form of counter)"
+    },
+    {
+      "word": "affirm",
+      "reason": "construes verbal projection confirming a proposition."
+    },
+    {
+      "word": "affirms",
+      "reason": "construes verbal projection confirming a proposition. (inflected form of affirm)"
+    },
+    {
+      "word": "affirming",
+      "reason": "construes verbal projection confirming a proposition. (inflected form of affirm)"
+    },
+    {
+      "word": "affirmed",
+      "reason": "construes verbal projection confirming a proposition. (inflected form of affirm)"
+    },
+    {
+      "word": "confirm",
+      "reason": "construes verbal projection corroborating a proposition."
+    },
+    {
+      "word": "confirms",
+      "reason": "construes verbal projection corroborating a proposition. (inflected form of confirm)"
+    },
+    {
+      "word": "confirming",
+      "reason": "construes verbal projection corroborating a proposition. (inflected form of confirm)"
+    },
+    {
+      "word": "confirmed",
+      "reason": "construes verbal projection corroborating a proposition. (inflected form of confirm)"
+    },
+    {
+      "word": "utter",
+      "reason": "construes minimal verbal projection of sound or word."
+    },
+    {
+      "word": "utters",
+      "reason": "construes minimal verbal projection of sound or word. (inflected form of utter)"
+    },
+    {
+      "word": "uttering",
+      "reason": "construes minimal verbal projection of sound or word. (inflected form of utter)"
+    },
+    {
+      "word": "uttered",
+      "reason": "construes minimal verbal projection of sound or word. (inflected form of utter)"
+    },
+    {
+      "word": "voice",
+      "reason": "construes verbal projection giving expression to a position."
+    },
+    {
+      "word": "voices",
+      "reason": "construes verbal projection giving expression to a position. (inflected form of voice)"
+    },
+    {
+      "word": "voicing",
+      "reason": "construes verbal projection giving expression to a position. (inflected form of voice)"
+    },
+    {
+      "word": "voiced",
+      "reason": "construes verbal projection giving expression to a position. (inflected form of voice)"
+    },
+    {
+      "word": "pronounce",
+      "reason": "construes formal verbal projection of a verdict or word."
+    },
+    {
+      "word": "pronounces",
+      "reason": "construes formal verbal projection of a verdict or word. (inflected form of pronounce)"
+    },
+    {
+      "word": "pronouncing",
+      "reason": "construes formal verbal projection of a verdict or word. (inflected form of pronounce)"
+    },
+    {
+      "word": "pronounced",
+      "reason": "construes formal verbal projection of a verdict or word. (inflected form of pronounce)"
+    },
+    {
+      "word": "articulate",
+      "reason": "construes precise verbal projection of a position."
+    },
+    {
+      "word": "articulates",
+      "reason": "construes precise verbal projection of a position. (inflected form of articulate)"
+    },
+    {
+      "word": "articulating",
+      "reason": "construes precise verbal projection of a position. (inflected form of articulate)"
+    },
+    {
+      "word": "articulated",
+      "reason": "construes precise verbal projection of a position. (inflected form of articulate)"
+    },
+    {
+      "word": "communicate",
+      "reason": "construes general verbal projection conveying a message."
+    },
+    {
+      "word": "communicates",
+      "reason": "construes general verbal projection conveying a message. (inflected form of communicate)"
+    },
+    {
+      "word": "communicating",
+      "reason": "construes general verbal projection conveying a message. (inflected form of communicate)"
+    },
+    {
+      "word": "communicated",
+      "reason": "construes general verbal projection conveying a message. (inflected form of communicate)"
+    },
+    {
+      "word": "express",
+      "reason": "construes verbal projection giving outward form to content."
+    },
+    {
+      "word": "expresses",
+      "reason": "construes verbal projection giving outward form to content. (inflected form of express)"
+    },
+    {
+      "word": "expressing",
+      "reason": "construes verbal projection giving outward form to content. (inflected form of express)"
+    },
+    {
+      "word": "expressed",
+      "reason": "construes verbal projection giving outward form to content. (inflected form of express)"
+    },
+    {
+      "word": "convey",
+      "reason": "construes verbal projection transmitting a message."
+    },
+    {
+      "word": "conveys",
+      "reason": "construes verbal projection transmitting a message. (inflected form of convey)"
+    },
+    {
+      "word": "conveying",
+      "reason": "construes verbal projection transmitting a message. (inflected form of convey)"
+    },
+    {
+      "word": "conveyed",
+      "reason": "construes verbal projection transmitting a message. (inflected form of convey)"
+    },
+    {
+      "word": "recount",
+      "reason": "construes narrative verbal projection."
+    },
+    {
+      "word": "recounts",
+      "reason": "construes narrative verbal projection. (inflected form of recount)"
+    },
+    {
+      "word": "recounting",
+      "reason": "construes narrative verbal projection. (inflected form of recount)"
+    },
+    {
+      "word": "recounted",
+      "reason": "construes narrative verbal projection. (inflected form of recount)"
+    },
+    {
+      "word": "narrate",
+      "reason": "construes narrative verbal projection."
+    },
+    {
+      "word": "narrates",
+      "reason": "construes narrative verbal projection. (inflected form of narrate)"
+    },
+    {
+      "word": "narrating",
+      "reason": "construes narrative verbal projection. (inflected form of narrate)"
+    },
+    {
+      "word": "narrated",
+      "reason": "construes narrative verbal projection. (inflected form of narrate)"
+    },
+    {
+      "word": "discuss",
+      "reason": "construes verbal interaction over a topic."
+    },
+    {
+      "word": "discusses",
+      "reason": "construes verbal interaction over a topic. (inflected form of discuss)"
+    },
+    {
+      "word": "discussing",
+      "reason": "construes verbal interaction over a topic. (inflected form of discuss)"
+    },
+    {
+      "word": "discussed",
+      "reason": "construes verbal interaction over a topic. (inflected form of discuss)"
+    },
+    {
+      "word": "debate",
+      "reason": "construes verbal interaction contesting positions."
+    },
+    {
+      "word": "debates",
+      "reason": "construes verbal interaction contesting positions. (inflected form of debate)"
+    },
+    {
+      "word": "debating",
+      "reason": "construes verbal interaction contesting positions. (inflected form of debate)"
+    },
+    {
+      "word": "debated",
+      "reason": "construes verbal interaction contesting positions. (inflected form of debate)"
+    },
+    {
+      "word": "rant",
+      "reason": "construes prolonged angry verbal projection."
+    },
+    {
+      "word": "rants",
+      "reason": "construes prolonged angry verbal projection. (inflected form of rant)"
+    },
+    {
+      "word": "ranting",
+      "reason": "construes prolonged angry verbal projection. (inflected form of rant)"
+    },
+    {
+      "word": "ranted",
+      "reason": "construes prolonged angry verbal projection. (inflected form of rant)"
+    },
+    {
+      "word": "blurt",
+      "reason": "construes sudden unconsidered verbal projection."
+    },
+    {
+      "word": "blurts",
+      "reason": "construes sudden unconsidered verbal projection. (inflected form of blurt)"
+    },
+    {
+      "word": "blurting",
+      "reason": "construes sudden unconsidered verbal projection. (inflected form of blurt)"
+    },
+    {
+      "word": "blurted",
+      "reason": "construes sudden unconsidered verbal projection. (inflected form of blurt)"
+    },
+    {
+      "word": "bellow",
+      "reason": "construes loud deep verbal projection."
+    },
+    {
+      "word": "bellows",
+      "reason": "construes loud deep verbal projection. (inflected form of bellow)"
+    },
+    {
+      "word": "bellowing",
+      "reason": "construes loud deep verbal projection. (inflected form of bellow)"
+    },
+    {
+      "word": "bellowed",
+      "reason": "construes loud deep verbal projection. (inflected form of bellow)"
+    },
+    {
+      "word": "roar",
+      "reason": "construes very loud verbal projection."
+    },
+    {
+      "word": "roars",
+      "reason": "construes very loud verbal projection. (inflected form of roar)"
+    },
+    {
+      "word": "roaring",
+      "reason": "construes very loud verbal projection. (inflected form of roar)"
+    },
+    {
+      "word": "roared",
+      "reason": "construes very loud verbal projection. (inflected form of roar)"
+    },
+    {
+      "word": "holler",
+      "reason": "construes loud calling verbal projection."
+    },
+    {
+      "word": "hollers",
+      "reason": "construes loud calling verbal projection. (inflected form of holler)"
+    },
+    {
+      "word": "hollering",
+      "reason": "construes loud calling verbal projection. (inflected form of holler)"
+    },
+    {
+      "word": "hollered",
+      "reason": "construes loud calling verbal projection. (inflected form of holler)"
+    },
+    {
+      "word": "jeer",
+      "reason": "construes mocking verbal projection."
+    },
+    {
+      "word": "jeers",
+      "reason": "construes mocking verbal projection. (inflected form of jeer)"
+    },
+    {
+      "word": "jeering",
+      "reason": "construes mocking verbal projection. (inflected form of jeer)"
+    },
+    {
+      "word": "jeered",
+      "reason": "construes mocking verbal projection. (inflected form of jeer)"
+    },
+    {
+      "word": "mock",
+      "reason": "construes verbal projection of derision."
+    },
+    {
+      "word": "mocks",
+      "reason": "construes verbal projection of derision. (inflected form of mock)"
+    },
+    {
+      "word": "mocking",
+      "reason": "construes verbal projection of derision. (inflected form of mock)"
+    },
+    {
+      "word": "mocked",
+      "reason": "construes verbal projection of derision. (inflected form of mock)"
+    },
+    {
+      "word": "taunt",
+      "reason": "construes provoking verbal projection."
+    },
+    {
+      "word": "taunts",
+      "reason": "construes provoking verbal projection. (inflected form of taunt)"
+    },
+    {
+      "word": "taunting",
+      "reason": "construes provoking verbal projection. (inflected form of taunt)"
+    },
+    {
+      "word": "taunted",
+      "reason": "construes provoking verbal projection. (inflected form of taunt)"
+    },
+    {
+      "word": "praise",
+      "reason": "construes verbal projection of commendation."
+    },
+    {
+      "word": "praises",
+      "reason": "construes verbal projection of commendation. (inflected form of praise)"
+    },
+    {
+      "word": "praising",
+      "reason": "construes verbal projection of commendation. (inflected form of praise)"
+    },
+    {
+      "word": "praised",
+      "reason": "construes verbal projection of commendation. (inflected form of praise)"
+    },
+    {
+      "word": "congratulate",
+      "reason": "construes verbal projection of recognition for success."
+    },
+    {
+      "word": "congratulates",
+      "reason": "construes verbal projection of recognition for success. (inflected form of congratulate)"
+    },
+    {
+      "word": "congratulating",
+      "reason": "construes verbal projection of recognition for success. (inflected form of congratulate)"
+    },
+    {
+      "word": "congratulated",
+      "reason": "construes verbal projection of recognition for success. (inflected form of congratulate)"
+    },
+    {
+      "word": "compliment",
+      "reason": "construes verbal projection of positive evaluation."
+    },
+    {
+      "word": "compliments",
+      "reason": "construes verbal projection of positive evaluation. (inflected form of compliment)"
+    },
+    {
+      "word": "complimenting",
+      "reason": "construes verbal projection of positive evaluation. (inflected form of compliment)"
+    },
+    {
+      "word": "complimented",
+      "reason": "construes verbal projection of positive evaluation. (inflected form of compliment)"
+    },
+    {
+      "word": "curse",
+      "reason": "construes verbal projection of malediction."
+    },
+    {
+      "word": "curses",
+      "reason": "construes verbal projection of malediction. (inflected form of curse)"
+    },
+    {
+      "word": "cursing",
+      "reason": "construes verbal projection of malediction. (inflected form of curse)"
+    },
+    {
+      "word": "cursed",
+      "reason": "construes verbal projection of malediction. (inflected form of curse)"
+    },
+    {
+      "word": "bless",
+      "reason": "construes verbal projection of benediction."
+    },
+    {
+      "word": "blesses",
+      "reason": "construes verbal projection of benediction. (inflected form of bless)"
+    },
+    {
+      "word": "blessing",
+      "reason": "construes verbal projection of benediction. (inflected form of bless)"
+    },
+    {
+      "word": "blessed",
+      "reason": "construes verbal projection of benediction. (inflected form of bless)"
+    },
+    {
+      "word": "pray",
+      "reason": "construes verbal projection addressed to a deity (verbal use)."
+    },
+    {
+      "word": "prays",
+      "reason": "construes verbal projection addressed to a deity (verbal use). (inflected form of pray)"
+    },
+    {
+      "word": "praying",
+      "reason": "construes verbal projection addressed to a deity (verbal use). (inflected form of pray)"
+    },
+    {
+      "word": "prayed",
+      "reason": "construes verbal projection addressed to a deity (verbal use). (inflected form of pray)"
+    },
+    {
+      "word": "testify",
+      "reason": "construes formal verbal projection under attestation."
+    },
+    {
+      "word": "testifies",
+      "reason": "construes formal verbal projection under attestation. (inflected form of testify)"
+    },
+    {
+      "word": "testifying",
+      "reason": "construes formal verbal projection under attestation. (inflected form of testify)"
+    },
+    {
+      "word": "testified",
+      "reason": "construes formal verbal projection under attestation. (inflected form of testify)"
+    },
+    {
+      "word": "proclaim",
+      "reason": "construes public verbal projection."
+    },
+    {
+      "word": "proclaims",
+      "reason": "construes public verbal projection. (inflected form of proclaim)"
+    },
+    {
+      "word": "proclaiming",
+      "reason": "construes public verbal projection. (inflected form of proclaim)"
+    },
+    {
+      "word": "proclaimed",
+      "reason": "construes public verbal projection. (inflected form of proclaim)"
+    },
+    {
+      "word": "assure",
+      "reason": "construes verbal projection giving confidence to a Receiver."
+    },
+    {
+      "word": "assures",
+      "reason": "construes verbal projection giving confidence to a Receiver. (inflected form of assure)"
+    },
+    {
+      "word": "assuring",
+      "reason": "construes verbal projection giving confidence to a Receiver. (inflected form of assure)"
+    },
+    {
+      "word": "assured",
+      "reason": "construes verbal projection giving confidence to a Receiver. (inflected form of assure)"
+    },
+    {
+      "word": "guarantee",
+      "reason": "construes commissive verbal projection."
+    },
+    {
+      "word": "guarantees",
+      "reason": "construes commissive verbal projection. (inflected form of guarantee)"
+    },
+    {
+      "word": "guaranteeing",
+      "reason": "construes commissive verbal projection. (inflected form of guarantee)"
+    },
+    {
+      "word": "guaranteed",
+      "reason": "construes commissive verbal projection. (inflected form of guarantee)"
+    },
+    {
+      "word": "hint",
+      "reason": "construes indirect verbal projection."
+    },
+    {
+      "word": "hints",
+      "reason": "construes indirect verbal projection. (inflected form of hint)"
+    },
+    {
+      "word": "hinting",
+      "reason": "construes indirect verbal projection. (inflected form of hint)"
+    },
+    {
+      "word": "hinted",
+      "reason": "construes indirect verbal projection. (inflected form of hint)"
+    },
+    {
+      "word": "insinuate",
+      "reason": "construes indirect implicating verbal projection."
+    },
+    {
+      "word": "insinuates",
+      "reason": "construes indirect implicating verbal projection. (inflected form of insinuate)"
+    },
+    {
+      "word": "insinuating",
+      "reason": "construes indirect implicating verbal projection. (inflected form of insinuate)"
+    },
+    {
+      "word": "insinuated",
+      "reason": "construes indirect implicating verbal projection. (inflected form of insinuate)"
+    },
+    {
+      "word": "allege",
+      "reason": "construes verbal projection asserting without proof."
+    },
+    {
+      "word": "alleges",
+      "reason": "construes verbal projection asserting without proof. (inflected form of allege)"
+    },
+    {
+      "word": "alleging",
+      "reason": "construes verbal projection asserting without proof. (inflected form of allege)"
+    },
+    {
+      "word": "alleged",
+      "reason": "construes verbal projection asserting without proof. (inflected form of allege)"
+    },
+    {
+      "word": "accuse",
+      "reason": "construes verbal projection charging a Receiver."
+    },
+    {
+      "word": "accuses",
+      "reason": "construes verbal projection charging a Receiver. (inflected form of accuse)"
+    },
+    {
+      "word": "accusing",
+      "reason": "construes verbal projection charging a Receiver. (inflected form of accuse)"
+    },
+    {
+      "word": "accused",
+      "reason": "construes verbal projection charging a Receiver. (inflected form of accuse)"
+    },
+    {
+      "word": "blame",
+      "reason": "construes verbal projection attributing fault."
+    },
+    {
+      "word": "blames",
+      "reason": "construes verbal projection attributing fault. (inflected form of blame)"
+    },
+    {
+      "word": "blaming",
+      "reason": "construes verbal projection attributing fault. (inflected form of blame)"
+    },
+    {
+      "word": "blamed",
+      "reason": "construes verbal projection attributing fault. (inflected form of blame)"
+    },
+    {
+      "word": "forbid",
+      "reason": "construes prohibitive verbal projection."
+    },
+    {
+      "word": "forbids",
+      "reason": "construes prohibitive verbal projection. (inflected form of forbid)"
+    },
+    {
+      "word": "forbidding",
+      "reason": "construes prohibitive verbal projection. (inflected form of forbid)"
+    },
+    {
+      "word": "forbade",
+      "reason": "construes prohibitive verbal projection. (inflected form of forbid)"
+    },
+    {
+      "word": "forbidden",
+      "reason": "construes prohibitive verbal projection. (inflected form of forbid)"
+    },
+    {
+      "word": "summon",
+      "reason": "construes verbal projection calling a Receiver."
+    },
+    {
+      "word": "summons",
+      "reason": "construes verbal projection calling a Receiver. (inflected form of summon)"
+    },
+    {
+      "word": "summoning",
+      "reason": "construes verbal projection calling a Receiver. (inflected form of summon)"
+    },
+    {
+      "word": "summoned",
+      "reason": "construes verbal projection calling a Receiver. (inflected form of summon)"
+    },
+    {
+      "word": "invite",
+      "reason": "construes verbal projection requesting attendance."
+    },
+    {
+      "word": "invites",
+      "reason": "construes verbal projection requesting attendance. (inflected form of invite)"
+    },
+    {
+      "word": "inviting",
+      "reason": "construes verbal projection requesting attendance. (inflected form of invite)"
+    },
+    {
+      "word": "invited",
+      "reason": "construes verbal projection requesting attendance. (inflected form of invite)"
+    },
+    {
+      "word": "introduce",
+      "reason": "construes verbal projection presenting a participant (verbal use)."
+    },
+    {
+      "word": "introduces",
+      "reason": "construes verbal projection presenting a participant (verbal use). (inflected form of introduce)"
+    },
+    {
+      "word": "introducing",
+      "reason": "construes verbal projection presenting a participant (verbal use). (inflected form of introduce)"
+    },
+    {
+      "word": "introduced",
+      "reason": "construes verbal projection presenting a participant (verbal use). (inflected form of introduce)"
+    },
+    {
+      "word": "teach",
+      "reason": "construes didactic verbal projection."
+    },
+    {
+      "word": "teaches",
+      "reason": "construes didactic verbal projection. (inflected form of teach)"
+    },
+    {
+      "word": "teaching",
+      "reason": "construes didactic verbal projection. (inflected form of teach)"
+    },
+    {
+      "word": "taught",
+      "reason": "construes didactic verbal projection. (inflected form of teach)"
+    }
+  ]
+}

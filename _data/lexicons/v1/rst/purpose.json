@@ -1,0 +1,111 @@
+{
+  "category_name": "PURPOSE_MARKERS",
+  "source_file": "words_PURPOSE_MARKERS_expanded.json",
+  "count": 26,
+  "words": [
+    {
+      "word": "so",
+      "reason": "marks purpose in ‘so that’ or ‘so as to’."
+    },
+    {
+      "word": "that",
+      "reason": "marks purpose in ‘so that’ or ‘in order that’."
+    },
+    {
+      "word": "order",
+      "reason": "marks purpose in ‘in order that’ or ‘in order to’."
+    },
+    {
+      "word": "to",
+      "reason": "marks purpose introducing infinitive purpose clause."
+    },
+    {
+      "word": "for",
+      "reason": "marks purpose introducing a beneficiary or aim."
+    },
+    {
+      "word": "lest",
+      "reason": "marks negative purpose."
+    },
+    {
+      "word": "with",
+      "reason": "marks purpose in ‘with a view to’ or ‘with the aim of’."
+    },
+    {
+      "word": "view",
+      "reason": "marks purpose in ‘with a view to’."
+    },
+    {
+      "word": "aim",
+      "reason": "marks purpose in ‘with the aim of’."
+    },
+    {
+      "word": "intent",
+      "reason": "marks purpose in ‘with the intent of’."
+    },
+    {
+      "word": "intention",
+      "reason": "marks purpose in ‘with the intention of’."
+    },
+    {
+      "word": "purpose",
+      "reason": "marks purpose in ‘for the purpose of’."
+    },
+    {
+      "word": "end",
+      "reason": "marks purpose in ‘to the end that’ or ‘to that end’."
+    },
+    {
+      "word": "sake",
+      "reason": "marks purpose in ‘for the sake of’."
+    },
+    {
+      "word": "toward",
+      "reason": "marks purpose in ‘toward [goal]’."
+    },
+    {
+      "word": "towards",
+      "reason": "marks purpose in ‘towards [goal]’."
+    },
+    {
+      "word": "in",
+      "reason": "marks purpose in ‘in order to’ or ‘in hopes of’."
+    },
+    {
+      "word": "hopes",
+      "reason": "marks purpose in ‘in hopes of’."
+    },
+    {
+      "word": "hoping",
+      "reason": "marks purpose in non-finite purpose clause."
+    },
+    {
+      "word": "seeking",
+      "reason": "marks purpose in non-finite purpose clause."
+    },
+    {
+      "word": "wanting",
+      "reason": "marks purpose in non-finite purpose clause."
+    },
+    {
+      "word": "trying",
+      "reason": "marks purpose in non-finite purpose clause."
+    },
+    {
+      "word": "aimed",
+      "reason": "marks purpose in ‘aimed at’."
+    },
+    {
+      "word": "designed",
+      "reason": "marks purpose in ‘designed to’."
+    },
+    {
+      "word": "intended",
+      "reason": "marks purpose in ‘intended to’."
+    },
+    {
+      "word": "meant",
+      "reason": "marks purpose in ‘meant to’."
+    }
+  ]
+}

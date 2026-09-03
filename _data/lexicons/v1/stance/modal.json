@@ -1,0 +1,63 @@
+{
+  "category_name": "MODAL_VERBS",
+  "source_file": "words_MODAL_VERBS_expanded.json",
+  "count": 14,
+  "words": [
+    {
+      "word": "can",
+      "reason": "modal auxiliary expressing ability or possibility."
+    },
+    {
+      "word": "could",
+      "reason": "modal auxiliary expressing tentative ability or possibility."
+    },
+    {
+      "word": "may",
+      "reason": "modal auxiliary expressing permission or epistemic possibility."
+    },
+    {
+      "word": "might",
+      "reason": "modal auxiliary expressing tentative epistemic possibility."
+    },
+    {
+      "word": "must",
+      "reason": "modal auxiliary expressing necessity or obligation."
+    },
+    {
+      "word": "shall",
+      "reason": "modal auxiliary expressing prediction or directive."
+    },
+    {
+      "word": "should",
+      "reason": "modal auxiliary expressing weak obligation or expectation."
+    },
+    {
+      "word": "will",
+      "reason": "modal auxiliary expressing prediction or volition."
+    },
+    {
+      "word": "would",
+      "reason": "modal auxiliary expressing tentative prediction or hypothetical."
+    },
+    {
+      "word": "ought",
+      "reason": "modal auxiliary expressing weak obligation."
+    },
+    {
+      "word": "need",
+      "reason": "modal auxiliary expressing necessity (modal use, e.g., ‘need not’)."
+    },
+    {
+      "word": "dare",
+      "reason": "modal auxiliary expressing courage or permission (modal use, e.g., ‘dare not’)."
+    },
+    {
+      "word": "supposed",
+      "reason": "modal element only in the fixed construction 'be supposed to' (weak obligation, expectation); not modal as the past tense or past participle of the lexical verb 'suppose'."
+    },
+    {
+      "word": "used",
+      "reason": "modal element only in the fixed construction 'used to' (past habitual); not modal as the past tense or past participle of the lexical verb 'use'."
+    }
+  ]
+}

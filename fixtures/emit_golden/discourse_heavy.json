@@ -1,0 +1,175 @@
+{
+  "arc": {
+    "n_slices": 2,
+    "per_dimension": {
+      "lexical_novelty": {
+        "end": 0.705882352941,
+        "monotone": true,
+        "range": 0.0,
+        "slope": null,
+        "start": 0.705882352941
+      },
+      "modal_density": {
+        "end": 0.602409638554,
+        "monotone": true,
+        "range": 0.602409638554,
+        "slope": 0.602409638554,
+        "start": 0.0
+      },
+      "negation_density": {
+        "end": 1.20481927711,
+        "monotone": true,
+        "range": 0.323762008388,
+        "slope": 0.323762008388,
+        "start": 0.881057268722
+      },
+      "sentence_length_variance": {
+        "end": 33.5,
+        "monotone": true,
+        "range": 24.9736842105,
+        "slope": 24.9736842105,
+        "start": 8.52631578947
+      }
+    },
+    "per_slice": [
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": null,
+          "negation_density": null,
+          "sentence_length_variance": null
+        },
+        "index": 0,
+        "labels": [
+          "opening"
+        ],
+        "values": {
+          "lexical_novelty": null,
+          "modal_density": 0.0,
+          "negation_density": 0.881057268722,
+          "sentence_length_variance": 8.52631578947
+        }
+      },
+      {
+        "deltas": {
+          "lexical_novelty": null,
+          "modal_density": 0.602409638554,
+          "negation_density": 0.323762008388,
+          "sentence_length_variance": 24.9736842105
+        },
+        "index": 1,
+        "labels": [
+          "closing",
+          "introduction",
+          "hedging_peak"
+        ],
+        "values": {
+          "lexical_novelty": 0.705882352941,
+          "modal_density": 0.602409638554,
+          "negation_density": 1.20481927711,
+          "sentence_length_variance": 33.5
+        }
+      }
+    ]
+  },
+  "coherence": {
+    "diverging_axes": [
+      "sfl_process_complexity",
+      "rst_elaboration",
+      "register_modality"
+    ],
+    "evidence": {
+      "axis_directions": {
+        "cohesion_repetition": "agree_low",
+        "register_modality": "diverge",
+        "rst_contrast": "agree_high",
+        "rst_elaboration": "diverge",
+        "sfl_process_complexity": "diverge"
+      },
+      "excluded_axes": [
+        "cohesion_repetition"
+      ],
+      "overall": "mixed"
+    },
+    "incomparable_axes": [],
+    "label": "low",
+    "n_axes_agree": 1,
+    "n_axes_measurable": 4,
+    "value": 0.25
+  },
+  "flags": [],
+  "metadata": {
+    "catalog_sha256": "e040613dfb47cab55a5d80fc2b0d7bf64e1e3a597071a31cbf6c6bcb6dcab97d",
+    "content_sha256": "c185bb3e37f9eb6509f6be6282de0f180264f566f2f03a19cea5be2e27b4e010",
+    "core_code_sha256": "cc207254d437a6161f5185cd4777b09aa9ef3ae7af577cd57ce76ec183756fe8",
+    "distance_method": "feature_zscore_l2",
+    "emission_version": "v2",
+    "input_sha256": "f88a4321b6357a8855fd50b6980d1d4990d00e156be318f133ee360e5227a816",
+    "instrument_version": "0.10.0",
+    "lexicon_version": "v1",
+    "n_sentences": 31,
+    "n_words": 393,
+    "reading_sha256": "c8b006e8acf0aedf7d988bdd7ebac15397667de4a796f734dbdff3f7c475a2a6",
+    "reproducibility_hash": "af27a889b802ddc95470dafa9ba6d55e73cdeb8af689610e960081a42193ded7",
+    "schema_version": "0.10.0",
+    "timestamp": "GOLDEN"
+  },
+  "register": {
+    "cohort": "llm_technical_prose",
+    "distance": 4.34814628923,
+    "evidence": {
+      "declared_hint": null,
+      "detected_cohort": "llm_technical_prose",
+      "distances_to_all_references": [
+        {
+          "distance": 5.48464023935,
+          "name": "academic_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 9.08750357388,
+          "name": "dialogue_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 7.11165589563,
+          "name": "journalism_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 4.38772478273,
+          "name": "literary_prose",
+          "percentile": null,
+          "version": "v2"
+        },
+        {
+          "distance": 4.34814628923,
+          "name": "llm_technical_prose",
+          "percentile": null,
+          "version": "v2"
+        }
+      ],
+      "feature_calibration": {
+        "status": "reference_lacks_feature_quantiles"
+      },
+      "reference_cohort": "llm_technical_prose",
+      "reference_envelope": {
+        "status": "seed_reference_no_confidence_envelope"
+      },
+      "reference_name": "llm_technical_prose",
+      "reference_provenance": {
+        "provenance_status": "pre_0_10_reference"
+      },
+      "reference_version": "v2",
+      "router_flags": [
+        "auto_routed",
+        "auto_selected_distance_exceeds_threshold"
+      ],
+      "router_match": "distance_exceeds_threshold"
+    },
+    "label": "break"
+  }
+}

@@ -1,0 +1,2631 @@
+{
+  "category_name": "MATERIAL_PROCESS_VERBS",
+  "source_file": "words_MATERIAL_PROCESS_VERBS_expanded.json",
+  "count": 656,
+  "words": [
+    {
+      "word": "build",
+      "reason": "construes a doing process where an Actor brings a Goal into being."
+    },
+    {
+      "word": "builds",
+      "reason": "construes a doing process where an Actor brings a Goal into being. (inflected form of build)"
+    },
+    {
+      "word": "building",
+      "reason": "construes a doing process where an Actor brings a Goal into being. (inflected form of build)"
+    },
+    {
+      "word": "built",
+      "reason": "construes a doing process where an Actor brings a Goal into being. (inflected form of build)"
+    },
+    {
+      "word": "make",
+      "reason": "construes creative material doing affecting a Goal."
+    },
+    {
+      "word": "makes",
+      "reason": "construes creative material doing affecting a Goal. (inflected form of make)"
+    },
+    {
+      "word": "making",
+      "reason": "construes creative material doing affecting a Goal. (inflected form of make)"
+    },
+    {
+      "word": "made",
+      "reason": "construes creative material doing affecting a Goal. (inflected form of make)"
+    },
+    {
+      "word": "create",
+      "reason": "construes creative material doing producing a Goal."
+    },
+    {
+      "word": "creates",
+      "reason": "construes creative material doing producing a Goal. (inflected form of create)"
+    },
+    {
+      "word": "creating",
+      "reason": "construes creative material doing producing a Goal. (inflected form of create)"
+    },
+    {
+      "word": "created",
+      "reason": "construes creative material doing producing a Goal. (inflected form of create)"
+    },
+    {
+      "word": "construct",
+      "reason": "construes constructive material doing affecting a Goal."
+    },
+    {
+      "word": "constructs",
+      "reason": "construes constructive material doing affecting a Goal. (inflected form of construct)"
+    },
+    {
+      "word": "constructing",
+      "reason": "construes constructive material doing affecting a Goal. (inflected form of construct)"
+    },
+    {
+      "word": "constructed",
+      "reason": "construes constructive material doing affecting a Goal. (inflected form of construct)"
+    },
+    {
+      "word": "destroy",
+      "reason": "construes material doing eliminating a Goal."
+    },
+    {
+      "word": "destroys",
+      "reason": "construes material doing eliminating a Goal. (inflected form of destroy)"
+    },
+    {
+      "word": "destroying",
+      "reason": "construes material doing eliminating a Goal. (inflected form of destroy)"
+    },
+    {
+      "word": "destroyed",
+      "reason": "construes material doing eliminating a Goal. (inflected form of destroy)"
+    },
+    {
+      "word": "demolish",
+      "reason": "construes material doing dismantling a Goal."
+    },
+    {
+      "word": "demolishes",
+      "reason": "construes material doing dismantling a Goal. (inflected form of demolish)"
+    },
+    {
+      "word": "demolishing",
+      "reason": "construes material doing dismantling a Goal. (inflected form of demolish)"
+    },
+    {
+      "word": "demolished",
+      "reason": "construes material doing dismantling a Goal. (inflected form of demolish)"
+    },
+    {
+      "word": "break",
+      "reason": "construes material doing affecting integrity of a Goal."
+    },
+    {
+      "word": "breaks",
+      "reason": "construes material doing affecting integrity of a Goal. (inflected form of break)"
+    },
+    {
+      "word": "breaking",
+      "reason": "construes material doing affecting integrity of a Goal. (inflected form of break)"
+    },
+    {
+      "word": "broke",
+      "reason": "construes material doing affecting integrity of a Goal. (inflected form of break)"
+    },
+    {
+      "word": "broken",
+      "reason": "construes material doing affecting integrity of a Goal. (inflected form of break)"
+    },
+    {
+      "word": "smash",
+      "reason": "construes forceful material doing fragmenting a Goal."
+    },
+    {
+      "word": "smashes",
+      "reason": "construes forceful material doing fragmenting a Goal. (inflected form of smash)"
+    },
+    {
+      "word": "smashing",
+      "reason": "construes forceful material doing fragmenting a Goal. (inflected form of smash)"
+    },
+    {
+      "word": "smashed",
+      "reason": "construes forceful material doing fragmenting a Goal. (inflected form of smash)"
+    },
+    {
+      "word": "shatter",
+      "reason": "construes material doing fragmenting a Goal."
+    },
+    {
+      "word": "shatters",
+      "reason": "construes material doing fragmenting a Goal. (inflected form of shatter)"
+    },
+    {
+      "word": "shattering",
+      "reason": "construes material doing fragmenting a Goal. (inflected form of shatter)"
+    },
+    {
+      "word": "shattered",
+      "reason": "construes material doing fragmenting a Goal. (inflected form of shatter)"
+    },
+    {
+      "word": "crack",
+      "reason": "construes material doing fissuring a Goal."
+    },
+    {
+      "word": "cracks",
+      "reason": "construes material doing fissuring a Goal. (inflected form of crack)"
+    },
+    {
+      "word": "cracking",
+      "reason": "construes material doing fissuring a Goal. (inflected form of crack)"
+    },
+    {
+      "word": "cracked",
+      "reason": "construes material doing fissuring a Goal. (inflected form of crack)"
+    },
+    {
+      "word": "cut",
+      "reason": "construes material doing severing a Goal."
+    },
+    {
+      "word": "cuts",
+      "reason": "construes material doing severing a Goal. (inflected form of cut)"
+    },
+    {
+      "word": "cutting",
+      "reason": "construes material doing severing a Goal. (inflected form of cut)"
+    },
+    {
+      "word": "tear",
+      "reason": "construes material doing rupturing a Goal."
+    },
+    {
+      "word": "tears",
+      "reason": "construes material doing rupturing a Goal. (inflected form of tear)"
+    },
+    {
+      "word": "tearing",
+      "reason": "construes material doing rupturing a Goal. (inflected form of tear)"
+    },
+    {
+      "word": "tore",
+      "reason": "construes material doing rupturing a Goal. (inflected form of tear)"
+    },
+    {
+      "word": "torn",
+      "reason": "construes material doing rupturing a Goal. (inflected form of tear)"
+    },
+    {
+      "word": "rip",
+      "reason": "construes material doing rupturing a Goal."
+    },
+    {
+      "word": "rips",
+      "reason": "construes material doing rupturing a Goal. (inflected form of rip)"
+    },
+    {
+      "word": "ripping",
+      "reason": "construes material doing rupturing a Goal. (inflected form of rip)"
+    },
+    {
+      "word": "ripped",
+      "reason": "construes material doing rupturing a Goal. (inflected form of rip)"
+    },
+    {
+      "word": "crush",
+      "reason": "construes compressive material doing affecting a Goal."
+    },
+    {
+      "word": "crushes",
+      "reason": "construes compressive material doing affecting a Goal. (inflected form of crush)"
+    },
+    {
+      "word": "crushing",
+      "reason": "construes compressive material doing affecting a Goal. (inflected form of crush)"
+    },
+    {
+      "word": "crushed",
+      "reason": "construes compressive material doing affecting a Goal. (inflected form of crush)"
+    },
+    {
+      "word": "squash",
+      "reason": "construes compressive material doing affecting a Goal."
+    },
+    {
+      "word": "squashes",
+      "reason": "construes compressive material doing affecting a Goal. (inflected form of squash)"
+    },
+    {
+      "word": "squashing",
+      "reason": "construes compressive material doing affecting a Goal. (inflected form of squash)"
+    },
+    {
+      "word": "squashed",
+      "reason": "construes compressive material doing affecting a Goal. (inflected form of squash)"
+    },
+    {
+      "word": "bend",
+      "reason": "construes material doing deforming a Goal."
+    },
+    {
+      "word": "bends",
+      "reason": "construes material doing deforming a Goal. (inflected form of bend)"
+    },
+    {
+      "word": "bending",
+      "reason": "construes material doing deforming a Goal. (inflected form of bend)"
+    },
+    {
+      "word": "bent",
+      "reason": "construes material doing deforming a Goal. (inflected form of bend)"
+    },
+    {
+      "word": "twist",
+      "reason": "construes material doing rotating part of a Goal."
+    },
+    {
+      "word": "twists",
+      "reason": "construes material doing rotating part of a Goal. (inflected form of twist)"
+    },
+    {
+      "word": "twisting",
+      "reason": "construes material doing rotating part of a Goal. (inflected form of twist)"
+    },
+    {
+      "word": "twisted",
+      "reason": "construes material doing rotating part of a Goal. (inflected form of twist)"
+    },
+    {
+      "word": "fold",
+      "reason": "construes material doing creasing a Goal."
+    },
+    {
+      "word": "folds",
+      "reason": "construes material doing creasing a Goal. (inflected form of fold)"
+    },
+    {
+      "word": "folding",
+      "reason": "construes material doing creasing a Goal. (inflected form of fold)"
+    },
+    {
+      "word": "folded",
+      "reason": "construes material doing creasing a Goal. (inflected form of fold)"
+    },
+    {
+      "word": "dissolve",
+      "reason": "construes material change-of-state where a Goal enters solution."
+    },
+    {
+      "word": "dissolves",
+      "reason": "construes material change-of-state where a Goal enters solution. (inflected form of dissolve)"
+    },
+    {
+      "word": "dissolving",
+      "reason": "construes material change-of-state where a Goal enters solution. (inflected form of dissolve)"
+    },
+    {
+      "word": "dissolved",
+      "reason": "construes material change-of-state where a Goal enters solution. (inflected form of dissolve)"
+    },
+    {
+      "word": "melt",
+      "reason": "construes material change-of-state from solid to liquid."
+    },
+    {
+      "word": "melts",
+      "reason": "construes material change-of-state from solid to liquid. (inflected form of melt)"
+    },
+    {
+      "word": "melting",
+      "reason": "construes material change-of-state from solid to liquid. (inflected form of melt)"
+    },
+    {
+      "word": "melted",
+      "reason": "construes material change-of-state from solid to liquid. (inflected form of melt)"
+    },
+    {
+      "word": "freeze",
+      "reason": "construes material change-of-state from liquid to solid."
+    },
+    {
+      "word": "freezes",
+      "reason": "construes material change-of-state from liquid to solid. (inflected form of freeze)"
+    },
+    {
+      "word": "freezing",
+      "reason": "construes material change-of-state from liquid to solid. (inflected form of freeze)"
+    },
+    {
+      "word": "froze",
+      "reason": "construes material change-of-state from liquid to solid. (inflected form of freeze)"
+    },
+    {
+      "word": "frozen",
+      "reason": "construes material change-of-state from liquid to solid. (inflected form of freeze)"
+    },
+    {
+      "word": "boil",
+      "reason": "construes material change-of-state by heating to vapour."
+    },
+    {
+      "word": "boils",
+      "reason": "construes material change-of-state by heating to vapour. (inflected form of boil)"
+    },
+    {
+      "word": "boiling",
+      "reason": "construes material change-of-state by heating to vapour. (inflected form of boil)"
+    },
+    {
+      "word": "boiled",
+      "reason": "construes material change-of-state by heating to vapour. (inflected form of boil)"
+    },
+    {
+      "word": "evaporate",
+      "reason": "construes material change-of-state to vapour."
+    },
+    {
+      "word": "evaporates",
+      "reason": "construes material change-of-state to vapour. (inflected form of evaporate)"
+    },
+    {
+      "word": "evaporating",
+      "reason": "construes material change-of-state to vapour. (inflected form of evaporate)"
+    },
+    {
+      "word": "evaporated",
+      "reason": "construes material change-of-state to vapour. (inflected form of evaporate)"
+    },
+    {
+      "word": "condense",
+      "reason": "construes material change-of-state from vapour to liquid."
+    },
+    {
+      "word": "condenses",
+      "reason": "construes material change-of-state from vapour to liquid. (inflected form of condense)"
+    },
+    {
+      "word": "condensing",
+      "reason": "construes material change-of-state from vapour to liquid. (inflected form of condense)"
+    },
+    {
+      "word": "condensed",
+      "reason": "construes material change-of-state from vapour to liquid. (inflected form of condense)"
+    },
+    {
+      "word": "burn",
+      "reason": "construes material doing of combustion."
+    },
+    {
+      "word": "burns",
+      "reason": "construes material doing of combustion. (inflected form of burn)"
+    },
+    {
+      "word": "burning",
+      "reason": "construes material doing of combustion. (inflected form of burn)"
+    },
+    {
+      "word": "burned",
+      "reason": "construes material doing of combustion. (inflected form of burn)"
+    },
+    {
+      "word": "ignite",
+      "reason": "construes material doing initiating combustion."
+    },
+    {
+      "word": "ignites",
+      "reason": "construes material doing initiating combustion. (inflected form of ignite)"
+    },
+    {
+      "word": "igniting",
+      "reason": "construes material doing initiating combustion. (inflected form of ignite)"
+    },
+    {
+      "word": "ignited",
+      "reason": "construes material doing initiating combustion. (inflected form of ignite)"
+    },
+    {
+      "word": "extinguish",
+      "reason": "construes material doing terminating combustion."
+    },
+    {
+      "word": "extinguishes",
+      "reason": "construes material doing terminating combustion. (inflected form of extinguish)"
+    },
+    {
+      "word": "extinguishing",
+      "reason": "construes material doing terminating combustion. (inflected form of extinguish)"
+    },
+    {
+      "word": "extinguished",
+      "reason": "construes material doing terminating combustion. (inflected form of extinguish)"
+    },
+    {
+      "word": "increase",
+      "reason": "construes abstract material change-of-state of magnitude upward."
+    },
+    {
+      "word": "increases",
+      "reason": "construes abstract material change-of-state of magnitude upward. (inflected form of increase)"
+    },
+    {
+      "word": "increasing",
+      "reason": "construes abstract material change-of-state of magnitude upward. (inflected form of increase)"
+    },
+    {
+      "word": "increased",
+      "reason": "construes abstract material change-of-state of magnitude upward. (inflected form of increase)"
+    },
+    {
+      "word": "decrease",
+      "reason": "construes abstract material change-of-state of magnitude downward."
+    },
+    {
+      "word": "decreases",
+      "reason": "construes abstract material change-of-state of magnitude downward. (inflected form of decrease)"
+    },
+    {
+      "word": "decreasing",
+      "reason": "construes abstract material change-of-state of magnitude downward. (inflected form of decrease)"
+    },
+    {
+      "word": "decreased",
+      "reason": "construes abstract material change-of-state of magnitude downward. (inflected form of decrease)"
+    },
+    {
+      "word": "rise",
+      "reason": "construes material change-of-state upward."
+    },
+    {
+      "word": "rises",
+      "reason": "construes material change-of-state upward. (inflected form of rise)"
+    },
+    {
+      "word": "rising",
+      "reason": "construes material change-of-state upward. (inflected form of rise)"
+    },
+    {
+      "word": "rose",
+      "reason": "construes material change-of-state upward. (inflected form of rise)"
+    },
+    {
+      "word": "risen",
+      "reason": "construes material change-of-state upward. (inflected form of rise)"
+    },
+    {
+      "word": "fall",
+      "reason": "construes material change-of-state downward (material use, not relational)."
+    },
+    {
+      "word": "falls",
+      "reason": "construes material change-of-state downward (material use, not relational). (inflected form of fall)"
+    },
+    {
+      "word": "falling",
+      "reason": "construes material change-of-state downward (material use, not relational). (inflected form of fall)"
+    },
+    {
+      "word": "fell",
+      "reason": "construes material change-of-state downward (material use, not relational). (inflected form of fall)"
+    },
+    {
+      "word": "fallen",
+      "reason": "construes material change-of-state downward (material use, not relational). (inflected form of fall)"
+    },
+    {
+      "word": "grow",
+      "reason": "construes material expansion of a participant (material use, not relational)."
+    },
+    {
+      "word": "grows",
+      "reason": "construes material expansion of a participant (material use, not relational). (inflected form of grow)"
+    },
+    {
+      "word": "growing",
+      "reason": "construes material expansion of a participant (material use, not relational). (inflected form of grow)"
+    },
+    {
+      "word": "grew",
+      "reason": "construes material expansion of a participant (material use, not relational). (inflected form of grow)"
+    },
+    {
+      "word": "grown",
+      "reason": "construes material expansion of a participant (material use, not relational). (inflected form of grow)"
+    },
+    {
+      "word": "shrink",
+      "reason": "construes material contraction of a participant."
+    },
+    {
+      "word": "shrinks",
+      "reason": "construes material contraction of a participant. (inflected form of shrink)"
+    },
+    {
+      "word": "shrinking",
+      "reason": "construes material contraction of a participant. (inflected form of shrink)"
+    },
+    {
+      "word": "shrank",
+      "reason": "construes material contraction of a participant. (inflected form of shrink)"
+    },
+    {
+      "word": "shrunk",
+      "reason": "construes material contraction of a participant. (inflected form of shrink)"
+    },
+    {
+      "word": "expand",
+      "reason": "construes material expansion."
+    },
+    {
+      "word": "expands",
+      "reason": "construes material expansion. (inflected form of expand)"
+    },
+    {
+      "word": "expanding",
+      "reason": "construes material expansion. (inflected form of expand)"
+    },
+    {
+      "word": "expanded",
+      "reason": "construes material expansion. (inflected form of expand)"
+    },
+    {
+      "word": "contract",
+      "reason": "construes material contraction."
+    },
+    {
+      "word": "contracts",
+      "reason": "construes material contraction. (inflected form of contract)"
+    },
+    {
+      "word": "contracting",
+      "reason": "construes material contraction. (inflected form of contract)"
+    },
+    {
+      "word": "contracted",
+      "reason": "construes material contraction. (inflected form of contract)"
+    },
+    {
+      "word": "multiply",
+      "reason": "construes material increase by reproduction."
+    },
+    {
+      "word": "multiplies",
+      "reason": "construes material increase by reproduction. (inflected form of multiply)"
+    },
+    {
+      "word": "multiplying",
+      "reason": "construes material increase by reproduction. (inflected form of multiply)"
+    },
+    {
+      "word": "multiplied",
+      "reason": "construes material increase by reproduction. (inflected form of multiply)"
+    },
+    {
+      "word": "divide",
+      "reason": "construes material partition of a Goal."
+    },
+    {
+      "word": "divides",
+      "reason": "construes material partition of a Goal. (inflected form of divide)"
+    },
+    {
+      "word": "dividing",
+      "reason": "construes material partition of a Goal. (inflected form of divide)"
+    },
+    {
+      "word": "divided",
+      "reason": "construes material partition of a Goal. (inflected form of divide)"
+    },
+    {
+      "word": "separate",
+      "reason": "construes material partition or removal."
+    },
+    {
+      "word": "separates",
+      "reason": "construes material partition or removal. (inflected form of separate)"
+    },
+    {
+      "word": "separating",
+      "reason": "construes material partition or removal. (inflected form of separate)"
+    },
+    {
+      "word": "separated",
+      "reason": "construes material partition or removal. (inflected form of separate)"
+    },
+    {
+      "word": "combine",
+      "reason": "construes material union."
+    },
+    {
+      "word": "combines",
+      "reason": "construes material union. (inflected form of combine)"
+    },
+    {
+      "word": "combining",
+      "reason": "construes material union. (inflected form of combine)"
+    },
+    {
+      "word": "combined",
+      "reason": "construes material union. (inflected form of combine)"
+    },
+    {
+      "word": "merge",
+      "reason": "construes material union of participants."
+    },
+    {
+      "word": "merges",
+      "reason": "construes material union of participants. (inflected form of merge)"
+    },
+    {
+      "word": "merging",
+      "reason": "construes material union of participants. (inflected form of merge)"
+    },
+    {
+      "word": "merged",
+      "reason": "construes material union of participants. (inflected form of merge)"
+    },
+    {
+      "word": "mix",
+      "reason": "construes material blending."
+    },
+    {
+      "word": "mixes",
+      "reason": "construes material blending. (inflected form of mix)"
+    },
+    {
+      "word": "mixing",
+      "reason": "construes material blending. (inflected form of mix)"
+    },
+    {
+      "word": "mixed",
+      "reason": "construes material blending. (inflected form of mix)"
+    },
+    {
+      "word": "blend",
+      "reason": "construes material blending."
+    },
+    {
+      "word": "blends",
+      "reason": "construes material blending. (inflected form of blend)"
+    },
+    {
+      "word": "blending",
+      "reason": "construes material blending. (inflected form of blend)"
+    },
+    {
+      "word": "blended",
+      "reason": "construes material blending. (inflected form of blend)"
+    },
+    {
+      "word": "stir",
+      "reason": "construes material agitation."
+    },
+    {
+      "word": "stirs",
+      "reason": "construes material agitation. (inflected form of stir)"
+    },
+    {
+      "word": "stirring",
+      "reason": "construes material agitation. (inflected form of stir)"
+    },
+    {
+      "word": "stirred",
+      "reason": "construes material agitation. (inflected form of stir)"
+    },
+    {
+      "word": "shake",
+      "reason": "construes material agitation by motion."
+    },
+    {
+      "word": "shakes",
+      "reason": "construes material agitation by motion. (inflected form of shake)"
+    },
+    {
+      "word": "shaking",
+      "reason": "construes material agitation by motion. (inflected form of shake)"
+    },
+    {
+      "word": "shook",
+      "reason": "construes material agitation by motion. (inflected form of shake)"
+    },
+    {
+      "word": "shaken",
+      "reason": "construes material agitation by motion. (inflected form of shake)"
+    },
+    {
+      "word": "push",
+      "reason": "construes material doing applying force outward to a Goal."
+    },
+    {
+      "word": "pushes",
+      "reason": "construes material doing applying force outward to a Goal. (inflected form of push)"
+    },
+    {
+      "word": "pushing",
+      "reason": "construes material doing applying force outward to a Goal. (inflected form of push)"
+    },
+    {
+      "word": "pushed",
+      "reason": "construes material doing applying force outward to a Goal. (inflected form of push)"
+    },
+    {
+      "word": "pull",
+      "reason": "construes material doing applying force toward Actor."
+    },
+    {
+      "word": "pulls",
+      "reason": "construes material doing applying force toward Actor. (inflected form of pull)"
+    },
+    {
+      "word": "pulling",
+      "reason": "construes material doing applying force toward Actor. (inflected form of pull)"
+    },
+    {
+      "word": "pulled",
+      "reason": "construes material doing applying force toward Actor. (inflected form of pull)"
+    },
+    {
+      "word": "lift",
+      "reason": "construes material doing raising a Goal."
+    },
+    {
+      "word": "lifts",
+      "reason": "construes material doing raising a Goal. (inflected form of lift)"
+    },
+    {
+      "word": "lifting",
+      "reason": "construes material doing raising a Goal. (inflected form of lift)"
+    },
+    {
+      "word": "lifted",
+      "reason": "construes material doing raising a Goal. (inflected form of lift)"
+    },
+    {
+      "word": "drop",
+      "reason": "construes material doing releasing a Goal downward."
+    },
+    {
+      "word": "drops",
+      "reason": "construes material doing releasing a Goal downward. (inflected form of drop)"
+    },
+    {
+      "word": "dropping",
+      "reason": "construes material doing releasing a Goal downward. (inflected form of drop)"
+    },
+    {
+      "word": "dropped",
+      "reason": "construes material doing releasing a Goal downward. (inflected form of drop)"
+    },
+    {
+      "word": "throw",
+      "reason": "construes material doing propelling a Goal."
+    },
+    {
+      "word": "throws",
+      "reason": "construes material doing propelling a Goal. (inflected form of throw)"
+    },
+    {
+      "word": "throwing",
+      "reason": "construes material doing propelling a Goal. (inflected form of throw)"
+    },
+    {
+      "word": "threw",
+      "reason": "construes material doing propelling a Goal. (inflected form of throw)"
+    },
+    {
+      "word": "thrown",
+      "reason": "construes material doing propelling a Goal. (inflected form of throw)"
+    },
+    {
+      "word": "catch",
+      "reason": "construes material doing intercepting a Goal."
+    },
+    {
+      "word": "catches",
+      "reason": "construes material doing intercepting a Goal. (inflected form of catch)"
+    },
+    {
+      "word": "catching",
+      "reason": "construes material doing intercepting a Goal. (inflected form of catch)"
+    },
+    {
+      "word": "caught",
+      "reason": "construes material doing intercepting a Goal. (inflected form of catch)"
+    },
+    {
+      "word": "kick",
+      "reason": "construes material doing striking with the foot."
+    },
+    {
+      "word": "kicks",
+      "reason": "construes material doing striking with the foot. (inflected form of kick)"
+    },
+    {
+      "word": "kicking",
+      "reason": "construes material doing striking with the foot. (inflected form of kick)"
+    },
+    {
+      "word": "kicked",
+      "reason": "construes material doing striking with the foot. (inflected form of kick)"
+    },
+    {
+      "word": "hit",
+      "reason": "construes material doing striking a Goal."
+    },
+    {
+      "word": "hits",
+      "reason": "construes material doing striking a Goal. (inflected form of hit)"
+    },
+    {
+      "word": "hitting",
+      "reason": "construes material doing striking a Goal. (inflected form of hit)"
+    },
+    {
+      "word": "strike",
+      "reason": "construes material doing impacting a Goal."
+    },
+    {
+      "word": "strikes",
+      "reason": "construes material doing impacting a Goal. (inflected form of strike)"
+    },
+    {
+      "word": "striking",
+      "reason": "construes material doing impacting a Goal. (inflected form of strike)"
+    },
+    {
+      "word": "struck",
+      "reason": "construes material doing impacting a Goal. (inflected form of strike)"
+    },
+    {
+      "word": "stricken",
+      "reason": "construes material doing impacting a Goal. (inflected form of strike)"
+    },
+    {
+      "word": "punch",
+      "reason": "construes material doing striking with the fist."
+    },
+    {
+      "word": "punches",
+      "reason": "construes material doing striking with the fist. (inflected form of punch)"
+    },
+    {
+      "word": "punching",
+      "reason": "construes material doing striking with the fist. (inflected form of punch)"
+    },
+    {
+      "word": "punched",
+      "reason": "construes material doing striking with the fist. (inflected form of punch)"
+    },
+    {
+      "word": "slap",
+      "reason": "construes material doing striking with the palm."
+    },
+    {
+      "word": "slaps",
+      "reason": "construes material doing striking with the palm. (inflected form of slap)"
+    },
+    {
+      "word": "slapping",
+      "reason": "construes material doing striking with the palm. (inflected form of slap)"
+    },
+    {
+      "word": "slapped",
+      "reason": "construes material doing striking with the palm. (inflected form of slap)"
+    },
+    {
+      "word": "touch",
+      "reason": "construes material doing of contact."
+    },
+    {
+      "word": "touches",
+      "reason": "construes material doing of contact. (inflected form of touch)"
+    },
+    {
+      "word": "touching",
+      "reason": "construes material doing of contact. (inflected form of touch)"
+    },
+    {
+      "word": "touched",
+      "reason": "construes material doing of contact. (inflected form of touch)"
+    },
+    {
+      "word": "hold",
+      "reason": "construes material doing maintaining grasp on a Goal."
+    },
+    {
+      "word": "holds",
+      "reason": "construes material doing maintaining grasp on a Goal. (inflected form of hold)"
+    },
+    {
+      "word": "holding",
+      "reason": "construes material doing maintaining grasp on a Goal. (inflected form of hold)"
+    },
+    {
+      "word": "held",
+      "reason": "construes material doing maintaining grasp on a Goal. (inflected form of hold)"
+    },
+    {
+      "word": "grab",
+      "reason": "construes material doing seizing a Goal."
+    },
+    {
+      "word": "grabs",
+      "reason": "construes material doing seizing a Goal. (inflected form of grab)"
+    },
+    {
+      "word": "grabbing",
+      "reason": "construes material doing seizing a Goal. (inflected form of grab)"
+    },
+    {
+      "word": "grabbed",
+      "reason": "construes material doing seizing a Goal. (inflected form of grab)"
+    },
+    {
+      "word": "grasp",
+      "reason": "construes material doing seizing a Goal (material use)."
+    },
+    {
+      "word": "grasps",
+      "reason": "construes material doing seizing a Goal (material use). (inflected form of grasp)"
+    },
+    {
+      "word": "grasping",
+      "reason": "construes material doing seizing a Goal (material use). (inflected form of grasp)"
+    },
+    {
+      "word": "grasped",
+      "reason": "construes material doing seizing a Goal (material use). (inflected form of grasp)"
+    },
+    {
+      "word": "release",
+      "reason": "construes material doing letting go of a Goal."
+    },
+    {
+      "word": "releases",
+      "reason": "construes material doing letting go of a Goal. (inflected form of release)"
+    },
+    {
+      "word": "releasing",
+      "reason": "construes material doing letting go of a Goal. (inflected form of release)"
+    },
+    {
+      "word": "released",
+      "reason": "construes material doing letting go of a Goal. (inflected form of release)"
+    },
+    {
+      "word": "open",
+      "reason": "construes material change-of-state to open configuration."
+    },
+    {
+      "word": "opens",
+      "reason": "construes material change-of-state to open configuration. (inflected form of open)"
+    },
+    {
+      "word": "opening",
+      "reason": "construes material change-of-state to open configuration. (inflected form of open)"
+    },
+    {
+      "word": "opened",
+      "reason": "construes material change-of-state to open configuration. (inflected form of open)"
+    },
+    {
+      "word": "close",
+      "reason": "construes material change-of-state to closed configuration."
+    },
+    {
+      "word": "closes",
+      "reason": "construes material change-of-state to closed configuration. (inflected form of close)"
+    },
+    {
+      "word": "closing",
+      "reason": "construes material change-of-state to closed configuration. (inflected form of close)"
+    },
+    {
+      "word": "closed",
+      "reason": "construes material change-of-state to closed configuration. (inflected form of close)"
+    },
+    {
+      "word": "lock",
+      "reason": "construes material doing securing a Goal."
+    },
+    {
+      "word": "locks",
+      "reason": "construes material doing securing a Goal. (inflected form of lock)"
+    },
+    {
+      "word": "locking",
+      "reason": "construes material doing securing a Goal. (inflected form of lock)"
+    },
+    {
+      "word": "locked",
+      "reason": "construes material doing securing a Goal. (inflected form of lock)"
+    },
+    {
+      "word": "unlock",
+      "reason": "construes material doing releasing a lock."
+    },
+    {
+      "word": "unlocks",
+      "reason": "construes material doing releasing a lock. (inflected form of unlock)"
+    },
+    {
+      "word": "unlocking",
+      "reason": "construes material doing releasing a lock. (inflected form of unlock)"
+    },
+    {
+      "word": "unlocked",
+      "reason": "construes material doing releasing a lock. (inflected form of unlock)"
+    },
+    {
+      "word": "walk",
+      "reason": "construes material self-motion on foot."
+    },
+    {
+      "word": "walks",
+      "reason": "construes material self-motion on foot. (inflected form of walk)"
+    },
+    {
+      "word": "walking",
+      "reason": "construes material self-motion on foot. (inflected form of walk)"
+    },
+    {
+      "word": "walked",
+      "reason": "construes material self-motion on foot. (inflected form of walk)"
+    },
+    {
+      "word": "run",
+      "reason": "construes rapid material self-motion."
+    },
+    {
+      "word": "runs",
+      "reason": "construes rapid material self-motion. (inflected form of run)"
+    },
+    {
+      "word": "running",
+      "reason": "construes rapid material self-motion. (inflected form of run)"
+    },
+    {
+      "word": "ran",
+      "reason": "construes rapid material self-motion. (inflected form of run)"
+    },
+    {
+      "word": "jump",
+      "reason": "construes material self-motion vertically."
+    },
+    {
+      "word": "jumps",
+      "reason": "construes material self-motion vertically. (inflected form of jump)"
+    },
+    {
+      "word": "jumping",
+      "reason": "construes material self-motion vertically. (inflected form of jump)"
+    },
+    {
+      "word": "jumped",
+      "reason": "construes material self-motion vertically. (inflected form of jump)"
+    },
+    {
+      "word": "swim",
+      "reason": "construes material self-motion in water."
+    },
+    {
+      "word": "swims",
+      "reason": "construes material self-motion in water. (inflected form of swim)"
+    },
+    {
+      "word": "swimming",
+      "reason": "construes material self-motion in water. (inflected form of swim)"
+    },
+    {
+      "word": "swam",
+      "reason": "construes material self-motion in water. (inflected form of swim)"
+    },
+    {
+      "word": "swum",
+      "reason": "construes material self-motion in water. (inflected form of swim)"
+    },
+    {
+      "word": "fly",
+      "reason": "construes material self-motion through air."
+    },
+    {
+      "word": "flies",
+      "reason": "construes material self-motion through air. (inflected form of fly)"
+    },
+    {
+      "word": "flying",
+      "reason": "construes material self-motion through air. (inflected form of fly)"
+    },
+    {
+      "word": "flew",
+      "reason": "construes material self-motion through air. (inflected form of fly)"
+    },
+    {
+      "word": "flown",
+      "reason": "construes material self-motion through air. (inflected form of fly)"
+    },
+    {
+      "word": "drive",
+      "reason": "construes material self-motion in a vehicle."
+    },
+    {
+      "word": "drives",
+      "reason": "construes material self-motion in a vehicle. (inflected form of drive)"
+    },
+    {
+      "word": "driving",
+      "reason": "construes material self-motion in a vehicle. (inflected form of drive)"
+    },
+    {
+      "word": "drove",
+      "reason": "construes material self-motion in a vehicle. (inflected form of drive)"
+    },
+    {
+      "word": "driven",
+      "reason": "construes material self-motion in a vehicle. (inflected form of drive)"
+    },
+    {
+      "word": "ride",
+      "reason": "construes material self-motion mounted on something."
+    },
+    {
+      "word": "rides",
+      "reason": "construes material self-motion mounted on something. (inflected form of ride)"
+    },
+    {
+      "word": "riding",
+      "reason": "construes material self-motion mounted on something. (inflected form of ride)"
+    },
+    {
+      "word": "rode",
+      "reason": "construes material self-motion mounted on something. (inflected form of ride)"
+    },
+    {
+      "word": "ridden",
+      "reason": "construes material self-motion mounted on something. (inflected form of ride)"
+    },
+    {
+      "word": "travel",
+      "reason": "construes material change-of-location over distance."
+    },
+    {
+      "word": "travels",
+      "reason": "construes material change-of-location over distance. (inflected form of travel)"
+    },
+    {
+      "word": "traveling",
+      "reason": "construes material change-of-location over distance. (inflected form of travel)"
+    },
+    {
+      "word": "traveled",
+      "reason": "construes material change-of-location over distance. (inflected form of travel)"
+    },
+    {
+      "word": "move",
+      "reason": "construes material change-of-location."
+    },
+    {
+      "word": "moves",
+      "reason": "construes material change-of-location. (inflected form of move)"
+    },
+    {
+      "word": "moving",
+      "reason": "construes material change-of-location. (inflected form of move)"
+    },
+    {
+      "word": "moved",
+      "reason": "construes material change-of-location. (inflected form of move)"
+    },
+    {
+      "word": "send",
+      "reason": "construes material doing transferring a Goal to a destination."
+    },
+    {
+      "word": "sends",
+      "reason": "construes material doing transferring a Goal to a destination. (inflected form of send)"
+    },
+    {
+      "word": "sending",
+      "reason": "construes material doing transferring a Goal to a destination. (inflected form of send)"
+    },
+    {
+      "word": "sent",
+      "reason": "construes material doing transferring a Goal to a destination. (inflected form of send)"
+    },
+    {
+      "word": "receive",
+      "reason": "construes material doing accepting a transferred Goal."
+    },
+    {
+      "word": "receives",
+      "reason": "construes material doing accepting a transferred Goal. (inflected form of receive)"
+    },
+    {
+      "word": "receiving",
+      "reason": "construes material doing accepting a transferred Goal. (inflected form of receive)"
+    },
+    {
+      "word": "received",
+      "reason": "construes material doing accepting a transferred Goal. (inflected form of receive)"
+    },
+    {
+      "word": "give",
+      "reason": "construes material transfer of a Goal to a Recipient."
+    },
+    {
+      "word": "gives",
+      "reason": "construes material transfer of a Goal to a Recipient. (inflected form of give)"
+    },
+    {
+      "word": "giving",
+      "reason": "construes material transfer of a Goal to a Recipient. (inflected form of give)"
+    },
+    {
+      "word": "gave",
+      "reason": "construes material transfer of a Goal to a Recipient. (inflected form of give)"
+    },
+    {
+      "word": "given",
+      "reason": "construes material transfer of a Goal to a Recipient. (inflected form of give)"
+    },
+    {
+      "word": "take",
+      "reason": "construes material acquisition of a Goal."
+    },
+    {
+      "word": "takes",
+      "reason": "construes material acquisition of a Goal. (inflected form of take)"
+    },
+    {
+      "word": "taking",
+      "reason": "construes material acquisition of a Goal. (inflected form of take)"
+    },
+    {
+      "word": "took",
+      "reason": "construes material acquisition of a Goal. (inflected form of take)"
+    },
+    {
+      "word": "taken",
+      "reason": "construes material acquisition of a Goal. (inflected form of take)"
+    },
+    {
+      "word": "buy",
+      "reason": "construes material doing of acquisition by purchase."
+    },
+    {
+      "word": "buys",
+      "reason": "construes material doing of acquisition by purchase. (inflected form of buy)"
+    },
+    {
+      "word": "buying",
+      "reason": "construes material doing of acquisition by purchase. (inflected form of buy)"
+    },
+    {
+      "word": "bought",
+      "reason": "construes material doing of acquisition by purchase. (inflected form of buy)"
+    },
+    {
+      "word": "sell",
+      "reason": "construes material doing of transfer by sale."
+    },
+    {
+      "word": "sells",
+      "reason": "construes material doing of transfer by sale. (inflected form of sell)"
+    },
+    {
+      "word": "selling",
+      "reason": "construes material doing of transfer by sale. (inflected form of sell)"
+    },
+    {
+      "word": "sold",
+      "reason": "construes material doing of transfer by sale. (inflected form of sell)"
+    },
+    {
+      "word": "eat",
+      "reason": "construes material doing of ingestion."
+    },
+    {
+      "word": "eats",
+      "reason": "construes material doing of ingestion. (inflected form of eat)"
+    },
+    {
+      "word": "eating",
+      "reason": "construes material doing of ingestion. (inflected form of eat)"
+    },
+    {
+      "word": "ate",
+      "reason": "construes material doing of ingestion. (inflected form of eat)"
+    },
+    {
+      "word": "eaten",
+      "reason": "construes material doing of ingestion. (inflected form of eat)"
+    },
+    {
+      "word": "drink",
+      "reason": "construes material doing of ingestion of liquid."
+    },
+    {
+      "word": "drinks",
+      "reason": "construes material doing of ingestion of liquid. (inflected form of drink)"
+    },
+    {
+      "word": "drinking",
+      "reason": "construes material doing of ingestion of liquid. (inflected form of drink)"
+    },
+    {
+      "word": "drank",
+      "reason": "construes material doing of ingestion of liquid. (inflected form of drink)"
+    },
+    {
+      "word": "drunk",
+      "reason": "construes material doing of ingestion of liquid. (inflected form of drink)"
+    },
+    {
+      "word": "cook",
+      "reason": "construes material doing of food preparation."
+    },
+    {
+      "word": "cooks",
+      "reason": "construes material doing of food preparation. (inflected form of cook)"
+    },
+    {
+      "word": "cooking",
+      "reason": "construes material doing of food preparation. (inflected form of cook)"
+    },
+    {
+      "word": "cooked",
+      "reason": "construes material doing of food preparation. (inflected form of cook)"
+    },
+    {
+      "word": "wash",
+      "reason": "construes material doing of cleansing."
+    },
+    {
+      "word": "washes",
+      "reason": "construes material doing of cleansing. (inflected form of wash)"
+    },
+    {
+      "word": "washing",
+      "reason": "construes material doing of cleansing. (inflected form of wash)"
+    },
+    {
+      "word": "washed",
+      "reason": "construes material doing of cleansing. (inflected form of wash)"
+    },
+    {
+      "word": "clean",
+      "reason": "construes material doing of cleansing."
+    },
+    {
+      "word": "cleans",
+      "reason": "construes material doing of cleansing. (inflected form of clean)"
+    },
+    {
+      "word": "cleaning",
+      "reason": "construes material doing of cleansing. (inflected form of clean)"
+    },
+    {
+      "word": "cleaned",
+      "reason": "construes material doing of cleansing. (inflected form of clean)"
+    },
+    {
+      "word": "paint",
+      "reason": "construes material doing of applying paint."
+    },
+    {
+      "word": "paints",
+      "reason": "construes material doing of applying paint. (inflected form of paint)"
+    },
+    {
+      "word": "painting",
+      "reason": "construes material doing of applying paint. (inflected form of paint)"
+    },
+    {
+      "word": "painted",
+      "reason": "construes material doing of applying paint. (inflected form of paint)"
+    },
+    {
+      "word": "write",
+      "reason": "construes material doing of inscribing (material use, not verbal projection)."
+    },
+    {
+      "word": "writes",
+      "reason": "construes material doing of inscribing (material use, not verbal projection). (inflected form of write)"
+    },
+    {
+      "word": "writing",
+      "reason": "construes material doing of inscribing (material use, not verbal projection). (inflected form of write)"
+    },
+    {
+      "word": "wrote",
+      "reason": "construes material doing of inscribing (material use, not verbal projection). (inflected form of write)"
+    },
+    {
+      "word": "written",
+      "reason": "construes material doing of inscribing (material use, not verbal projection). (inflected form of write)"
+    },
+    {
+      "word": "read",
+      "reason": "construes material-cognitive doing of decoding text (material use)."
+    },
+    {
+      "word": "reads",
+      "reason": "construes material-cognitive doing of decoding text (material use). (inflected form of read)"
+    },
+    {
+      "word": "reading",
+      "reason": "construes material-cognitive doing of decoding text (material use). (inflected form of read)"
+    },
+    {
+      "word": "happen",
+      "reason": "construes a happening with no Actor explicit."
+    },
+    {
+      "word": "happens",
+      "reason": "construes a happening with no Actor explicit. (inflected form of happen)"
+    },
+    {
+      "word": "happening",
+      "reason": "construes a happening with no Actor explicit. (inflected form of happen)"
+    },
+    {
+      "word": "happened",
+      "reason": "construes a happening with no Actor explicit. (inflected form of happen)"
+    },
+    {
+      "word": "occur",
+      "reason": "construes a happening event."
+    },
+    {
+      "word": "occurs",
+      "reason": "construes a happening event. (inflected form of occur)"
+    },
+    {
+      "word": "occurring",
+      "reason": "construes a happening event. (inflected form of occur)"
+    },
+    {
+      "word": "occurred",
+      "reason": "construes a happening event. (inflected form of occur)"
+    },
+    {
+      "word": "emerge",
+      "reason": "construes a happening of coming into view."
+    },
+    {
+      "word": "emerges",
+      "reason": "construes a happening of coming into view. (inflected form of emerge)"
+    },
+    {
+      "word": "emerging",
+      "reason": "construes a happening of coming into view. (inflected form of emerge)"
+    },
+    {
+      "word": "emerged",
+      "reason": "construes a happening of coming into view. (inflected form of emerge)"
+    },
+    {
+      "word": "arise",
+      "reason": "construes a happening of coming into being."
+    },
+    {
+      "word": "arises",
+      "reason": "construes a happening of coming into being. (inflected form of arise)"
+    },
+    {
+      "word": "arising",
+      "reason": "construes a happening of coming into being. (inflected form of arise)"
+    },
+    {
+      "word": "arose",
+      "reason": "construes a happening of coming into being. (inflected form of arise)"
+    },
+    {
+      "word": "arisen",
+      "reason": "construes a happening of coming into being. (inflected form of arise)"
+    },
+    {
+      "word": "develop",
+      "reason": "construes abstract material change-of-state of progressive formation."
+    },
+    {
+      "word": "develops",
+      "reason": "construes abstract material change-of-state of progressive formation. (inflected form of develop)"
+    },
+    {
+      "word": "developing",
+      "reason": "construes abstract material change-of-state of progressive formation. (inflected form of develop)"
+    },
+    {
+      "word": "developed",
+      "reason": "construes abstract material change-of-state of progressive formation. (inflected form of develop)"
+    },
+    {
+      "word": "change",
+      "reason": "construes general material change-of-state."
+    },
+    {
+      "word": "changes",
+      "reason": "construes general material change-of-state. (inflected form of change)"
+    },
+    {
+      "word": "changing",
+      "reason": "construes general material change-of-state. (inflected form of change)"
+    },
+    {
+      "word": "changed",
+      "reason": "construes general material change-of-state. (inflected form of change)"
+    },
+    {
+      "word": "alter",
+      "reason": "construes material modification of a Goal."
+    },
+    {
+      "word": "alters",
+      "reason": "construes material modification of a Goal. (inflected form of alter)"
+    },
+    {
+      "word": "altering",
+      "reason": "construes material modification of a Goal. (inflected form of alter)"
+    },
+    {
+      "word": "altered",
+      "reason": "construes material modification of a Goal. (inflected form of alter)"
+    },
+    {
+      "word": "transform",
+      "reason": "construes material thoroughgoing change-of-state."
+    },
+    {
+      "word": "transforms",
+      "reason": "construes material thoroughgoing change-of-state. (inflected form of transform)"
+    },
+    {
+      "word": "transforming",
+      "reason": "construes material thoroughgoing change-of-state. (inflected form of transform)"
+    },
+    {
+      "word": "transformed",
+      "reason": "construes material thoroughgoing change-of-state. (inflected form of transform)"
+    },
+    {
+      "word": "convert",
+      "reason": "construes material change-of-state from one form to another."
+    },
+    {
+      "word": "converts",
+      "reason": "construes material change-of-state from one form to another. (inflected form of convert)"
+    },
+    {
+      "word": "converting",
+      "reason": "construes material change-of-state from one form to another. (inflected form of convert)"
+    },
+    {
+      "word": "converted",
+      "reason": "construes material change-of-state from one form to another. (inflected form of convert)"
+    },
+    {
+      "word": "improve",
+      "reason": "construes abstract material change-of-state for the better."
+    },
+    {
+      "word": "improves",
+      "reason": "construes abstract material change-of-state for the better. (inflected form of improve)"
+    },
+    {
+      "word": "improving",
+      "reason": "construes abstract material change-of-state for the better. (inflected form of improve)"
+    },
+    {
+      "word": "improved",
+      "reason": "construes abstract material change-of-state for the better. (inflected form of improve)"
+    },
+    {
+      "word": "worsen",
+      "reason": "construes abstract material change-of-state for the worse."
+    },
+    {
+      "word": "worsens",
+      "reason": "construes abstract material change-of-state for the worse. (inflected form of worsen)"
+    },
+    {
+      "word": "worsening",
+      "reason": "construes abstract material change-of-state for the worse. (inflected form of worsen)"
+    },
+    {
+      "word": "worsened",
+      "reason": "construes abstract material change-of-state for the worse. (inflected form of worsen)"
+    },
+    {
+      "word": "damage",
+      "reason": "construes material doing impairing a Goal."
+    },
+    {
+      "word": "damages",
+      "reason": "construes material doing impairing a Goal. (inflected form of damage)"
+    },
+    {
+      "word": "damaging",
+      "reason": "construes material doing impairing a Goal. (inflected form of damage)"
+    },
+    {
+      "word": "damaged",
+      "reason": "construes material doing impairing a Goal. (inflected form of damage)"
+    },
+    {
+      "word": "repair",
+      "reason": "construes material doing restoring a Goal."
+    },
+    {
+      "word": "repairs",
+      "reason": "construes material doing restoring a Goal. (inflected form of repair)"
+    },
+    {
+      "word": "repairing",
+      "reason": "construes material doing restoring a Goal. (inflected form of repair)"
+    },
+    {
+      "word": "repaired",
+      "reason": "construes material doing restoring a Goal. (inflected form of repair)"
+    },
+    {
+      "word": "fix",
+      "reason": "construes material doing restoring a Goal."
+    },
+    {
+      "word": "fixes",
+      "reason": "construes material doing restoring a Goal. (inflected form of fix)"
+    },
+    {
+      "word": "fixing",
+      "reason": "construes material doing restoring a Goal. (inflected form of fix)"
+    },
+    {
+      "word": "fixed",
+      "reason": "construes material doing restoring a Goal. (inflected form of fix)"
+    },
+    {
+      "word": "kill",
+      "reason": "construes material doing terminating life of a Goal."
+    },
+    {
+      "word": "kills",
+      "reason": "construes material doing terminating life of a Goal. (inflected form of kill)"
+    },
+    {
+      "word": "killing",
+      "reason": "construes material doing terminating life of a Goal. (inflected form of kill)"
+    },
+    {
+      "word": "killed",
+      "reason": "construes material doing terminating life of a Goal. (inflected form of kill)"
+    },
+    {
+      "word": "die",
+      "reason": "construes material change-of-state from living to dead."
+    },
+    {
+      "word": "dies",
+      "reason": "construes material change-of-state from living to dead. (inflected form of die)"
+    },
+    {
+      "word": "dying",
+      "reason": "construes material change-of-state from living to dead. (inflected form of die)"
+    },
+    {
+      "word": "died",
+      "reason": "construes material change-of-state from living to dead. (inflected form of die)"
+    },
+    {
+      "word": "collapse",
+      "reason": "construes material structural failure event."
+    },
+    {
+      "word": "collapses",
+      "reason": "construes material structural failure event. (inflected form of collapse)"
+    },
+    {
+      "word": "collapsing",
+      "reason": "construes material structural failure event. (inflected form of collapse)"
+    },
+    {
+      "word": "collapsed",
+      "reason": "construes material structural failure event. (inflected form of collapse)"
+    },
+    {
+      "word": "explode",
+      "reason": "construes material event of violent expansion."
+    },
+    {
+      "word": "explodes",
+      "reason": "construes material event of violent expansion. (inflected form of explode)"
+    },
+    {
+      "word": "exploding",
+      "reason": "construes material event of violent expansion. (inflected form of explode)"
+    },
+    {
+      "word": "exploded",
+      "reason": "construes material event of violent expansion. (inflected form of explode)"
+    },
+    {
+      "word": "erupt",
+      "reason": "construes material event of sudden release."
+    },
+    {
+      "word": "erupts",
+      "reason": "construes material event of sudden release. (inflected form of erupt)"
+    },
+    {
+      "word": "erupting",
+      "reason": "construes material event of sudden release. (inflected form of erupt)"
+    },
+    {
+      "word": "erupted",
+      "reason": "construes material event of sudden release. (inflected form of erupt)"
+    },
+    {
+      "word": "get",
+      "reason": "construes general material acquisition or change-of-state."
+    },
+    {
+      "word": "gets",
+      "reason": "construes general material acquisition or change-of-state. (inflected form of get)"
+    },
+    {
+      "word": "getting",
+      "reason": "construes general material acquisition or change-of-state. (inflected form of get)"
+    },
+    {
+      "word": "got",
+      "reason": "construes general material acquisition or change-of-state. (inflected form of get)"
+    },
+    {
+      "word": "gotten",
+      "reason": "construes general material acquisition or change-of-state. (inflected form of get)"
+    },
+    {
+      "word": "do",
+      "reason": "construes general material doing performed by an Actor."
+    },
+    {
+      "word": "does",
+      "reason": "construes general material doing performed by an Actor. (inflected form of do)"
+    },
+    {
+      "word": "doing",
+      "reason": "construes general material doing performed by an Actor. (inflected form of do)"
+    },
+    {
+      "word": "did",
+      "reason": "construes general material doing performed by an Actor. (inflected form of do)"
+    },
+    {
+      "word": "done",
+      "reason": "construes general material doing performed by an Actor. (inflected form of do)"
+    },
+    {
+      "word": "put",
+      "reason": "construes material doing placing a Goal at a location."
+    },
+    {
+      "word": "puts",
+      "reason": "construes material doing placing a Goal at a location. (inflected form of put)"
+    },
+    {
+      "word": "putting",
+      "reason": "construes material doing placing a Goal at a location. (inflected form of put)"
+    },
+    {
+      "word": "keep",
+      "reason": "construes material doing of retention by an Actor."
+    },
+    {
+      "word": "keeps",
+      "reason": "construes material doing of retention by an Actor. (inflected form of keep)"
+    },
+    {
+      "word": "keeping",
+      "reason": "construes material doing of retention by an Actor. (inflected form of keep)"
+    },
+    {
+      "word": "kept",
+      "reason": "construes material doing of retention by an Actor. (inflected form of keep)"
+    },
+    {
+      "word": "let",
+      "reason": "construes material doing of release or permission of motion."
+    },
+    {
+      "word": "lets",
+      "reason": "construes material doing of release or permission of motion. (inflected form of let)"
+    },
+    {
+      "word": "letting",
+      "reason": "construes material doing of release or permission of motion. (inflected form of let)"
+    },
+    {
+      "word": "set",
+      "reason": "construes material doing of placement or arrangement."
+    },
+    {
+      "word": "sets",
+      "reason": "construes material doing of placement or arrangement. (inflected form of set)"
+    },
+    {
+      "word": "setting",
+      "reason": "construes material doing of placement or arrangement. (inflected form of set)"
+    },
+    {
+      "word": "use",
+      "reason": "construes material doing of employing a Goal."
+    },
+    {
+      "word": "uses",
+      "reason": "construes material doing of employing a Goal. (inflected form of use)"
+    },
+    {
+      "word": "using",
+      "reason": "construes material doing of employing a Goal. (inflected form of use)"
+    },
+    {
+      "word": "used",
+      "reason": "construes material doing of employing a Goal. (inflected form of use)"
+    },
+    {
+      "word": "lie",
+      "reason": "construes material doing of being in a recumbent position (material use, distinct from the verbal ‘speak falsely’)."
+    },
+    {
+      "word": "lies",
+      "reason": "construes material doing of being in a recumbent position (material use, distinct from the verbal ‘speak falsely’). (inflected form of lie)"
+    },
+    {
+      "word": "lying",
+      "reason": "construes material doing of being in a recumbent position (material use, distinct from the verbal ‘speak falsely’). (inflected form of lie)"
+    },
+    {
+      "word": "lay",
+      "reason": "construes material doing of being in a recumbent position (material use, distinct from the verbal ‘speak falsely’). (inflected form of lie)"
+    },
+    {
+      "word": "lain",
+      "reason": "construes material doing of being in a recumbent position (material use, distinct from the verbal ‘speak falsely’). (inflected form of lie)"
+    },
+    {
+      "word": "bring",
+      "reason": "construes material transfer of a Goal toward a location."
+    },
+    {
+      "word": "brings",
+      "reason": "construes material transfer of a Goal toward a location. (inflected form of bring)"
+    },
+    {
+      "word": "bringing",
+      "reason": "construes material transfer of a Goal toward a location. (inflected form of bring)"
+    },
+    {
+      "word": "brought",
+      "reason": "construes material transfer of a Goal toward a location. (inflected form of bring)"
+    },
+    {
+      "word": "carry",
+      "reason": "construes material transport of a Goal."
+    },
+    {
+      "word": "carries",
+      "reason": "construes material transport of a Goal. (inflected form of carry)"
+    },
+    {
+      "word": "carrying",
+      "reason": "construes material transport of a Goal. (inflected form of carry)"
+    },
+    {
+      "word": "carried",
+      "reason": "construes material transport of a Goal. (inflected form of carry)"
+    },
+    {
+      "word": "draw",
+      "reason": "construes material doing of pulling or extracting a Goal."
+    },
+    {
+      "word": "draws",
+      "reason": "construes material doing of pulling or extracting a Goal. (inflected form of draw)"
+    },
+    {
+      "word": "drawing",
+      "reason": "construes material doing of pulling or extracting a Goal. (inflected form of draw)"
+    },
+    {
+      "word": "drew",
+      "reason": "construes material doing of pulling or extracting a Goal. (inflected form of draw)"
+    },
+    {
+      "word": "drawn",
+      "reason": "construes material doing of pulling or extracting a Goal. (inflected form of draw)"
+    },
+    {
+      "word": "meet",
+      "reason": "construes material doing of coming together with a participant."
+    },
+    {
+      "word": "meets",
+      "reason": "construes material doing of coming together with a participant. (inflected form of meet)"
+    },
+    {
+      "word": "meeting",
+      "reason": "construes material doing of coming together with a participant. (inflected form of meet)"
+    },
+    {
+      "word": "met",
+      "reason": "construes material doing of coming together with a participant. (inflected form of meet)"
+    },
+    {
+      "word": "pay",
+      "reason": "construes material transfer of payment to a Recipient."
+    },
+    {
+      "word": "pays",
+      "reason": "construes material transfer of payment to a Recipient. (inflected form of pay)"
+    },
+    {
+      "word": "paying",
+      "reason": "construes material transfer of payment to a Recipient. (inflected form of pay)"
+    },
+    {
+      "word": "paid",
+      "reason": "construes material transfer of payment to a Recipient. (inflected form of pay)"
+    },
+    {
+      "word": "play",
+      "reason": "construes material doing of recreational activity."
+    },
+    {
+      "word": "plays",
+      "reason": "construes material doing of recreational activity. (inflected form of play)"
+    },
+    {
+      "word": "playing",
+      "reason": "construes material doing of recreational activity. (inflected form of play)"
+    },
+    {
+      "word": "played",
+      "reason": "construes material doing of recreational activity. (inflected form of play)"
+    },
+    {
+      "word": "start",
+      "reason": "construes material initiation of a process."
+    },
+    {
+      "word": "starts",
+      "reason": "construes material initiation of a process. (inflected form of start)"
+    },
+    {
+      "word": "starting",
+      "reason": "construes material initiation of a process. (inflected form of start)"
+    },
+    {
+      "word": "started",
+      "reason": "construes material initiation of a process. (inflected form of start)"
+    },
+    {
+      "word": "stop",
+      "reason": "construes material termination of a process."
+    },
+    {
+      "word": "stops",
+      "reason": "construes material termination of a process. (inflected form of stop)"
+    },
+    {
+      "word": "stopping",
+      "reason": "construes material termination of a process. (inflected form of stop)"
+    },
+    {
+      "word": "stopped",
+      "reason": "construes material termination of a process. (inflected form of stop)"
+    },
+    {
+      "word": "begin",
+      "reason": "construes material initiation of a process."
+    },
+    {
+      "word": "begins",
+      "reason": "construes material initiation of a process. (inflected form of begin)"
+    },
+    {
+      "word": "beginning",
+      "reason": "construes material initiation of a process. (inflected form of begin)"
+    },
+    {
+      "word": "began",
+      "reason": "construes material initiation of a process. (inflected form of begin)"
+    },
+    {
+      "word": "begun",
+      "reason": "construes material initiation of a process. (inflected form of begin)"
+    },
+    {
+      "word": "end",
+      "reason": "construes material termination of a process."
+    },
+    {
+      "word": "ends",
+      "reason": "construes material termination of a process. (inflected form of end)"
+    },
+    {
+      "word": "ending",
+      "reason": "construes material termination of a process. (inflected form of end)"
+    },
+    {
+      "word": "ended",
+      "reason": "construes material termination of a process. (inflected form of end)"
+    },
+    {
+      "word": "continue",
+      "reason": "construes material persistence of a process."
+    },
+    {
+      "word": "continues",
+      "reason": "construes material persistence of a process. (inflected form of continue)"
+    },
+    {
+      "word": "continuing",
+      "reason": "construes material persistence of a process. (inflected form of continue)"
+    },
+    {
+      "word": "continued",
+      "reason": "construes material persistence of a process. (inflected form of continue)"
+    },
+    {
+      "word": "finish",
+      "reason": "construes material completion of a process."
+    },
+    {
+      "word": "finishes",
+      "reason": "construes material completion of a process. (inflected form of finish)"
+    },
+    {
+      "word": "finishing",
+      "reason": "construes material completion of a process. (inflected form of finish)"
+    },
+    {
+      "word": "finished",
+      "reason": "construes material completion of a process. (inflected form of finish)"
+    },
+    {
+      "word": "complete",
+      "reason": "construes material completion of a Goal."
+    },
+    {
+      "word": "completes",
+      "reason": "construes material completion of a Goal. (inflected form of complete)"
+    },
+    {
+      "word": "completing",
+      "reason": "construes material completion of a Goal. (inflected form of complete)"
+    },
+    {
+      "word": "completed",
+      "reason": "construes material completion of a Goal. (inflected form of complete)"
+    },
+    {
+      "word": "lead",
+      "reason": "construes material doing of guiding motion."
+    },
+    {
+      "word": "leads",
+      "reason": "construes material doing of guiding motion. (inflected form of lead)"
+    },
+    {
+      "word": "leading",
+      "reason": "construes material doing of guiding motion. (inflected form of lead)"
+    },
+    {
+      "word": "led",
+      "reason": "construes material doing of guiding motion. (inflected form of lead)"
+    },
+    {
+      "word": "follow",
+      "reason": "construes material motion after another participant."
+    },
+    {
+      "word": "follows",
+      "reason": "construes material motion after another participant. (inflected form of follow)"
+    },
+    {
+      "word": "following",
+      "reason": "construes material motion after another participant. (inflected form of follow)"
+    },
+    {
+      "word": "followed",
+      "reason": "construes material motion after another participant. (inflected form of follow)"
+    },
+    {
+      "word": "pass",
+      "reason": "construes material motion past a reference point."
+    },
+    {
+      "word": "passes",
+      "reason": "construes material motion past a reference point. (inflected form of pass)"
+    },
+    {
+      "word": "passing",
+      "reason": "construes material motion past a reference point. (inflected form of pass)"
+    },
+    {
+      "word": "passed",
+      "reason": "construes material motion past a reference point. (inflected form of pass)"
+    },
+    {
+      "word": "enter",
+      "reason": "construes material motion into a location."
+    },
+    {
+      "word": "enters",
+      "reason": "construes material motion into a location. (inflected form of enter)"
+    },
+    {
+      "word": "entering",
+      "reason": "construes material motion into a location. (inflected form of enter)"
+    },
+    {
+      "word": "entered",
+      "reason": "construes material motion into a location. (inflected form of enter)"
+    },
+    {
+      "word": "leave",
+      "reason": "construes material motion from a location."
+    },
+    {
+      "word": "leaves",
+      "reason": "construes material motion from a location. (inflected form of leave)"
+    },
+    {
+      "word": "leaving",
+      "reason": "construes material motion from a location. (inflected form of leave)"
+    },
+    {
+      "word": "left",
+      "reason": "construes material motion from a location. (inflected form of leave)"
+    },
+    {
+      "word": "arrive",
+      "reason": "construes material reaching of a destination."
+    },
+    {
+      "word": "arrives",
+      "reason": "construes material reaching of a destination. (inflected form of arrive)"
+    },
+    {
+      "word": "arriving",
+      "reason": "construes material reaching of a destination. (inflected form of arrive)"
+    },
+    {
+      "word": "arrived",
+      "reason": "construes material reaching of a destination. (inflected form of arrive)"
+    },
+    {
+      "word": "reach",
+      "reason": "construes material attainment of a location or Goal."
+    },
+    {
+      "word": "reaches",
+      "reason": "construes material attainment of a location or Goal. (inflected form of reach)"
+    },
+    {
+      "word": "reaching",
+      "reason": "construes material attainment of a location or Goal. (inflected form of reach)"
+    },
+    {
+      "word": "reached",
+      "reason": "construes material attainment of a location or Goal. (inflected form of reach)"
+    },
+    {
+      "word": "return",
+      "reason": "construes material motion back to a prior location."
+    },
+    {
+      "word": "returns",
+      "reason": "construes material motion back to a prior location. (inflected form of return)"
+    },
+    {
+      "word": "returning",
+      "reason": "construes material motion back to a prior location. (inflected form of return)"
+    },
+    {
+      "word": "returned",
+      "reason": "construes material motion back to a prior location. (inflected form of return)"
+    },
+    {
+      "word": "climb",
+      "reason": "construes material self-motion upward."
+    },
+    {
+      "word": "climbs",
+      "reason": "construes material self-motion upward. (inflected form of climb)"
+    },
+    {
+      "word": "climbing",
+      "reason": "construes material self-motion upward. (inflected form of climb)"
+    },
+    {
+      "word": "climbed",
+      "reason": "construes material self-motion upward. (inflected form of climb)"
+    },
+    {
+      "word": "step",
+      "reason": "construes material self-motion by foot."
+    },
+    {
+      "word": "steps",
+      "reason": "construes material self-motion by foot. (inflected form of step)"
+    },
+    {
+      "word": "stepping",
+      "reason": "construes material self-motion by foot. (inflected form of step)"
+    },
+    {
+      "word": "stepped",
+      "reason": "construes material self-motion by foot. (inflected form of step)"
+    },
+    {
+      "word": "work",
+      "reason": "construes material doing of sustained activity."
+    },
+    {
+      "word": "works",
+      "reason": "construes material doing of sustained activity. (inflected form of work)"
+    },
+    {
+      "word": "working",
+      "reason": "construes material doing of sustained activity. (inflected form of work)"
+    },
+    {
+      "word": "worked",
+      "reason": "construes material doing of sustained activity. (inflected form of work)"
+    },
+    {
+      "word": "serve",
+      "reason": "construes material doing of providing to a Recipient."
+    },
+    {
+      "word": "serves",
+      "reason": "construes material doing of providing to a Recipient. (inflected form of serve)"
+    },
+    {
+      "word": "serving",
+      "reason": "construes material doing of providing to a Recipient. (inflected form of serve)"
+    },
+    {
+      "word": "served",
+      "reason": "construes material doing of providing to a Recipient. (inflected form of serve)"
+    },
+    {
+      "word": "win",
+      "reason": "construes material achievement of victory."
+    },
+    {
+      "word": "wins",
+      "reason": "construes material achievement of victory. (inflected form of win)"
+    },
+    {
+      "word": "winning",
+      "reason": "construes material achievement of victory. (inflected form of win)"
+    },
+    {
+      "word": "won",
+      "reason": "construes material achievement of victory. (inflected form of win)"
+    },
+    {
+      "word": "save",
+      "reason": "construes material doing of preserving a Goal."
+    },
+    {
+      "word": "saves",
+      "reason": "construes material doing of preserving a Goal. (inflected form of save)"
+    },
+    {
+      "word": "saving",
+      "reason": "construes material doing of preserving a Goal. (inflected form of save)"
+    },
+    {
+      "word": "saved",
+      "reason": "construes material doing of preserving a Goal. (inflected form of save)"
+    },
+    {
+      "word": "spend",
+      "reason": "construes material expenditure of a Goal."
+    },
+    {
+      "word": "spends",
+      "reason": "construes material expenditure of a Goal. (inflected form of spend)"
+    },
+    {
+      "word": "spending",
+      "reason": "construes material expenditure of a Goal. (inflected form of spend)"
+    },
+    {
+      "word": "spent",
+      "reason": "construes material expenditure of a Goal. (inflected form of spend)"
+    },
+    {
+      "word": "earn",
+      "reason": "construes material acquisition through activity."
+    },
+    {
+      "word": "earns",
+      "reason": "construes material acquisition through activity. (inflected form of earn)"
+    },
+    {
+      "word": "earning",
+      "reason": "construes material acquisition through activity. (inflected form of earn)"
+    },
+    {
+      "word": "earned",
+      "reason": "construes material acquisition through activity. (inflected form of earn)"
+    },
+    {
+      "word": "fill",
+      "reason": "construes material doing of placing contents into a Goal."
+    },
+    {
+      "word": "fills",
+      "reason": "construes material doing of placing contents into a Goal. (inflected form of fill)"
+    },
+    {
+      "word": "filling",
+      "reason": "construes material doing of placing contents into a Goal. (inflected form of fill)"
+    },
+    {
+      "word": "filled",
+      "reason": "construes material doing of placing contents into a Goal. (inflected form of fill)"
+    },
+    {
+      "word": "gather",
+      "reason": "construes material doing of bringing items together."
+    },
+    {
+      "word": "gathers",
+      "reason": "construes material doing of bringing items together. (inflected form of gather)"
+    },
+    {
+      "word": "gathering",
+      "reason": "construes material doing of bringing items together. (inflected form of gather)"
+    },
+    {
+      "word": "gathered",
+      "reason": "construes material doing of bringing items together. (inflected form of gather)"
+    },
+    {
+      "word": "collect",
+      "reason": "construes material doing of accumulating items."
+    },
+    {
+      "word": "collects",
+      "reason": "construes material doing of accumulating items. (inflected form of collect)"
+    },
+    {
+      "word": "collecting",
+      "reason": "construes material doing of accumulating items. (inflected form of collect)"
+    },
+    {
+      "word": "collected",
+      "reason": "construes material doing of accumulating items. (inflected form of collect)"
+    },
+    {
+      "word": "raise",
+      "reason": "construes material doing of moving a Goal upward."
+    },
+    {
+      "word": "raises",
+      "reason": "construes material doing of moving a Goal upward. (inflected form of raise)"
+    },
+    {
+      "word": "raising",
+      "reason": "construes material doing of moving a Goal upward. (inflected form of raise)"
+    },
+    {
+      "word": "raised",
+      "reason": "construes material doing of moving a Goal upward. (inflected form of raise)"
+    },
+    {
+      "word": "lower",
+      "reason": "construes material doing of moving a Goal downward."
+    },
+    {
+      "word": "lowers",
+      "reason": "construes material doing of moving a Goal downward. (inflected form of lower)"
+    },
+    {
+      "word": "lowering",
+      "reason": "construes material doing of moving a Goal downward. (inflected form of lower)"
+    },
+    {
+      "word": "lowered",
+      "reason": "construes material doing of moving a Goal downward. (inflected form of lower)"
+    },
+    {
+      "word": "press",
+      "reason": "construes material doing of applying pressure to a Goal."
+    },
+    {
+      "word": "presses",
+      "reason": "construes material doing of applying pressure to a Goal. (inflected form of press)"
+    },
+    {
+      "word": "pressing",
+      "reason": "construes material doing of applying pressure to a Goal. (inflected form of press)"
+    },
+    {
+      "word": "pressed",
+      "reason": "construes material doing of applying pressure to a Goal. (inflected form of press)"
+    },
+    {
+      "word": "squeeze",
+      "reason": "construes material doing of compressive force on a Goal."
+    },
+    {
+      "word": "squeezes",
+      "reason": "construes material doing of compressive force on a Goal. (inflected form of squeeze)"
+    },
+    {
+      "word": "squeezing",
+      "reason": "construes material doing of compressive force on a Goal. (inflected form of squeeze)"
+    },
+    {
+      "word": "squeezed",
+      "reason": "construes material doing of compressive force on a Goal. (inflected form of squeeze)"
+    },
+    {
+      "word": "bite",
+      "reason": "construes material doing of cutting with teeth."
+    },
+    {
+      "word": "bites",
+      "reason": "construes material doing of cutting with teeth. (inflected form of bite)"
+    },
+    {
+      "word": "biting",
+      "reason": "construes material doing of cutting with teeth. (inflected form of bite)"
+    },
+    {
+      "word": "bit",
+      "reason": "construes material doing of cutting with teeth. (inflected form of bite)"
+    },
+    {
+      "word": "bitten",
+      "reason": "construes material doing of cutting with teeth. (inflected form of bite)"
+    },
+    {
+      "word": "chew",
+      "reason": "construes material doing of repeated mastication."
+    },
+    {
+      "word": "chews",
+      "reason": "construes material doing of repeated mastication. (inflected form of chew)"
+    },
+    {
+      "word": "chewing",
+      "reason": "construes material doing of repeated mastication. (inflected form of chew)"
+    },
+    {
+      "word": "chewed",
+      "reason": "construes material doing of repeated mastication. (inflected form of chew)"
+    },
+    {
+      "word": "swallow",
+      "reason": "construes material doing of passing a Goal down the throat."
+    },
+    {
+      "word": "swallows",
+      "reason": "construes material doing of passing a Goal down the throat. (inflected form of swallow)"
+    },
+    {
+      "word": "swallowing",
+      "reason": "construes material doing of passing a Goal down the throat. (inflected form of swallow)"
+    },
+    {
+      "word": "swallowed",
+      "reason": "construes material doing of passing a Goal down the throat. (inflected form of swallow)"
+    },
+    {
+      "word": "slice",
+      "reason": "construes material doing of cutting into thin sections."
+    },
+    {
+      "word": "slices",
+      "reason": "construes material doing of cutting into thin sections. (inflected form of slice)"
+    },
+    {
+      "word": "slicing",
+      "reason": "construes material doing of cutting into thin sections. (inflected form of slice)"
+    },
+    {
+      "word": "sliced",
+      "reason": "construes material doing of cutting into thin sections. (inflected form of slice)"
+    },
+    {
+      "word": "chop",
+      "reason": "construes material doing of cutting into pieces."
+    },
+    {
+      "word": "chops",
+      "reason": "construes material doing of cutting into pieces. (inflected form of chop)"
+    },
+    {
+      "word": "chopping",
+      "reason": "construes material doing of cutting into pieces. (inflected form of chop)"
+    },
+    {
+      "word": "chopped",
+      "reason": "construes material doing of cutting into pieces. (inflected form of chop)"
+    },
+    {
+      "word": "bake",
+      "reason": "construes material doing of cooking by dry heat."
+    },
+    {
+      "word": "bakes",
+      "reason": "construes material doing of cooking by dry heat. (inflected form of bake)"
+    },
+    {
+      "word": "baking",
+      "reason": "construes material doing of cooking by dry heat. (inflected form of bake)"
+    },
+    {
+      "word": "baked",
+      "reason": "construes material doing of cooking by dry heat. (inflected form of bake)"
+    },
+    {
+      "word": "fry",
+      "reason": "construes material doing of cooking in fat."
+    },
+    {
+      "word": "fries",
+      "reason": "construes material doing of cooking in fat. (inflected form of fry)"
+    },
+    {
+      "word": "frying",
+      "reason": "construes material doing of cooking in fat. (inflected form of fry)"
+    },
+    {
+      "word": "fried",
+      "reason": "construes material doing of cooking in fat. (inflected form of fry)"
+    },
+    {
+      "word": "drag",
+      "reason": "construes material doing of pulling a Goal along a surface."
+    },
+    {
+      "word": "drags",
+      "reason": "construes material doing of pulling a Goal along a surface. (inflected form of drag)"
+    },
+    {
+      "word": "dragging",
+      "reason": "construes material doing of pulling a Goal along a surface. (inflected form of drag)"
+    },
+    {
+      "word": "dragged",
+      "reason": "construes material doing of pulling a Goal along a surface. (inflected form of drag)"
+    },
+    {
+      "word": "toss",
+      "reason": "construes material doing of light throwing."
+    },
+    {
+      "word": "tosses",
+      "reason": "construes material doing of light throwing. (inflected form of toss)"
+    },
+    {
+      "word": "tossing",
+      "reason": "construes material doing of light throwing. (inflected form of toss)"
+    },
+    {
+      "word": "tossed",
+      "reason": "construes material doing of light throwing. (inflected form of toss)"
+    }
+  ]
+}
